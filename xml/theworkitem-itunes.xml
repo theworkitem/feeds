@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>The Work Item</title>
+    <link>https://theworkitem.com</link>
+    <language>en-us</language>
+    <copyright>&#169; 2020 Courtny Cotten and Den Delimarsky.</copyright>
+    <itunes:author>Courtny Cotten and Den Delimarsky</itunes:author>
+    <description>
+      A show about products, people and experiences.
+    </description>
+    <itunes:type>serial</itunes:type>
+    <itunes:owner>
+      <itunes:name>Courtny Cotten and Den Delimarsky</itunes:name>
+      <itunes:email>podcast@den.dev</itunes:email>
+    </itunes:owner>
+    <itunes:image
+      href="TO_BE_CHANGED"
+    />
+    <itunes:category text="Technology"/>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <title>S01E01 - Remote Work</title>
+      <description>
+        In this episode, Courtny Cotten and Den Delimarsky talk about what it takes to work remotely, along with some tips and best practices.
+      </description>
+      <enclosure
+        length="107964013" 
+        type="audio/mpeg" 
+        url="https://theworkitemuswest.blob.core.windows.net/audio/the-work-item-S01E01.mp3"
+      />
+      <guid>aae20190606</guid>
+      <pubDate>Sun, 15 Mar 2020 12:00:00 GMT</pubDate>
+      <itunes:duration>3374</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
