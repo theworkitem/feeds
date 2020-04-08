@@ -30,7 +30,7 @@
       <enclosure
         length="107964013" 
         type="audio/mpeg" 
-        url="https://theworkitemuswest.blob.core.windows.net/audio/the-work-item-S01E01.mp3"
+        url="https://theworkitem.s3-us-west-2.amazonaws.com/the-work-item-S01E01.mp3"
       />
       <guid>aae20190606</guid>
       <pubDate>Sun, 15 Mar 2020 12:00:00 GMT</pubDate>
