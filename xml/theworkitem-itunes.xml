@@ -16,7 +16,7 @@
       <itunes:name>Courtny Cotten and Den Delimarsky</itunes:name>
       <itunes:email>podcast@den.dev</itunes:email>
     </itunes:owner>
-    <itunes:image href="TO_BE_CHANGED" />
+    <itunes:image href="https://theworkitem.s3-us-west-2.amazonaws.com/art/work-item-podcast-logo.jpg" />
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
