@@ -47,5 +47,19 @@
       <itunes:duration>1769</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <title>S01E03 - Interview with April Speight</title>
+      <description>
+        In this episode, Courtny Cotten and Den Delimarsky chat with April Speight, Senior Developer Advocate at Microsoft, about social media, writing Python books for kids and more.
+      </description>
+      <enclosure length="122013293" type="audio/mpeg" url="https://theworkitem.s3-us-west-2.amazonaws.com/the-work-item-S01E03.mp3" />
+      <guid>a1d3834c-c351-4d50-866f-7ac7f0901ebc</guid>
+      <pubDate>Sun, 12 Apr 2020 12:00:00 GMT</pubDate>
+      <itunes:duration>3813</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
