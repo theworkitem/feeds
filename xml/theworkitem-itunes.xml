@@ -61,5 +61,19 @@
       <itunes:duration>3813</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <title>S01E04 - Interview with Clint Rutkas</title>
+      <description>
+        In this episode, Courtny Cotten and Den Delimarsky chat with Clint Rutkas about PowerToys - a fantastic set of utilities for Windows power users.
+      </description>
+      <enclosure length="103646495" type="audio/mpeg" url="https://theworkitem.s3-us-west-2.amazonaws.com/the-work-item-S01E04.mp3" />
+      <guid>a00f4164-b8b6-4b99-8070-f4005fc0f646</guid>
+      <pubDate>Sun, 3 May 2020 12:00:00 GMT</pubDate>
+      <itunes:duration>3239</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
