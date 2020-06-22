@@ -75,5 +75,19 @@
       <itunes:duration>3239</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>5</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <title>S01E05 - Interview with Jin Yang</title>
+      <description>
+        A virtual fireside chat with Jin Yang, VP of design at Capital One. We discuss leadership, building great teams, and wrap up the show with food place recommendations.
+      </description>
+      <enclosure length="127290378" type="audio/mpeg" url="https://theworkitem.s3-us-west-2.amazonaws.com/the-work-item-S01E05.mp3" />
+      <guid>f8198fa9-367a-4dec-8024-7d74a0da9d69</guid>
+      <pubDate>Sun, 21 Jun 2020 12:00:00 GMT</pubDate>
+      <itunes:duration>3978</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
