@@ -89,5 +89,19 @@
       <itunes:duration>4002</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>6</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <title>S01E06 - Interview with Matt Swanson</title>
+      <description>
+        Today, we had the honor of having an in-depth conversation with Matt Swanson, a software engineer at SEP, on engineering best practices, design systems, and managing complexity.
+      </description>
+      <enclosure length="129048382" type="audio/mpeg" url="https://theworkitem.s3-us-west-2.amazonaws.com/the-work-item-S01E06.mp3" />
+      <guid>b2649232-e74e-4846-aa1c-70a88a4b183c</guid>
+      <pubDate>Sun, 28 Jun 2020 12:00:00 GMT</pubDate>
+      <itunes:duration>4033</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
