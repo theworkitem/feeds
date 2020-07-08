@@ -103,5 +103,20 @@
       <itunes:duration>4033</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>7</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <title>S01E07 - Interview with Dan Fernandez</title>
+      <description>
+        In this episode of The Work Item, we interview Dan Fernandez, VP of Product for Developer Services at Salesforce. Dan, a tech veteran, talks about product management, skill stacking, and building great developer experiences.
+      </description>
+      <enclosure length="114461607" type="audio/mpeg" url="https://theworkitem.s3-us-west-2.amazonaws.com/the-work-item-S01E07.mp3" />
+      <guid>1aad2877-6417-4b30-9e34-005d52289578</guid>
+      <pubDate>Sun, 5 Jul 2020 12:00:00 GMT</pubDate>
+      <itunes:duration>3577</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
