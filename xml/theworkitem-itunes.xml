@@ -16,7 +16,7 @@
       <itunes:name>Courtny Cotten and Den Delimarsky</itunes:name>
       <itunes:email>podcast@den.dev</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://theworkitem.s3-us-west-2.amazonaws.com/art/work-item-podcast-logo.jpg" />
+    <itunes:image href="https://cdn.theworkitem.com/art/work-item-podcast-logo.jpg" />
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
@@ -27,7 +27,7 @@
       <description>
         In this episode, Courtny Cotten and Den Delimarsky talk about what it takes to work remotely, along with some tips and best practices.
       </description>
-      <enclosure length="107964013" type="audio/mpeg" url="https://theworkitem.s3-us-west-2.amazonaws.com/the-work-item-S01E01.mp3" />
+      <enclosure length="107964013" type="audio/mpeg" url="https://cdn.theworkitem.com/the-work-item-S01E01.mp3" />
       <guid>7f035dd4-0dee-42b6-9039-926e604a37a0</guid>
       <pubDate>Sun, 15 Mar 2020 12:00:00 GMT</pubDate>
       <itunes:duration>3374</itunes:duration>
@@ -41,7 +41,7 @@
       <description>
         In this episode, Den and Courtny are talking about their career starts.
       </description>
-      <enclosure length="56624415" type="audio/mpeg" url="https://theworkitem.s3-us-west-2.amazonaws.com/the-work-item-S01E02.mp3" />
+      <enclosure length="56624415" type="audio/mpeg" url="https://cdn.theworkitem.com/the-work-item-S01E02.mp3" />
       <guid>e6a87083-cd05-44a0-b71a-b68b2988dbcc</guid>
       <pubDate>Sun, 5 Apr 2020 12:00:00 GMT</pubDate>
       <itunes:duration>1769</itunes:duration>
@@ -55,7 +55,7 @@
       <description>
         In this episode, Courtny Cotten and Den Delimarsky chat with April Speight, Senior Developer Advocate at Microsoft, about social media, writing Python books for kids and more.
       </description>
-      <enclosure length="122013293" type="audio/mpeg" url="https://theworkitem.s3-us-west-2.amazonaws.com/the-work-item-S01E03.mp3" />
+      <enclosure length="122013293" type="audio/mpeg" url="https://cdn.theworkitem.com/the-work-item-S01E03.mp3" />
       <guid>a1d3834c-c351-4d50-866f-7ac7f0901ebc</guid>
       <pubDate>Sun, 12 Apr 2020 12:00:00 GMT</pubDate>
       <itunes:duration>3813</itunes:duration>
@@ -69,7 +69,7 @@
       <description>
         In this episode, Courtny Cotten and Den Delimarsky chat with Clint Rutkas about PowerToys - a fantastic set of utilities for Windows power users.
       </description>
-      <enclosure length="103646495" type="audio/mpeg" url="https://theworkitem.s3-us-west-2.amazonaws.com/the-work-item-S01E04.mp3" />
+      <enclosure length="103646495" type="audio/mpeg" url="https://cdn.theworkitem.com/the-work-item-S01E04.mp3" />
       <guid>a00f4164-b8b6-4b99-8070-f4005fc0f646</guid>
       <pubDate>Sun, 3 May 2020 12:00:00 GMT</pubDate>
       <itunes:duration>3239</itunes:duration>
@@ -83,7 +83,7 @@
       <description>
         A virtual fireside chat with Jin Yang, VP of design at CapitalOne. We discuss leadership, building great teams, and wrap up the show with food place recommendations.
       </description>
-      <enclosure length="128063670" type="audio/mpeg" url="https://theworkitem.s3-us-west-2.amazonaws.com/the-work-item-S01E05.mp3" />
+      <enclosure length="128063670" type="audio/mpeg" url="https://cdn.theworkitem.com/the-work-item-S01E05.mp3" />
       <guid>f8198fa9-367a-4dec-8024-7d74a0da9d69</guid>
       <pubDate>Sun, 21 Jun 2020 12:00:00 GMT</pubDate>
       <itunes:duration>4002</itunes:duration>
@@ -97,7 +97,7 @@
       <description>
         Today, we had the honor of having an in-depth conversation with Matt Swanson, a software engineer at SEP, on engineering best practices, design systems, and managing complexity.
       </description>
-      <enclosure length="129048382" type="audio/mpeg" url="https://theworkitem.s3-us-west-2.amazonaws.com/the-work-item-S01E06.mp3" />
+      <enclosure length="129048382" type="audio/mpeg" url="https://cdn.theworkitem.com/the-work-item-S01E06.mp3" />
       <guid>b2649232-e74e-4846-aa1c-70a88a4b183c</guid>
       <pubDate>Sun, 28 Jun 2020 12:00:00 GMT</pubDate>
       <itunes:duration>4033</itunes:duration>
@@ -111,7 +111,7 @@
       <description>
         In this episode of The Work Item, we interview Dan Fernandez, VP of Product for Developer Services at Salesforce. Dan, a tech veteran, talks about product management, skill stacking, and building great developer experiences.
       </description>
-      <enclosure length="114461607" type="audio/mpeg" url="https://theworkitem.s3-us-west-2.amazonaws.com/the-work-item-S01E07.mp3" />
+      <enclosure length="114461607" type="audio/mpeg" url="https://cdn.theworkitem.com/the-work-item-S01E07.mp3" />
       <guid>1aad2877-6417-4b30-9e34-005d52289578</guid>
       <pubDate>Sun, 5 Jul 2020 12:00:00 GMT</pubDate>
       <itunes:duration>3577</itunes:duration>
