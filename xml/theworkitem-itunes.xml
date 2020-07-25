@@ -117,5 +117,22 @@
       <itunes:duration>3577</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>8</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <title>S01E08 - Interview with Charmaine Lee</title>
+      <description>
+        In this episode of The Work Item, we interview Charmaine Lee, product manager intern at Microsoft, and a friend of the show. Charmaine talks about her experiences breaking into tech, building projects for fun, and being engaged in local tech scenes.
+      </description>
+      <content:encoded>
+        <p>In this episode of The Work Item, we interview <a href="https://charmaineklee.com">Charmaine Lee</a>, product manager intern at Microsoft, and a friend of the show. Charmaine talks about her experiences breaking into tech, building projects for fun, and being engaged in local tech scenes.</p>
+      </content:encoded>
+      <enclosure length="116536356" type="audio/mpeg" url="https://cdn.theworkitem.com/the-work-item-S01E08.mp3" />
+      <guid>a57767ca-6b2e-40dd-9804-39c3684ae416</guid>
+      <pubDate>Sun, 19 Jul 2020 12:00:00 GMT</pubDate>
+      <itunes:duration>3642</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
