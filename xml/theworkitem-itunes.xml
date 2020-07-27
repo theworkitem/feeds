@@ -134,5 +134,22 @@
       <itunes:duration>3642</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>9</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <title>S01E09 - Interview with Philipp Cannons</title>
+      <description>
+        In this episode of The Work Item, we interview Philipp Cannons, CEO and founder of PMFIT.AI - a startup that aims to accelerate product success. Philipp talks about his experience starting a business from scratch and building a deep understanding of large organizations.
+      </description>
+      <content:encoded>
+        <p>In this episode of The Work Item, we interview <a href="https://philippcannons.com">Philipp Cannons</a>, CEO and founder of <a href="https://pmfit.ai">PMFIT.AI</a> - a startup that aims to accelerate product success. Philipp talks about his experience starting a business from scratch and building a deep understanding of large organizations.</p>
+      </content:encoded>
+      <enclosure length="99529597" type="audio/mpeg" url="https://cdn.theworkitem.com/the-work-item-S01E09.mp3" />
+      <guid>80279444-74c9-4e8f-b4f1-ec0373266074</guid>
+      <pubDate>Mon, 20 Jul 2020 12:00:00 GMT</pubDate>
+      <itunes:duration>3111</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
