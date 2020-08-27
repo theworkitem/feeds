@@ -157,15 +157,32 @@
       <itunes:season>1</itunes:season>
       <title>S01E10 - Interview with Sara Chipps</title>
       <description>
-        In this episode of The Work Item, we interview Sara Chipps, Director of Public Q&A at Stack Overflow. Sara is also the founder of JewelBots, a company that provides electronic building kits for young inventors. We chat with Sara about community feedback, engineering management career tracks, and building tools for STEM inclusivity.
+        In this episode of The Work Item, we interview Sara Chipps, Director of Public Q&amp;A at Stack Overflow. Sara is also the founder of JewelBots, a company that provides electronic building kits for young inventors. We chat with Sara about community feedback, engineering management career tracks, and building tools for STEM inclusivity.
       </description>
       <content:encoded>
-        <p>In this episode of The Work Item, we interview Sara Chipps, Director of Public Q&A at <a href="https://stackoverflow.com">Stack Overflow</a>. Sara is also the founder of <a href="https://jewelbots.com">JewelBots</a>, a company that provides electronic building kits for young inventors. We chat with Sara about community feedback, engineering management career tracks, and building tools for STEM inclusivity.</p>
+        <p>In this episode of The Work Item, we interview Sara Chipps, Director of Public Q&amp;A at <a href="https://stackoverflow.com">Stack Overflow</a>. Sara is also the founder of <a href="https://jewelbots.com">JewelBots</a>, a company that provides electronic building kits for young inventors. We chat with Sara about community feedback, engineering management career tracks, and building tools for STEM inclusivity.</p>
       </content:encoded>
       <enclosure length="50609773" type="audio/mpeg" url="https://cdn.theworkitem.com/the-work-item-S01E10.mp3" />
       <guid>0b3bd3bf-e2e3-4a8f-9851-32269d3a5f4e</guid>
       <pubDate>Sun, 09 Aug 2020 12:00:00 GMT</pubDate>
       <itunes:duration>3163</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>11</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <title>S01E11 - Interview with Eric Martel</title>
+      <description>
+        We're back after a week-long hiatus with an interview. This time, we chat with Eric Martel, Director of Artificial Intelligence and Machine Learning at Eidos-Montréal. We re-visit some of the gream games of the past, talk about console development considerations for modern games, and dig into how artificial intelligence and machine learning are going to revolutionize the engineering process.
+      </description>
+      <content:encoded>
+        <p>We're back after a week-long hiatus with an interview. This time, we chat with Eric Martel, Director of Artificial Intelligence and Machine Learning at Eidos-Montréal. We re-visit some of the gream games of the past, talk about console development considerations for modern games, and dig into how artificial intelligence and machine learning are going to revolutionize the engineering process.</p>
+      </content:encoded>
+      <enclosure length="160858112" type="audio/mpeg" url="https://cdn.theworkitem.com/the-work-item-S01E11.mp3" />
+      <guid>fcd76cd9-bb9c-4d44-91e4-e33193183e4c</guid>
+      <pubDate>Sun, 23 Aug 2020 12:00:00 GMT</pubDate>
+      <itunes:duration>4021</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
