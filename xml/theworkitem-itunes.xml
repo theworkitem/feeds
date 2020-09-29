@@ -185,5 +185,39 @@
       <itunes:duration>4021</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>12</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <title>S01E12 - Interview with Christina Weng</title>
+      <description>
+        In this episode of The Work Item we interview Christina Weng, product designer at Facebook, about building a career in user experience design from scratch.
+      </description>
+      <content:encoded>
+        <p>In this episode of The Work Item we interview Christina Weng, product designer at Facebook, about building a career in user experience design from scratch.</p>
+      </content:encoded>
+      <enclosure length="140814769" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S01E12.mp3" />
+      <guid>48d97516-5828-4dbf-97f3-66c659622822</guid>
+      <pubDate>Sun, 20 Sep 2020 12:00:00 GMT</pubDate>
+      <itunes:duration>3521</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>13</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <title>S01E13 - Interview with Amanda Silver</title>
+      <description>
+        In this episode of The Work Item we interview Amanda Silver, Corporate Vice President, Developer Division at Microsoft. We discuss the process of building great developer tools, the human element in product design, and career advice for the long run.
+      </description>
+      <content:encoded>
+        <p>In this episode of The Work Item we interview Amanda Silver, Corporate Vice President, Developer Division at Microsoft. We discuss the process of building great developer tools, the human element in product design, and career advice for the long run.</p>
+      </content:encoded>
+      <enclosure length="145367390" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S01E13.mp3" />
+      <guid>d685f86b-1677-46cb-9d5d-5a0ba4eebfff</guid>
+      <pubDate>Sun, 27 Sep 2020 12:00:00 GMT</pubDate>
+      <itunes:duration>3635</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
