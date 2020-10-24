@@ -219,5 +219,22 @@
       <itunes:duration>3635</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>14</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <title>S01E14- Interview with Richard Lander</title>
+      <description>
+        In this episode of The Work Item we interview Richard Lander, Principal Program Manager on the .NET team at Microsoft. Richard does a deep dive on communication, being a generalist vs. specialist, and growing one's career.
+      </description>
+      <content:encoded>
+        <p>In this episode of The Work Item we interview Richard Lander, Principal Program Manager on the .NET team at Microsoft. Richard does a deep dive on communication, being a generalist vs. specialist, and growing one's career.</p>
+      </content:encoded>
+      <enclosure length="152417874" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S01E14.mp3" />
+      <guid>9ed197e2-f098-4190-b94d-53efb1e90531</guid>
+      <pubDate>Sun, 18 Oct 2020 12:00:00 GMT</pubDate>
+      <itunes:duration>3810</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
