@@ -253,5 +253,22 @@
       <itunes:duration>3077</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>16</itunes:episode>
+      <itunes:season>01</itunes:season>
+      <title>S01E16 - Bill Kenney on Building Brands That Last</title>
+      <description>
+        This weekend, we go outdoors with Bill Kenney, co-founder of Focus Lab, a branding agency that is entirely remote. We talk to Bill about the importance of a good brand and what distinguishes professionals from amateurs in the field.
+      </description>
+      <content:encoded>
+        <p>This weekend, we go outdoors with Bill Kenney, co-founder of Focus Lab, a branding agency that is entirely remote. We talk to Bill about the importance of a good brand and what distinguishes professionals from amateurs in the field.</p>
+      </content:encoded>
+      <enclosure length="150623232" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S01E16.mp3" />
+      <guid>e6205376-5678-48d9-b25c-3d12d7dd13f7</guid>
+      <pubDate>Sun, 08 Nov 2020 12:00:00 GMT</pubDate>
+      <itunes:duration>3765</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
