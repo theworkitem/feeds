@@ -287,5 +287,22 @@
       <itunes:duration>3766</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>18</itunes:episode>
+      <itunes:season>01</itunes:season>
+      <title>S01E18 - Megan Risdal on Building a Career at the Intersection of Data Science and Product Management</title>
+      <description>
+        Right before the Thanksgiving break, we are releasing a fresh new episode with Megan Risdal, Product Lead at Kaggle. Megan took the multi-talented route to the career she has today, and enjoys every bit of it. In this episode, we talk about the importance of being a multi-dimensional professional in a product role, finding the best ways to collect customer feedback, and building communities at scale.
+      </description>
+      <content:encoded>
+        <p>Right before the Thanksgiving break, we are releasing a fresh new episode with Megan Risdal, Product Lead at Kaggle. Megan took the multi-talented route to the career she has today, and enjoys every bit of it. In this episode, we talk about the importance of being a multi-dimensional professional in a product role, finding the best ways to collect customer feedback, and building communities at scale.</p>
+      </content:encoded>
+      <enclosure length="141771776" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S01E18.mp3" />
+      <guid>7618c7c9-1449-495c-aeaa-048c2c2467a9</guid>
+      <pubDate>Sun, 22 Nov 2020 12:00:00 GMT</pubDate>
+      <itunes:duration>3544</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
