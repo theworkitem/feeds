@@ -304,5 +304,22 @@
       <itunes:duration>3544</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>19</itunes:episode>
+      <itunes:season>01</itunes:season>
+      <title>S01E19 - Wrap Up Episode For 2020</title>
+      <description>
+        Den and Courtny reflect on the year we just went through, and discuss our plans for 2021. There is a lot to be thankful for, and we had quite a year kickstarting a new podcast from scratch. This also happens to be the last episode of our Season 1.
+      </description>
+      <content:encoded>
+        <p>Den and Courtny reflect on the year we just went through, and discuss our plans for 2021. There is a lot to be thankful for, and we had quite a year kickstarting a new podcast from scratch. This also happens to be the last episode of our Season 1.</p>
+      </content:encoded>
+      <enclosure length="99464192" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S01E19.mp3" />
+      <guid>80aed162-625b-4426-9b73-3af85cb005fd</guid>
+      <pubDate>Sun, 20 Dec 2020 12:00:00 GMT</pubDate>
+      <itunes:duration>2486</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
