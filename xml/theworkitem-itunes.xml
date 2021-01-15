@@ -321,5 +321,22 @@
       <itunes:duration>2486</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>01</itunes:episode>
+      <itunes:season>02</itunes:season>
+      <title>S02E01 - Scott Hanselman on Intentionality</title>
+      <description>
+        Our first episode of the year is with the one and only Scott Hanselman. We tried to come up with a catchy title, but the entire episode could be summarized in one word - intentionality. We discuss Scott’s foray into TikTok, building your own definition of success, and fostering strong relationships with people around you.
+      </description>
+      <content:encoded>
+        <p>Our first episode of the year is with the one and only Scott Hanselman. We tried to come up with a catchy title, but the entire episode could be summarized in one word - intentionality. We discuss Scott’s foray into TikTok, building your own definition of success, and fostering strong relationships with people around you.</p>
+      </content:encoded>
+      <enclosure length="130298880" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S02E01.mp3" />
+      <guid>b04c5154-b355-4556-8bc1-3b50375b0f69</guid>
+      <pubDate>Sun, 10 Jan 2020 12:00:00 GMT</pubDate>
+      <itunes:duration>3257</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
