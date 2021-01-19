@@ -338,5 +338,22 @@
       <itunes:duration>3257</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>02</itunes:episode>
+      <itunes:season>02</itunes:season>
+      <title>S02E02 - Mayuko Inoue on Building a Content Creator Career Path</title>
+      <description>
+        Mayuko Inoue made a bold step by defying the stereotypical career path of a software engineer, and became a full-time content creator. Her videos on YouTube answer some of the more salient questions that are almost never covered in your typical coding tutorials and overviews. What was behind this career decision and what were the lessons learned? How do you build a healthy community, and develop a good work-life balance? We talk to Mayuko about her personal take on the unique trajectory she's carving, as well as the lessons learned along the way.
+      </description>
+      <content:encoded>
+        <p>Mayuko Inoue made a bold step by defying the stereotypical career path of a software engineer, and became a full-time content creator. Her videos on YouTube answer some of the more salient questions that are almost never covered in your typical coding tutorials and overviews. What was behind this career decision and what were the lessons learned? How do you build a healthy community, and develop a good work-life balance? We talk to Mayuko about her personal take on the unique trajectory she's carving, as well as the lessons learned along the way.</p>
+      </content:encoded>
+      <enclosure length="147068928" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S02E02.mp3" />
+      <guid>5d556b87-e428-402a-beff-46f60b81f817</guid>
+      <pubDate>Sun, 17 Jan 2021 12:00:00 GMT</pubDate>
+      <itunes:duration>3676</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
