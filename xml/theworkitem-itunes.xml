@@ -326,6 +326,9 @@
       <itunes:episode>01</itunes:episode>
       <itunes:season>02</itunes:season>
       <title>S02E01 - Scott Hanselman on Intentionality</title>
+      <itunes:summary>
+        Our first episode of the year is with the one and only Scott Hanselman. We tried to come up with a catchy title, but the entire episode could be summarized in one word - intentionality. We discuss Scott’s foray into TikTok, building your own definition of success, and fostering strong relationships with people around you.
+      </itunes:summary>
       <description>
         Our first episode of the year is with the one and only Scott Hanselman. We tried to come up with a catchy title, but the entire episode could be summarized in one word - intentionality. We discuss Scott’s foray into TikTok, building your own definition of success, and fostering strong relationships with people around you.
       </description>
@@ -343,6 +346,9 @@
       <itunes:episode>02</itunes:episode>
       <itunes:season>02</itunes:season>
       <title>S02E02 - Mayuko Inoue on Building a Content Creator Career Path</title>
+      <itunes:summary>
+        Mayuko Inoue made a bold step by defying the stereotypical career path of a software engineer, and became a full-time content creator. Her videos on YouTube answer some of the more salient questions that are almost never covered in your typical coding tutorials and overviews. What was behind this career decision and what were the lessons learned? How do you build a healthy community, and develop a good work-life balance? We talk to Mayuko about her personal take on the unique trajectory she's carving, as well as the lessons learned along the way.
+      </itunes:summary>
       <description>
         Mayuko Inoue made a bold step by defying the stereotypical career path of a software engineer, and became a full-time content creator. Her videos on YouTube answer some of the more salient questions that are almost never covered in your typical coding tutorials and overviews. What was behind this career decision and what were the lessons learned? How do you build a healthy community, and develop a good work-life balance? We talk to Mayuko about her personal take on the unique trajectory she's carving, as well as the lessons learned along the way.
       </description>
@@ -353,6 +359,26 @@
       <guid>5d556b87-e428-402a-beff-46f60b81f817</guid>
       <pubDate>Sun, 17 Jan 2021 12:00:00 GMT</pubDate>
       <itunes:duration>3676</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>03</itunes:episode>
+      <itunes:season>02</itunes:season>
+      <title>S02E03 - Paige Bailey on Building a Career In Artificial Intelligence and Machine Learning</title>
+      <itunes:summary>
+        Paige Bailey is one of the few Artificial Intelligence (AI) and Machine Learning (ML) experts who is able to convey complex technical topics in an easy-to-understand and relatable language. Her Twitter feed is full of AI/ML paper recommendations, open source projects, and insights about the ever-evolving tech space. What was her journey like to a career in a very complex domain? What does it mean to build an inclusive AI? This week, we sit down with Paige to learn from her experience.
+      </itunes:summary>
+      <description>
+        Paige Bailey is one of the few Artificial Intelligence (AI) and Machine Learning (ML) experts who is able to convey complex technical topics in an easy-to-understand and relatable language. Her Twitter feed is full of AI/ML paper recommendations, open source projects, and insights about the ever-evolving tech space. What was her journey like to a career in a very complex domain? What does it mean to build an inclusive AI? This week, we sit down with Paige to learn from her experience.
+      </description>
+      <content:encoded>
+        <p>Paige Bailey is one of the few Artificial Intelligence (AI) and Machine Learning (ML) experts who is able to convey complex technical topics in an easy-to-understand and relatable language. Her Twitter feed is full of AI/ML paper recommendations, open source projects, and insights about the ever-evolving tech space. What was her journey like to a career in a very complex domain? What does it mean to build an inclusive AI? This week, we sit down with Paige to learn from her experience.</p>
+      </content:encoded>
+      <enclosure length="63121408" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S02E03.mp3" />
+      <guid>b584608e-4594-4d8c-9c96-9f0b77a4b2fd</guid>
+      <pubDate>Mon, 1 Feb 2021 12:00:00 GMT</pubDate>
+      <itunes:duration>4046</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
