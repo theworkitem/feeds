@@ -334,6 +334,7 @@
       </description>
       <content:encoded>
         <p>Our first episode of the year is with the one and only Scott Hanselman. We tried to come up with a catchy title, but the entire episode could be summarized in one word - intentionality. We discuss Scott’s foray into TikTok, building your own definition of success, and fostering strong relationships with people around you.</p>
+        <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a> and <a href="https://twitter.com/courtnycotten">Courtny Cotten</a>. Music by <a href="/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
       </content:encoded>
       <enclosure length="130298880" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S02E01.mp3" />
       <guid>b04c5154-b355-4556-8bc1-3b50375b0f69</guid>
@@ -354,6 +355,7 @@
       </description>
       <content:encoded>
         <p>Mayuko Inoue made a bold step by defying the stereotypical career path of a software engineer, and became a full-time content creator. Her videos on YouTube answer some of the more salient questions that are almost never covered in your typical coding tutorials and overviews. What was behind this career decision and what were the lessons learned? How do you build a healthy community, and develop a good work-life balance? We talk to Mayuko about her personal take on the unique trajectory she's carving, as well as the lessons learned along the way.</p>
+        <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a> and <a href="https://twitter.com/courtnycotten">Courtny Cotten</a>. Music by <a href="/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
       </content:encoded>
       <enclosure length="147068928" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S02E02.mp3" />
       <guid>5d556b87-e428-402a-beff-46f60b81f817</guid>
@@ -374,11 +376,33 @@
       </description>
       <content:encoded>
         <p>Paige Bailey is one of the few Artificial Intelligence (AI) and Machine Learning (ML) experts who is able to convey complex technical topics in an easy-to-understand and relatable language. Her Twitter feed is full of AI/ML paper recommendations, open source projects, and insights about the ever-evolving tech space. What was her journey like to a career in a very complex domain? What does it mean to build an inclusive AI? This week, we sit down with Paige to learn from her experience.</p>
+        <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a> and <a href="https://twitter.com/courtnycotten">Courtny Cotten</a>. Music by <a href="/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
       </content:encoded>
       <enclosure length="63121408" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S02E03.mp3" />
       <guid>b584608e-4594-4d8c-9c96-9f0b77a4b2fd</guid>
       <pubDate>Mon, 1 Feb 2021 12:00:00 GMT</pubDate>
       <itunes:duration>4046</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>04</itunes:episode>
+      <itunes:season>02</itunes:season>
+      <title>S02E04 - From Servers, Phones, and Voice Assistants to Space with Charlie Kindel</title>
+      <itunes:summary>
+        Charlie Kindel is a tech industry veteran who helped bootstrap, grow, and manage teams that built home servers, phones, voice assistances, home automation software, and hopefully soon - space technologies. In this episode, we dive a bit deeper into Charlie’s approach to product ideation and design, discuss the importance of having a principled organization, and ask questions about his most recent adventure around space.
+      </itunes:summary>
+      <description>
+        Charlie Kindel is a tech industry veteran who helped bootstrap, grow, and manage teams that built home servers, phones, voice assistances, home automation software, and hopefully soon - space technologies. In this episode, we dive a bit deeper into Charlie’s approach to product ideation and design, discuss the importance of having a principled organization, and ask questions about his most recent adventure around space.
+      </description>
+      <content:encoded>
+        <p>Charlie Kindel is a tech industry veteran who helped bootstrap, grow, and manage teams that built home servers, phones, voice assistances, home automation software, and hopefully soon - space technologies. In this episode, we dive a bit deeper into Charlie’s approach to product ideation and design, discuss the importance of having a principled organization, and ask questions about his most recent adventure around space.</p>
+        <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a> and <a href="https://twitter.com/courtnycotten">Courtny Cotten</a>. Music by <a href="/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
+      </content:encoded>
+      <enclosure length="140710912" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S02E04.mp3" />
+      <guid>b28b6861-6f7c-4c2a-abe5-92a9f766687d</guid>
+      <pubDate>Sun, 21 Feb 2021 12:00:00 GMT</pubDate>
+      <itunes:duration>3517</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
