@@ -24,9 +24,15 @@
       <itunes:episode>1</itunes:episode>
       <itunes:season>1</itunes:season>
       <title>S01E01 - Remote Work</title>
+      <itunes:summary>
+        In this episode, Courtny Cotten and Den Delimarsky talk about what it takes to work remotely, along with some tips and best practices.
+      </itunes:summary>
       <description>
         In this episode, Courtny Cotten and Den Delimarsky talk about what it takes to work remotely, along with some tips and best practices.
       </description>
+      <content:encoded>
+        <p>In this episode, Courtny Cotten and Den Delimarsky talk about what it takes to work remotely, along with some tips and best practices.</p>
+      </content:encoded>
       <enclosure length="107964013" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S01E01.mp3" />
       <guid>7f035dd4-0dee-42b6-9039-926e604a37a0</guid>
       <pubDate>Sun, 15 Mar 2020 12:00:00 GMT</pubDate>
@@ -38,9 +44,15 @@
       <itunes:episode>2</itunes:episode>
       <itunes:season>1</itunes:season>
       <title>S01E02 - Career Starts</title>
+      <itunes:summary>
+        In this episode, Den and Courtny are talking about their career starts.
+      </itunes:summary>
       <description>
         In this episode, Den and Courtny are talking about their career starts.
       </description>
+      <content:encoded>
+        <p>In this episode, Den and Courtny are talking about their career starts.</p>
+      </content:encoded>
       <enclosure length="56624415" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S01E02.mp3" />
       <guid>e6a87083-cd05-44a0-b71a-b68b2988dbcc</guid>
       <pubDate>Sun, 5 Apr 2020 12:00:00 GMT</pubDate>
@@ -52,9 +64,15 @@
       <itunes:episode>3</itunes:episode>
       <itunes:season>1</itunes:season>
       <title>S01E03 - Interview with April Speight</title>
+      <itunes:summary>
+        In this episode, Courtny Cotten and Den Delimarsky chat with April Speight, Senior Developer Advocate at Microsoft, about social media, writing Python books for kids, and more.
+      </itunes:summary>
       <description>
-        In this episode, Courtny Cotten and Den Delimarsky chat with April Speight, Senior Developer Advocate at Microsoft, about social media, writing Python books for kids and more.
+        In this episode, Courtny Cotten and Den Delimarsky chat with April Speight, Senior Developer Advocate at Microsoft, about social media, writing Python books for kids, and more.
       </description>
+      <content:encoded>
+        <p>In this episode, Courtny Cotten and Den Delimarsky chat with April Speight, Senior Developer Advocate at Microsoft, about social media, writing Python books for kids, and more.</p>
+      </content:encoded>
       <enclosure length="122013293" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S01E03.mp3" />
       <guid>a1d3834c-c351-4d50-866f-7ac7f0901ebc</guid>
       <pubDate>Sun, 12 Apr 2020 12:00:00 GMT</pubDate>
@@ -66,9 +84,15 @@
       <itunes:episode>4</itunes:episode>
       <itunes:season>1</itunes:season>
       <title>S01E04 - Interview with Clint Rutkas</title>
+      <itunes:summary>
+        In this episode, Courtny Cotten and Den Delimarsky chat with Clint Rutkas about PowerToys - a fantastic set of utilities for Windows power users.
+      </itunes:summary>
       <description>
         In this episode, Courtny Cotten and Den Delimarsky chat with Clint Rutkas about PowerToys - a fantastic set of utilities for Windows power users.
       </description>
+      <content:encoded>
+        <p>In this episode, Courtny Cotten and Den Delimarsky chat with Clint Rutkas about PowerToys - a fantastic set of utilities for Windows power users.</p>
+      </content:encoded>
       <enclosure length="103646495" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S01E04.mp3" />
       <guid>a00f4164-b8b6-4b99-8070-f4005fc0f646</guid>
       <pubDate>Sun, 3 May 2020 12:00:00 GMT</pubDate>
@@ -80,9 +104,15 @@
       <itunes:episode>5</itunes:episode>
       <itunes:season>1</itunes:season>
       <title>S01E05 - Interview with Jin Yang</title>
+      <itunes:summary>
+        A virtual fireside chat with Jin Yang, VP of design at CapitalOne. We discuss leadership, building great teams, and wrap up the show with food place recommendations.
+      </itunes:summary>
       <description>
         A virtual fireside chat with Jin Yang, VP of design at CapitalOne. We discuss leadership, building great teams, and wrap up the show with food place recommendations.
       </description>
+      <content:encoded>
+        <p>A virtual fireside chat with Jin Yang, VP of design at CapitalOne. We discuss leadership, building great teams, and wrap up the show with food place recommendations.</p>
+      </content:encoded>
       <enclosure length="128063670" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S01E05.mp3" />
       <guid>f8198fa9-367a-4dec-8024-7d74a0da9d69</guid>
       <pubDate>Sun, 21 Jun 2020 12:00:00 GMT</pubDate>
@@ -94,9 +124,15 @@
       <itunes:episode>6</itunes:episode>
       <itunes:season>1</itunes:season>
       <title>S01E06 - Interview with Matt Swanson</title>
+      <itunes:summary>
+        Today, we had the honor of having an in-depth conversation with Matt Swanson, a software engineer at SEP, on engineering best practices, design systems, and managing complexity.
+      </itunes:summary>
       <description>
         Today, we had the honor of having an in-depth conversation with Matt Swanson, a software engineer at SEP, on engineering best practices, design systems, and managing complexity.
       </description>
+      <content:encoded>
+        <p>Today, we had the honor of having an in-depth conversation with Matt Swanson, a software engineer at SEP, on engineering best practices, design systems, and managing complexity.</p>
+      </content:encoded>
       <enclosure length="129048382" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S01E06.mp3" />
       <guid>b2649232-e74e-4846-aa1c-70a88a4b183c</guid>
       <pubDate>Sun, 28 Jun 2020 12:00:00 GMT</pubDate>
@@ -108,9 +144,15 @@
       <itunes:episode>7</itunes:episode>
       <itunes:season>1</itunes:season>
       <title>S01E07 - Interview with Dan Fernandez</title>
+      <itunes:summary>
+        In this episode of The Work Item, we interview Dan Fernandez, VP of Product for Developer Services at Salesforce. Dan, a tech veteran, talks about product management, skill stacking, and building great developer experiences.
+      </itunes:summary>
       <description>
         In this episode of The Work Item, we interview Dan Fernandez, VP of Product for Developer Services at Salesforce. Dan, a tech veteran, talks about product management, skill stacking, and building great developer experiences.
       </description>
+      <content:encoded>
+        <p>In this episode of The Work Item, we interview Dan Fernandez, VP of Product for Developer Services at Salesforce. Dan, a tech veteran, talks about product management, skill stacking, and building great developer experiences.</p>
+      </content:encoded>
       <enclosure length="114461607" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S01E07.mp3" />
       <guid>1aad2877-6417-4b30-9e34-005d52289578</guid>
       <pubDate>Sun, 5 Jul 2020 12:00:00 GMT</pubDate>
@@ -122,6 +164,9 @@
       <itunes:episode>8</itunes:episode>
       <itunes:season>1</itunes:season>
       <title>S01E08 - Interview with Charmaine Lee</title>
+      <itunes:summary>
+        In this episode of The Work Item, we interview Charmaine Lee, product manager intern at Microsoft, and a friend of the show. Charmaine talks about her experiences breaking into tech, building projects for fun, and being engaged in local tech scenes.
+      </itunes:summary>
       <description>
         In this episode of The Work Item, we interview Charmaine Lee, product manager intern at Microsoft, and a friend of the show. Charmaine talks about her experiences breaking into tech, building projects for fun, and being engaged in local tech scenes.
       </description>
@@ -139,6 +184,9 @@
       <itunes:episode>9</itunes:episode>
       <itunes:season>1</itunes:season>
       <title>S01E09 - Interview with Philipp Cannons</title>
+      <itunes:summary>
+        In this episode of The Work Item, we interview Philipp Cannons, CEO and founder of PMFIT.AI - a startup that aims to accelerate product success. Philipp talks about his experience starting a business from scratch and building a deep understanding of large organizations.
+      </itunes:summary>
       <description>
         In this episode of The Work Item, we interview Philipp Cannons, CEO and founder of PMFIT.AI - a startup that aims to accelerate product success. Philipp talks about his experience starting a business from scratch and building a deep understanding of large organizations.
       </description>
@@ -156,6 +204,9 @@
       <itunes:episode>10</itunes:episode>
       <itunes:season>1</itunes:season>
       <title>S01E10 - Interview with Sara Chipps</title>
+      <itunes:summary>
+        In this episode of The Work Item, we interview Sara Chipps, Director of Public Q&amp;A at Stack Overflow. Sara is also the founder of JewelBots, a company that provides electronic building kits for young inventors. We chat with Sara about community feedback, engineering management career tracks, and building tools for STEM inclusivity.
+      </itunes:summary>
       <description>
         In this episode of The Work Item, we interview Sara Chipps, Director of Public Q&amp;A at Stack Overflow. Sara is also the founder of JewelBots, a company that provides electronic building kits for young inventors. We chat with Sara about community feedback, engineering management career tracks, and building tools for STEM inclusivity.
       </description>
@@ -173,6 +224,9 @@
       <itunes:episode>11</itunes:episode>
       <itunes:season>1</itunes:season>
       <title>S01E11 - Interview with Eric Martel</title>
+      <itunes:summary>
+        We're back after a week-long hiatus with an interview. This time, we chat with Eric Martel, Director of Artificial Intelligence and Machine Learning at Eidos-Montréal. We re-visit some of the gream games of the past, talk about console development considerations for modern games, and dig into how artificial intelligence and machine learning are going to revolutionize the engineering process.
+      </itunes:summary>
       <description>
         We're back after a week-long hiatus with an interview. This time, we chat with Eric Martel, Director of Artificial Intelligence and Machine Learning at Eidos-Montréal. We re-visit some of the gream games of the past, talk about console development considerations for modern games, and dig into how artificial intelligence and machine learning are going to revolutionize the engineering process.
       </description>
@@ -190,6 +244,9 @@
       <itunes:episode>12</itunes:episode>
       <itunes:season>1</itunes:season>
       <title>S01E12 - Interview with Christina Weng</title>
+      <itunes:summary>
+        In this episode of The Work Item we interview Christina Weng, product designer at Facebook, about building a career in user experience design from scratch.
+      </itunes:summary>
       <description>
         In this episode of The Work Item we interview Christina Weng, product designer at Facebook, about building a career in user experience design from scratch.
       </description>
@@ -207,6 +264,9 @@
       <itunes:episode>13</itunes:episode>
       <itunes:season>1</itunes:season>
       <title>S01E13 - Interview with Amanda Silver</title>
+      <itunes:summary>
+        In this episode of The Work Item we interview Amanda Silver, Corporate Vice President, Developer Division at Microsoft. We discuss the process of building great developer tools, the human element in product design, and career advice for the long run.
+      </itunes:summary>
       <description>
         In this episode of The Work Item we interview Amanda Silver, Corporate Vice President, Developer Division at Microsoft. We discuss the process of building great developer tools, the human element in product design, and career advice for the long run.
       </description>
@@ -224,6 +284,9 @@
       <itunes:episode>14</itunes:episode>
       <itunes:season>1</itunes:season>
       <title>S01E14 - Interview with Richard Lander</title>
+      <itunes:summary>
+        In this episode of The Work Item we interview Richard Lander, Principal Program Manager on the .NET team at Microsoft. Richard does a deep dive on communication, being a generalist vs. specialist, and growing one's career.
+      </itunes:summary>
       <description>
         In this episode of The Work Item we interview Richard Lander, Principal Program Manager on the .NET team at Microsoft. Richard does a deep dive on communication, being a generalist vs. specialist, and growing one's career.
       </description>
@@ -241,6 +304,9 @@
       <itunes:episode>15</itunes:episode>
       <itunes:season>01</itunes:season>
       <title>S01E15 - Tarun Gangwani on Innovation, Navigating Product Decisions, and Building Growth Engines</title>
+      <itunes:summary>
+        We sit down to chat with Tarun Gangwani, Senior Product Manager at Sanity.io. Tarun is a seasoned PM with tons of expertise to share about the product management domain. With previous experience at Twitch, where he oversaw the entire lifecycle of a developer using extensions and data services to create engaging and personalized viewing and streaming experiences, Tarun is talking about lessons learned, differences between startup and large company environments, along with the ways in which product managers can broaden the understanding of their products and customer needs.
+      </itunes:summary>
       <description>
         We sit down to chat with Tarun Gangwani, Senior Product Manager at Sanity.io. Tarun is a seasoned PM with tons of expertise to share about the product management domain. With previous experience at Twitch, where he oversaw the entire lifecycle of a developer using extensions and data services to create engaging and personalized viewing and streaming experiences, Tarun is talking about lessons learned, differences between startup and large company environments, along with the ways in which product managers can broaden the understanding of their products and customer needs.
       </description>
@@ -258,6 +324,9 @@
       <itunes:episode>16</itunes:episode>
       <itunes:season>01</itunes:season>
       <title>S01E16 - Bill Kenney on Building Brands That Last</title>
+      <itunes:summary>
+        This weekend, we go outdoors with Bill Kenney, co-founder of Focus Lab, a branding agency that is entirely remote. We talk to Bill about the importance of a good brand and what distinguishes professionals from amateurs in the field.
+      </itunes:summary>
       <description>
         This weekend, we go outdoors with Bill Kenney, co-founder of Focus Lab, a branding agency that is entirely remote. We talk to Bill about the importance of a good brand and what distinguishes professionals from amateurs in the field.
       </description>
@@ -275,6 +344,9 @@
       <itunes:episode>17</itunes:episode>
       <itunes:season>01</itunes:season>
       <title>S01E17 - Christos Matskas on Going From Consulting to Corporate and Building Identity Tools</title>
+      <itunes:summary>
+        In a surprising twist, this week we chat with Christos Matskas on two topics - transitioning from consulting life to a corporate life, as well as about building identity tools and services in the cloud.
+      </itunes:summary>
       <description>
         In a surprising twist, this week we chat with Christos Matskas on two topics - transitioning from consulting life to a corporate life, as well as about building identity tools and services in the cloud.
       </description>
@@ -292,6 +364,9 @@
       <itunes:episode>18</itunes:episode>
       <itunes:season>01</itunes:season>
       <title>S01E18 - Megan Risdal on Building a Career at the Intersection of Data Science and Product Management</title>
+      <itunes:summary>
+        Right before the Thanksgiving break, we are releasing a fresh new episode with Megan Risdal, Product Lead at Kaggle. Megan took the multi-talented route to the career she has today, and enjoys every bit of it. In this episode, we talk about the importance of being a multi-dimensional professional in a product role, finding the best ways to collect customer feedback, and building communities at scale.
+      </itunes:summary>
       <description>
         Right before the Thanksgiving break, we are releasing a fresh new episode with Megan Risdal, Product Lead at Kaggle. Megan took the multi-talented route to the career she has today, and enjoys every bit of it. In this episode, we talk about the importance of being a multi-dimensional professional in a product role, finding the best ways to collect customer feedback, and building communities at scale.
       </description>
@@ -309,6 +384,9 @@
       <itunes:episode>19</itunes:episode>
       <itunes:season>01</itunes:season>
       <title>S01E19 - Wrap Up Episode For 2020</title>
+      <itunes:summary>
+        Den and Courtny reflect on the year we just went through, and discuss our plans for 2021. There is a lot to be thankful for, and we had quite a year kickstarting a new podcast from scratch. This also happens to be the last episode of our Season 1.
+      </itunes:summary>
       <description>
         Den and Courtny reflect on the year we just went through, and discuss our plans for 2021. There is a lot to be thankful for, and we had quite a year kickstarting a new podcast from scratch. This also happens to be the last episode of our Season 1.
       </description>
