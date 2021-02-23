@@ -6,14 +6,14 @@
     <title>The Work Item</title>
     <link>https://theworkitem.com</link>
     <language>en-us</language>
-    <copyright>&#169; 2020 Courtny Cotten and Den Delimarsky.</copyright>
-    <itunes:author>Courtny Cotten and Den Delimarsky</itunes:author>
+    <copyright>&#169; 2021 by Den Delimarsky.</copyright>
+    <itunes:author>Den Delimarsky, Courtny Cotten</itunes:author>
     <description>
-      A show about products, people and experiences. We regularly talk to some of the most interesting folks in and outside the tech industry about their career journeys, what helped and what slowed down their progress, as well as learn more about their day-to-day.
+      The Work Item is a show hosted by Den Delimarsky and Courtny Cotten, that covers the product development and career spaces. We chat weekly with remarkable people and bring you the freshest insights on growing your career.
     </description>
     <itunes:type>serial</itunes:type>
     <itunes:owner>
-      <itunes:name>Courtny Cotten and Den Delimarsky</itunes:name>
+      <itunes:name>Den Delimarsky</itunes:name>
       <itunes:email>podcast@den.dev</itunes:email>
     </itunes:owner>
     <itunes:image href="https://cdn.theworkitem.com/art/work-item-podcast-logo.jpg" />
