@@ -7,9 +7,9 @@
     <link>https://theworkitem.com</link>
     <language>en-us</language>
     <copyright>&#169; 2021 by Den Delimarsky.</copyright>
-    <itunes:author>Den Delimarsky, Courtny Cotten</itunes:author>
+    <itunes:author>Den Delimarsky</itunes:author>
     <description>
-      The Work Item is a show hosted by Den Delimarsky and Courtny Cotten, that covers the product development and career spaces. We chat weekly with remarkable people and bring you the freshest insights on growing your career.
+      The Work Item is a show hosted by Den Delimarsky and co-hosted by Courtny Cotten, covering the product development and career spaces. New episodes on Mondays, with remarkable people and the freshest insights on growing your career, ambitions, and approaches to building great things.
     </description>
     <itunes:type>serial</itunes:type>
     <itunes:owner>
@@ -489,6 +489,30 @@
       <guid>b28b6861-6f7c-4c2a-abe5-92a9f766687d</guid>
       <pubDate>Sun, 21 Feb 2021 12:00:00 GMT</pubDate>
       <itunes:duration>3517</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>05</itunes:episode>
+      <itunes:season>02</itunes:season>
+      <title>S02E05 - Building Communities with Jess Lee</title>
+      <itunes:summary>
+        Jess Lee is the co-founder of dev.to - a developer community that emphasizes the importance of a friendly approach to guiding folks through the tumultuous waters of software development. In this episode, we chat about Jess’ career, the journey to founding Forem - the open-source platform powering large communities, and her experience building successful distributed teams.
+      </itunes:summary>
+      <description>
+        Jess Lee is the co-founder of dev.to - a developer community that emphasizes the importance of a friendly approach to guiding folks through the tumultuous waters of software development. In this episode, we chat about Jess’ career, the journey to founding Forem - the open-source platform powering large communities, and her experience building successful distributed teams.
+      </description>
+      <content:encoded>
+        <![CDATA[
+        <p><a href="https://twitter.com/jessleenyc">Jess Lee</a> is the co-founder of <a href="https://dev.to">dev.to</a> - a developer community that emphasizes the importance of a friendly approach to guiding folks through the tumultuous waters of software development.</p>
+        <p>In this episode, we chat about Jess’ career, the journey to founding <a href="https://www.forem.com/">Forem</a> - the open-source platform powering large communities, and her experience building successful distributed teams.</p>
+        <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a> and <a href="https://twitter.com/courtnycotten">Courtny Cotten</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
+        ]]>
+      </content:encoded>
+      <enclosure length="124821504" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S02E05.mp3" />
+      <guid>e33cbed3-404f-43a8-8f89-c7367bb55964</guid>
+      <pubDate>Sun, 28 Feb 2021 12:00:00 GMT</pubDate>
+      <itunes:duration>3120</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
