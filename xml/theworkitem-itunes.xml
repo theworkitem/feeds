@@ -21,6 +21,28 @@
     <itunes:explicit>false</itunes:explicit>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>06</itunes:episode>
+      <itunes:season>02</itunes:season>
+      <title>&#35;25 - How to build a career in design and pitch Gary Vee, with Jack Zerby</title>
+      <description>
+        Jack Zerby is not your typical designer. His experience producing music, working at Pentagram and Frog, building startups, pitching to Gary Vee, and now - building tools for creators at Gumroad, puts him square in the middle of a very uncommon career path. In this episode, I chat with Jack to learn more about what motivated him to grow his career, how to break into design, how to make the transition from a big company to a startup, and what does it mean to build compelling narratives in deck format.
+      </description>
+      <content:encoded>
+        <![CDATA[
+        <p><a href="https://twitter.com/jackzerby">Jack Zerby</a> is not your typical designer. His experience producing music, working at Pentagram and Frog, building startups, pitching to Gary Vee, and now - building tools for creators at Gumroad, puts him square in the middle of a very uncommon career path.</p>
+        <p>In this episode, I chat with Jack to learn more about what motivated him to grow his career, how to break into design, how to make the transition from a big company to a startup, and what does it mean to build compelling narratives in deck format.</p>
+        <p>Make sure to check out Jack’s upcoming <a href="https://designfordecks.com"><strong>Design for Decks</strong></a> workshop to change the way you think about presentations.</p>
+        <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
+        ]]>
+      </content:encoded>
+      <enclosure length="147107840" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S02E06.mp3" />
+      <guid>390822eb-d5f4-4baf-99e6-52999cb156b1</guid>
+      <pubDate>Sun, 7 Mar 2021 12:00:00 GMT</pubDate>
+      <itunes:duration>3677</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>05</itunes:episode>
       <itunes:season>02</itunes:season>
       <title>&#35;24 - Building Communities with Jess Lee</title>
