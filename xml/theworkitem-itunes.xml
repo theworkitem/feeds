@@ -21,9 +21,45 @@
     <itunes:explicit>false</itunes:explicit>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>07</itunes:episode>
+      <itunes:season>02</itunes:season>
+      <title>&#35;26 - How to grow as a product manager, with Dan Olsen</title>
+      <itunes:summary>
+        There is no single, well-defined path to becoming a product manager. There are more questions than answers when it comes to figuring out which skills are necessary, what books or blog posts to read, or which courses to take. Dan Olsen, the author of The Lean Product Playbook, former product leader at Intuit, Friendster, Box, and the US Navy (he worked on submarine design) shares with us some insights on what it means to grow as a product manager.
+      </itunes:summary>
+      <description>
+        There is no single, well-defined path to becoming a product manager. There are more questions than answers when it comes to figuring out which skills are necessary, what books or blog posts to read, or which courses to take. Dan Olsen, the author of The Lean Product Playbook, former product leader at Intuit, Friendster, Box, and the US Navy (he worked on submarine design) shares with us some insights on what it means to grow as a product manager.
+      </description>
+      <content:encoded>
+        <![CDATA[
+        <p>There is no single, well-defined path to becoming a product manager. There are more questions than answers when it comes to figuring out which skills are necessary, what books or blog posts to read, or which courses to take.</p>
+        <p><a href="https://dan-olsen.com/">Dan Olsen</a>, the author of “<a href="https://leanproductplaybook.com/">The Lean Product Playbook</a>,” former product leader at Intuit, Friendster, Box, and the US Navy (he worked on submarine design) shares with us some insights on what it means to grow as a product manager.</p>
+        <p>You can find Dan on the following sites:</p>
+        <ul>
+        <li><a href="https://twitter.com/danolsen">🐤 Twitter</a></li>
+        <li><a href="https://dan-olsen.com/">📝 Blog</a></li>
+        <li><a href="https://www.youtube.com/channel/UChx1ibI5TI7bBva0Z21azrw">🎥 YouTube</a></li>
+        <li><a href="https://linkedin.com/in/danolsen98">🤵 LinkedIn</a></li>
+        <li><a href="https://dan-olsen.com/meetup/">📅 Meetup</a></li>
+        </ul>
+        <p>Make sure to sign up for Dan’s <a href="https://www.eventbrite.com/e/lean-product-management-online-workshop-how-to-achieve-product-market-fit-tickets-139519611915">upcoming Lean Product Management online workshop on April 20, 2021</a>.</p>
+        <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
+        ]]>
+      </content:encoded>
+      <enclosure length="140828672" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S02E07.mp3" />
+      <guid>9566a1ee-a42a-4def-a224-91fd96c6b1dd</guid>
+      <pubDate>Sun, 14 Mar 2021 12:00:00 GMT</pubDate>
+      <itunes:duration>3520</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>06</itunes:episode>
       <itunes:season>02</itunes:season>
       <title>&#35;25 - How to build a career in design and pitch Gary Vee, with Jack Zerby</title>
+      <itunes:summary>
+        Jack Zerby is not your typical designer. His experience producing music, working at Pentagram and Frog, building startups, pitching to Gary Vee, and now - building tools for creators at Gumroad, puts him square in the middle of a very uncommon career path. In this episode, I chat with Jack to learn more about what motivated him to grow his career, how to break into design, how to make the transition from a big company to a startup, and what does it mean to build compelling narratives in deck format.
+      </itunes:summary>
       <description>
         Jack Zerby is not your typical designer. His experience producing music, working at Pentagram and Frog, building startups, pitching to Gary Vee, and now - building tools for creators at Gumroad, puts him square in the middle of a very uncommon career path. In this episode, I chat with Jack to learn more about what motivated him to grow his career, how to break into design, how to make the transition from a big company to a startup, and what does it mean to build compelling narratives in deck format.
       </description>
