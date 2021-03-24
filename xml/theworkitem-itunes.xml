@@ -21,6 +21,35 @@
     <itunes:explicit>false</itunes:explicit>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>08</itunes:episode>
+      <itunes:season>02</itunes:season>
+      <title>&#35;27 - How to Build a Career in Human Resources, with David Daniels</title>
+      <itunes:summary>
+        There is a certain air of mystery around careers in Human Resources (HR), and David Daniels, who is a veteran HR leader in tech, is here to bring some clarity about the work. David has extensive experience being in HR at Microsoft, Pinterest, and now - Snapchat. He shares his insights about going from education to leadership in some of the most prominent tech companies, fighting against the fixed mindset, and uncommon recommendations for folks wanting to get started with their careers.
+      </itunes:summary>
+      <description>
+        There is a certain air of mystery around careers in Human Resources (HR), and David Daniels, who is a veteran HR leader in tech, is here to bring some clarity about the work. David has extensive experience being in HR at Microsoft, Pinterest, and now - Snapchat. He shares his insights about going from education to leadership in some of the most prominent tech companies, fighting against the fixed mindset, and uncommon recommendations for folks wanting to get started with their careers.
+      </description>
+      <content:encoded>
+        <![CDATA[
+        <p>There is a certain air of mystery around careers in Human Resources (HR), and David Daniels, who is a veteran HR leader in tech, is here to bring some clarity about the work.</p>
+        <p>David has extensive experience being in HR at Microsoft, Pinterest, and now - Snapchat. He shares his insights about going from education to leadership in some of the most prominent tech companies, fighting against the fixed mindset, and uncommon recommendations for folks wanting to get started with their careers.</p>
+        <p>You can find David on the following sites:</p>
+        <ul>
+        <li><a href="https://www.linkedin.com/in/davdan/">🤵 LinkedIn</a></li>
+        <li><a href="https://medium.com/@SimplyDavDan">📝 Blog</a></li>
+        </ul>
+        <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
+        ]]>
+      </content:encoded>
+      <enclosure length="113145856" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S02E08.mp3" />
+      <guid>b02c94bb-e0b7-4b77-a2c7-a1f4cbe674f5</guid>
+      <pubDate>Sun, 21 Mar 2021 12:00:00 GMT</pubDate>
+      <itunes:duration>2828</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>07</itunes:episode>
       <itunes:season>02</itunes:season>
       <title>&#35;26 - How to Grow as a Product Manager, with Dan Olsen</title>
