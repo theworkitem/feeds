@@ -16,7 +16,7 @@
       <itunes:name>Den Delimarsky</itunes:name>
       <itunes:email>podcast@den.dev</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://cdn.theworkitem.com/art/work-item-podcast-logo.jpg" />
+    <itunes:image href="https://cdn.theworkitem.com/art/the-work-item-main.png" />
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
