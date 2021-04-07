@@ -21,6 +21,36 @@
     <itunes:explicit>false</itunes:explicit>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>09</itunes:episode>
+      <itunes:season>02</itunes:season>
+      <title>&#35;28 - The Art of Engineering Management, with Rebecca Murphey, EM at Stripe</title>
+      <description>
+        Rebecca Murphey tried a lot of things on her way to becoming an engineering manager at Stripe - from journalism to advertisement, and even learning how to fly. In this episode, I sit down with Rebecca to learn more about her path, what were the important lessons learned in her non-tech career that helped her be an efficient engineering leader, and what aspiring engineering managers can start doing today to figure out if this career track is for them.
+      </description>
+      <itunes:summary>
+        Rebecca Murphey tried a lot of things on her way to becoming an engineering manager at Stripe - from journalism to advertisement, and even learning how to fly. In this episode, I sit down with Rebecca to learn more about her path, what were the important lessons learned in her non-tech career that helped her be an efficient engineering leader, and what aspiring engineering managers can start doing today to figure out if this career track is for them.
+      </itunes:summary>
+      <content:encoded>
+        <![CDATA[
+        <p>From all the questions I get asked, this one comes up quite often - “How do I become an engineering manager?” While I don’t know the answer myself, I think I have an idea of who might have the insights on this topic.</p>
+        <p><a href="https://rmurphey.com/about/">Rebecca Murphey</a> tried a lot of things on her way to becoming an engineering manager at Stripe - from journalism to advertisement, and even learning how to fly.</p>
+        <p>In this episode, I sit down with Rebecca to learn more about her path, what were the important lessons learned in her non-tech career that helped her be an efficient engineering leader, and what aspiring engineering managers can start doing today to figure out if this career track is for them.</p>
+        <p>You can find Rebecca on the following sites:</p>
+        <ul>
+        <li><a href="https://twitter.com/rmurphey">🐤 Twitter</a></li>
+        <li><a href="https://rmurphey.com/">📝 Blog</a></li>
+        </ul>
+        <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
+        ]]>
+      </content:encoded>
+      <enclosure length="147487744" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S02E09.mp3" />
+      <guid>a313d58e-ac42-4de9-8c46-54e3d72ea247</guid>
+      <pubDate>Sun, 4 Apr 2021 12:00:00 GMT</pubDate>
+      <itunes:duration>3687</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>08</itunes:episode>
       <itunes:season>02</itunes:season>
       <title>&#35;27 - How to Build a Career in Human Resources, with David Daniels</title>
