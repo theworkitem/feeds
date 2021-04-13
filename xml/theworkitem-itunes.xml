@@ -21,6 +21,37 @@
     <itunes:explicit>false</itunes:explicit>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>10</itunes:episode>
+      <itunes:season>02</itunes:season>
+      <title>&#35;29 - Building Things You Love, with Ben Sandofsky, Head of Development for Halide</title>
+      <description>
+        From Pascal, to writing image processing code, if there is one word you absolutely can’t use to describe Ben Sandofsky‘s career, it would be “uneventful.” He was one of the first mobile engineers at Twitter, had a stint helping build Periscope, and ultimately ventured into unexplored territory to finish a photo app he always wanted, that later became Halide. In this episode, I sit down with Ben to get a better understanding of the decisions he made in his career, and what were the critical turning points that made him start his own studio - Lux.
+      </description>
+      <itunes:summary>
+        From Pascal, to writing image processing code, if there is one word you absolutely can’t use to describe Ben Sandofsky‘s career, it would be “uneventful.” He was one of the first mobile engineers at Twitter, had a stint helping build Periscope, and ultimately ventured into unexplored territory to finish a photo app he always wanted, that later became Halide. In this episode, I sit down with Ben to get a better understanding of the decisions he made in his career, and what were the critical turning points that made him start his own studio - Lux.
+      </itunes:summary>
+      <content:encoded>
+        <![CDATA[
+        <p>From Pascal, to writing image processing code, if there is one word you absolutely can’t use to describe <a href="https://twitter.com/sandofsky">Ben Sandofsky</a>‘s career, it would be “uneventful.” He was one of the first mobile engineers at Twitter, had a stint helping build Periscope, and ultimately ventured into unexplored territory to finish a photo app he always wanted, that later became <a href="https://halide.cam/">Halide</a>.</p>
+        <p>In this episode, I sit down with Ben to get a better understanding of the decisions he made in his career, and what were the critical turning points that made him start his own studio - <a href="https://lux.camera">Lux</a>.</p>
+        <p>You can find Ben on the following sites:</p>
+        <ul>
+        <li><a href="https://twitter.com/sandofsky">🐤 Twitter</a></li>
+        <li><a href="https://sandofsky.com/">📝 Blog</a></li>
+        <li><a href="https://lux.camera">📸 Lux</a></li>
+        </ul>
+        <p>While at it, you should check out <a href="https://halide.cam/">Halide</a> and <a href="https://spectre.cam/">Spectre</a> - the must-have camera apps for iOS!</p>
+        <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
+        ]]>
+      </content:encoded>
+      <enclosure length="179480576" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S02E10.mp3" />
+      <guid>1413759c-8329-413f-9124-3b17f0ea1e27</guid>
+      <pubDate>Sun, 11 Apr 2021 12:00:00 GMT</pubDate>
+      <itunes:duration>4487</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>09</itunes:episode>
       <itunes:season>02</itunes:season>
       <title>&#35;28 - The Art of Engineering Management, with Rebecca Murphey, EM at Stripe</title>
