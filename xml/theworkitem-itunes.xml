@@ -21,6 +21,36 @@
     <itunes:explicit>false</itunes:explicit>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>11</itunes:episode>
+      <itunes:season>02</itunes:season>
+      <title>&#35;30 - Creativity in Code and Beyond, with Monica Dinculescu, Engineer Extraordinaire</title>
+      <description>
+        Folks often forget that engineering is inherently a very creative process. Monica Dinculescu found her own niche where she can build impactful things and do it in some of the most unusual ways possible. An excellent engineer, creative thinker, and fellow Eastern European by origin, Monica joins me today to talk about the things she learned as she figured out her career path.
+      </description>
+      <itunes:summary>
+        Folks often forget that engineering is inherently a very creative process. Monica Dinculescu found her own niche where she can build impactful things and do it in some of the most unusual ways possible. An excellent engineer, creative thinker, and fellow Eastern European by origin, Monica joins me today to talk about the things she learned as she figured out her career path.
+      </itunes:summary>
+      <content:encoded>
+        <![CDATA[
+        <p>Folks often forget that engineering is inherently a very creative process. Monica Dinculescu found her own niche where she can build impactful things and do it in some of the most unusual ways possible. An excellent engineer, creative thinker, and fellow Eastern European by origin, Monica joins me today to talk about the things she learned as she figured out her career path.</p>
+        <p>You can find Monica on the following sites:</p>
+        <ul>
+        <li><a href="https://twitter.com/notwaldorf">🐤 Twitter</a></li>
+        <li><a href="https://meowni.ca/">📝 Blog</a></li>
+        <li><a href="https://www.meownica.studio/product/basketball-buzzers-beets">🛍 Store</a></li>
+        </ul>
+        <p>Make sure to also check out <a href="https://tholman.com/">Tim Holman’s work</a>, that Monica recommended during the show!</p>
+        <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
+        ]]>
+      </content:encoded>
+      <enclosure length="140513280" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S02E11.mp3" />
+      <guid>c2825db0-2faa-4896-8295-a23e9708ce26</guid>
+      <pubDate>Sun, 18 Apr 2021 12:00:00 GMT</pubDate>
+      <itunes:duration>3512</itunes:duration>
+      <itunes:explicit>true</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>10</itunes:episode>
       <itunes:season>02</itunes:season>
       <title>&#35;29 - Building Things You Love, with Ben Sandofsky, Head of Development for Halide</title>
