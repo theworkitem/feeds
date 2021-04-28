@@ -21,6 +21,36 @@
     <itunes:explicit>false</itunes:explicit>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>12</itunes:episode>
+      <itunes:season>02</itunes:season>
+      <title>&#35;31 - Lessons In Leadership, with Chad Fowler, VP of Technology at DEVCON</title>
+      <description>
+        Talking to Chad Fowler, you quickly realize what true leadership means. Chad has extensive experience leading large technical organizations such as LivingSocial and 6Wunderkinder, being a venture partner at BlueYard Capital, and now - helping make the Internet safer as Chief Product Officer at DEVCON. Did I mention that Chad also is a musician? In this episode, I talk to Chad about his work, lessons learned from music and travel and how those apply to life and career, and what is the approach to consider for one to carve out a path towards an executive role.
+      </description>
+      <itunes:summary>
+        Talking to Chad Fowler, you quickly realize what true leadership means. Chad has extensive experience leading large technical organizations such as LivingSocial and 6Wunderkinder, being a venture partner at BlueYard Capital, and now - helping make the Internet safer as Chief Product Officer at DEVCON. Did I mention that Chad also is a musician? In this episode, I talk to Chad about his work, lessons learned from music and travel and how those apply to life and career, and what is the approach to consider for one to carve out a path towards an executive role.
+      </itunes:summary>
+      <content:encoded>
+        <![CDATA[
+        <p>Talking to <a href="http://chadfowler.com/">Chad Fowler</a>, you quickly realize what true leadership means. Chad has extensive experience leading large technical organizations such as LivingSocial and 6Wunderkinder, being a venture partner at BlueYard Capital, and now - helping make the Internet safer as Chief Product Officer at DEVCON. Did I mention that Chad also is a musician?</p>
+        <p>In this episode, I talk to Chad about his work, lessons learned from music and travel and how those apply to life and career, and what is the approach to consider for one to carve out a path towards an executive role.</p>
+        <p>You can find Chad on the following sites:</p>
+        <ul>
+        <li><a href="https://twitter.com/chadfowler">🐤 Twitter</a></li>
+        <li><a href="http://chadfowler.com/">📝 Blog</a></li>
+        <li><a href="https://mahakalamusic.com/">🎶 Mahakala Music</a> (Chad’s record label)</li>
+        </ul>
+        <p>Make sure to also check out Chad’s book - <a href="https://www.oreilly.com/library/view/the-passionate-programmer/9781680500165/">The Passionate Programmer</a>.</p>
+        ]]>
+      </content:encoded>
+      <enclosure length="149045248" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S02E12.mp3" />
+      <guid>10d9b285-3111-40ac-891f-5635e9618026</guid>
+      <pubDate>Sun, 25 Apr 2021 12:00:00 GMT</pubDate>
+      <itunes:duration>3726</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>11</itunes:episode>
       <itunes:season>02</itunes:season>
       <title>&#35;30 - Creativity in Code and Beyond, with Monica Dinculescu, Engineer Extraordinaire</title>
