@@ -21,6 +21,36 @@
     <itunes:explicit>false</itunes:explicit>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>13</itunes:episode>
+      <itunes:season>02</itunes:season>
+      <title>&#35;31 - Camille Fournier on Engineering Management Paths</title>
+      <description>
+        Setting your sights high for a career in engineering management might be an appealing endeavor, but it also means that you will be making a lot of assumptions about future roles without really knowing what those roles are truly about. In this episode, I sit down with Camille Fournier - a veteran CTO, speaker, and entrepreneur, to learn more about ways to map out the path to becoming a CTO (or not).
+      </description>
+      <itunes:summary>
+        Setting your sights high for a career in engineering management might be an appealing endeavor, but it also means that you will be making a lot of assumptions about future roles without really knowing what those roles are truly about. In this episode, I sit down with Camille Fournier - a veteran CTO, speaker, and entrepreneur, to learn more about ways to map out the path to becoming a CTO (or not).
+      </itunes:summary>
+      <content:encoded>
+        <![CDATA[
+        <p>Setting your sights high for a career in engineering management might be an appealing endeavor, but it also means that you will be making a lot of assumptions about future roles without really knowing what those roles are truly about.</p>
+        <p>In this episode, I sit down with Camille Fournier - a veteran CTO, speaker, and entrepreneur, to learn more about ways to map out the path to becoming a CTO (or not).</p>
+        <p>You can find Camille on the following sites:</p>
+        <ul>
+        <li><a href="https://twitter.com/skamille">🐤 Twitter</a></li>
+        <li><a href="https://skamille.medium.com/">📝 Blog</a></li>
+        <li><a href="https://www.elidedbranches.com/">📚 Elided Branches</a></li>
+        </ul>
+        <p>If you haven’t yet, make sure to check out Camille’s book - <a href="https://www.oreilly.com/library/view/the-managers-path/9781491973882/">The Manager’s Path</a>.</p>
+        ]]>
+      </content:encoded>
+      <enclosure length="129935360" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S02E13.mp3" />
+      <guid>9d01275d-fdc1-4c8d-aed7-916c0926a797</guid>
+      <pubDate>Sun, 09 May 2021 12:00:00 GMT</pubDate>
+      <itunes:duration>3248</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>12</itunes:episode>
       <itunes:season>02</itunes:season>
       <title>&#35;31 - Lessons In Leadership, with Chad Fowler, VP of Technology at DEVCON</title>
