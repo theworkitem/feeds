@@ -21,6 +21,35 @@
     <itunes:explicit>false</itunes:explicit>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>14</itunes:episode>
+      <itunes:season>02</itunes:season>
+      <title>&#35;33 - Engineering In A News Organization And Beyond, with Nicole Tibaldi</title>
+      <description>
+        What lessons can you take away from a music degree and bring into engineering management? How do engineers work with folks in the newsroom at one of the biggest news organization on the planet? Nicole Tibaldi, Senior Engineering Manager at The New York Times (yes, that The New York Times) is here to tell us more about these things, her work, career, and how to foster a culture where your team feels included.
+      </description>
+      <itunes:summary>
+        What lessons can you take away from a music degree and bring into engineering management? How do engineers work with folks in the newsroom at one of the biggest news organization on the planet? Nicole Tibaldi, Senior Engineering Manager at The New York Times (yes, that The New York Times) is here to tell us more about these things, her work, career, and how to foster a culture where your team feels included.
+      </itunes:summary>
+      <content:encoded>
+        <![CDATA[
+        <p>What lessons can you take away from a music degree and bring into engineering management? How do engineers work with folks in the newsroom at one of the biggest news organization on the planet?</p>
+        <p>Nicole Tibaldi, Senior Engineering Manager at The New York Times (yes, <em>that</em> The New York Times) is here to tell us more about these things, her work, career, and how to foster a culture where your team feels included.</p>
+        <p>You can find Nicole on the following sites:</p>
+        <ul>
+        <li><a href="https://twitter.com/nicoletibaldi">🐤 Twitter</a></li>
+        <li><a href="https://nicole-tibaldi.me/">📝 Blog</a></li>
+        </ul>
+        <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
+        ]]>
+      </content:encoded>
+      <enclosure length="133662720" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S02E14.mp3" />
+      <guid>19371786-7c41-482a-8275-647232ff9972</guid>
+      <pubDate>Sun, 16 May 2021 12:00:00 GMT</pubDate>
+      <itunes:duration>3341</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>13</itunes:episode>
       <itunes:season>02</itunes:season>
       <title>&#35;32 - Camille Fournier on Engineering Management Paths</title>
@@ -41,6 +70,7 @@
         <li><a href="https://www.elidedbranches.com/">📚 Elided Branches</a></li>
         </ul>
         <p>If you haven’t yet, make sure to check out Camille’s book - <a href="https://www.oreilly.com/library/view/the-managers-path/9781491973882/">The Manager’s Path</a>.</p>
+        <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
         ]]>
       </content:encoded>
       <enclosure length="129935360" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S02E13.mp3" />
@@ -71,6 +101,7 @@
         <li><a href="https://mahakalamusic.com/">🎶 Mahakala Music</a> (Chad’s record label)</li>
         </ul>
         <p>Make sure to also check out Chad’s book - <a href="https://www.oreilly.com/library/view/the-passionate-programmer/9781680500165/">The Passionate Programmer</a>.</p>
+        <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
         ]]>
       </content:encoded>
       <enclosure length="149045248" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S02E12.mp3" />
