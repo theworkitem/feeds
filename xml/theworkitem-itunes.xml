@@ -19,6 +19,36 @@
     <itunes:image href="https://cdn.theworkitem.com/art/the-work-item-main.png" />
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
+     <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>15</itunes:episode>
+      <itunes:season>02</itunes:season>
+      <title>&#35;34 - Busting Career Myths with Laurie Barth</title>
+      <itunes:summary>
+        There are thousands of blog posts, tutorials, and videos that tell you what engineering careers are about, how you should be thinking about your dream job, and promotion trajectory. In this sea of content, it's often hard to separate the common from the edge case. In this episode, I talk to Laurie Barth, a renowned technologist and Senior Software Engineer at Netflix, about the myths we encounter in our careers, and what we can do to think about growth in a sustainable way.
+      </itunes:summary>
+      <description>
+        There are thousands of blog posts, tutorials, and videos that tell you what engineering careers are about, how you should be thinking about your dream job, and promotion trajectory. In this sea of content, it's often hard to separate the common from the edge case. In this episode, I talk to Laurie Barth, a renowned technologist and Senior Software Engineer at Netflix, about the myths we encounter in our careers, and what we can do to think about growth in a sustainable way.
+      </description>
+      <content:encoded>
+        <![CDATA[
+        <p>There are thousands of blog posts, tutorials, and videos that tell you what engineering careers are about, how you should be thinking about your dream job, and promotion trajectory. In this sea of content, it’s often hard to separate the common from the edge case.</p>
+        <p>In this episode, I talk to <a href="https://twitter.com/laurieontech">Laurie Barth</a>, a renowned technologist and Senior Software Engineer at Netflix, about the myths we encounter in our careers, and what we can do to think about growth in a sustainable way.</p>
+        <p>You can find Laurie on the following sites:</p>
+        <ul>
+        <li><a href="https://twitter.com/laurieontech">🐤 Twitter</a></li>
+        <li><a href="https://laurieontech.com/">📝 Blog</a></li>
+        <li><a href="https://egghead.io/q/resources-by-laurie-barth">🥚 Egghead.io</a></li>
+        </ul>
+        <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
+        ]]>
+      </content:encoded>
+      <enclosure length="134702080" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S02E15.mp3" />
+      <guid>cf3c6cf4-5840-43a7-89d5-34228432f0c1</guid>
+      <pubDate>Sun, 30 May 2021 12:00:00 GMT</pubDate>
+      <itunes:duration>3367</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>14</itunes:episode>
