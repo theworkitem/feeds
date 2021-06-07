@@ -19,7 +19,36 @@
     <itunes:image href="https://cdn.theworkitem.com/art/the-work-item-main.png" />
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
-     <item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>16</itunes:episode>
+      <itunes:season>02</itunes:season>
+      <title>&#35;35 - From Pre-Med To Product Management, with Janine Co</title>
+      <itunes:summary>
+        I often hear about folks moving from engineering to product management and back. Others make the transition from marketing and sales to product management. In a first for this show, today I talk to Janine Co, a product manager who recently joined the Microsoft Teams team, who also happened to switch from following a pre-med path to one in product. What things did she consider when making the switch? What did Janine do to build a network from scratch? It's all in this episode.
+      </itunes:summary>
+      <description>
+        I often hear about folks moving from engineering to product management and back. Others make the transition from marketing and sales to product management. In a first for this show, today I talk to Janine Co, a product manager who recently joined the Microsoft Teams team, who also happened to switch from following a pre-med path to one in product. What things did she consider when making the switch? What did Janine do to build a network from scratch? It's all in this episode.
+      </description>
+      <content:encoded>
+        <![CDATA[
+        <p>I often hear about folks moving from engineering to product management and back. Others make the transition from marketing and sales to product management. In a first for this show, today I talk to <a href="https://ja9.co/">Janine Co</a>, a product manager who recently joined the Microsoft Teams team, who also happened to switch from following a pre-med path to one in product.</p>
+        <p>What things did she consider when making the switch? What did Janine do to build a network from scratch? It’s all in this episode.</p>
+        <p>You can find Janine on the following sites:</p>
+        <ul>
+        <li><a href="https://twitter.com/ja9co">🐤 Twitter</a></li>
+        <li><a href="https://ja9.co/">📝 Blog</a></li>
+        </ul>
+        <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
+        ]]>
+      </content:encoded>
+      <enclosure length="134615040" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S02E16.mp3" />
+      <guid>e0ca1bb1-eed4-440c-acfe-5dc7695e0a46</guid>
+      <pubDate>Sun, 6 Jun 2021 12:00:00 GMT</pubDate>
+      <itunes:duration>3365</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>15</itunes:episode>
       <itunes:season>02</itunes:season>
