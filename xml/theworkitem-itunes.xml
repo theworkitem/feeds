@@ -21,6 +21,35 @@
     <itunes:explicit>false</itunes:explicit>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>17</itunes:episode>
+      <itunes:season>02</itunes:season>
+      <title>&#35;17 - Diving Into Open Source Engineering, with Jenn Creighton</title>
+      <itunes:summary>
+        There is a bit of a chasm between requirements for building open source projects and those that are designed to be closed. Not surprisingly, it also requires a different set of skills altogether if you want to do it right. To learn more about this, I sat down with Jenn Creighton, Senior Staff Open Source Engineer at Apollo GraphQL. Jenn has been building scalable web experiences at companies such as Ralph Lauren, Chartbeat, and ClassPass, and is now leading the work on one of the most interesting and active open projects out there.
+      </itunes:summary>
+      <description>
+        There is a bit of a chasm between requirements for building open source projects and those that are designed to be closed. Not surprisingly, it also requires a different set of skills altogether if you want to do it right. To learn more about this, I sat down with Jenn Creighton, Senior Staff Open Source Engineer at Apollo GraphQL. Jenn has been building scalable web experiences at companies such as Ralph Lauren, Chartbeat, and ClassPass, and is now leading the work on one of the most interesting and active open projects out there.
+      </description>
+      <content:encoded>
+        <![CDATA[
+        <p>There is a bit of a chasm between requirements for building open source projects and those that are designed to be closed. Not surprisingly, it also requires a different set of skills altogether if you want to do it right.</p>
+        <p>To learn more about this, I sat down with <a href="https://twitter.com/gurlcode">Jenn Creighton</a>, Senior Staff Open Source Engineer at Apollo GraphQL. Jenn has been building scalable web experiences at companies such as Ralph Lauren, Chartbeat, and ClassPass, and is now leading the work on one of the most interesting and active open projects out there.</p>
+        <p>You can find Jenn on the following sites:</p>
+        <ul>
+        <li><a href="https://twitter.com/gurlcode">🐤 Twitter</a></li>
+        <li><a href="https://podcasts.apple.com/gb/podcast/single-threaded-a-software-developer-podcast/id1547296687">🎙 Single Threaded Podcast</a></li>
+        </ul>
+        <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
+        ]]>
+      </content:encoded>
+      <enclosure length="137350144" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S02E17.mp3" />
+      <guid>a2e97cae-47c2-4541-8f17-cc63dd2a4cb5</guid>
+      <pubDate>Sun, 13 Jun 2021 12:00:00 GMT</pubDate>
+      <itunes:duration>3433</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>16</itunes:episode>
       <itunes:season>02</itunes:season>
       <title>&#35;35 - From Pre-Med To Product Management, with Janine Co</title>
