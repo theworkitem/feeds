@@ -18,6 +18,33 @@
     <itunes:explicit>false</itunes:explicit>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>21</itunes:episode>
+      <itunes:season>02</itunes:season>
+      <title>#40 - Engineering and Team Empathy, with Amro Mousa</title>
+      <itunes:summary>
+        Management, and especially engineering management, is way more than just telling others what to build. Talking to Amro Mousa, an engineering manager at Twitter, it becomes evident that a key ingredient to a good team is empathy. In this episode, I learn from him on what the best way is to lead with empathy in a team, and how one should think about the management track as a potential avenue in their career.
+      </itunes:summary>
+      <description>
+        Management, and especially engineering management, is way more than just telling others what to build. Talking to Amro Mousa, an engineering manager at Twitter, it becomes evident that a key ingredient to a good team is empathy. In this episode, I learn from him on what the best way is to lead with empathy in a team, and how one should think about the management track as a potential avenue in their career.
+      </description>
+      <content:encoded>
+        <![CDATA[
+        <p>Management, and especially engineering management, is way more than just telling others what to build. Talking to <a href="https://twitter.com/amdev">Amro Mousa</a>, an engineering manager at Twitter, it becomes evident that a key ingredient to a good team is empathy. In this episode, I learn from him on what the best way is to lead with empathy in a team, and how one should think about the management track as a potential avenue in their career.</p>
+        <p>You can find Amro on the following sites:</p>
+        <ul>
+        <li><a href="https://twitter.com/amdev">🐤 Twitter</a></li>
+        <li><a href="https://amro.co/">📝 Blog</a></li>
+        </ul>
+        <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>]]>
+      </content:encoded>
+      <enclosure length="107448320" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S02E21.mp3" />
+      <guid>187a49d8-b357-48f3-b1ee-313ae8950548</guid>
+      <pubDate>Sun, 17 Oct 2021 12:00:00 GMT</pubDate>
+      <itunes:duration>2686</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>20</itunes:episode>
       <itunes:season>02</itunes:season>
       <title>#39 - Focus on Delivering Value, with Dan Shaw</title>
