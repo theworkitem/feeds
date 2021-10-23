@@ -18,6 +18,37 @@
     <itunes:explicit>false</itunes:explicit>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>22</itunes:episode>
+      <itunes:season>02</itunes:season>
+      <title>#41 - Why Big Tech Is Not For Me, with Chloe Shih</title>
+      <description>
+        Despite what your LinkedIn feed might tell you, a career in FAANG is not the only way to grow in tech. Or even get started in tech, for that matter. There are many variables in play that can help you determine what career track to pursue, but none more important than the answer to your own “Why?” That’s why today I am talking to Chloe Shih, a product manager and content creator, about her journey to a product manager role, struggles along the way, and the realization that work in Big Tech might not be all that interesting or impactful.
+      </description>
+      <itunes:summary>
+        Despite what your LinkedIn feed might tell you, a career in FAANG is not the only way to grow in tech. Or even get started in tech, for that matter. There are many variables in play that can help you determine what career track to pursue, but none more important than the answer to your own “Why?” That’s why today I am talking to Chloe Shih, a product manager and content creator, about her journey to a product manager role, struggles along the way, and the realization that work in Big Tech might not be all that interesting or impactful.
+      </itunes:summary>
+      <content:encoded>
+        <![CDATA[
+        <p>Despite what your LinkedIn feed might tell you, a career in FAANG is not the only way to grow in tech. Or even get started in tech, for that matter. There are many variables in play that can help you determine what career track to pursue, but none more important than the answer to your own “Why?”</p>
+        <p>That’s why today I am talking to <a href="https://twitter.com/colorsofchloe">Chloe Shih</a>, a product manager and content creator, about her journey to a product manager role, struggles along the way, and the realization that work in Big Tech might not be all that interesting or impactful.</p>
+        <p>You can find Chloe on the following sites:</p>
+        <ul>
+        <li><a href="https://youtube.com/colorsofchloe">🎥 YouTube</a></li>
+        <li><a href="https://twitter.com/colorsofchloe">🐤 Twitter</a></li>
+        <li><a href="https://instagram.com/thechlobro">📸 Instagram</a></li>
+        <li><a href="https://twitch.tv/colorsofchloe">🦹‍♀️ Twitch</a></li>
+        </ul>
+        <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
+        ]]>
+      </content:encoded>
+      <enclosure length="145402880" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S02E22.mp3" />
+      <guid>aa294d84-436f-4375-96e5-401c7652a603</guid>
+      <pubDate>Sun, 24 Oct 2021 12:00:00 GMT</pubDate>
+      <itunes:duration>3635</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>21</itunes:episode>
       <itunes:season>02</itunes:season>
       <title>#40 - Engineering and Team Empathy, with Amro Mousa</title>
