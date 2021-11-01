@@ -18,6 +18,35 @@
     <itunes:explicit>false</itunes:explicit>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>23</itunes:episode>
+      <itunes:season>02</itunes:season>
+      <title>#42 - Building The World You Want To See, with Jeff Atwood</title>
+      <description>
+        Whether you are new in the tech industry or are a veteran developer, chances are that you've used a product that Jeff Atwood worked on. I'm talking about Stack Overflow and Discourse, of course. When it comes to building communities and fostering good conversations, Jeff took an unusual position - steer the conversation towards finding the best in people, argue ideas and not people, and ultimately, contribute to a world that's just a bit better. How does it all work? Jeff elaborates in this episode.
+      </description>
+      <itunes:summary>
+        Whether you are new in the tech industry or are a veteran developer, chances are that you've used a product that Jeff Atwood worked on. I'm talking about Stack Overflow and Discourse, of course. When it comes to building communities and fostering good conversations, Jeff took an unusual position - steer the conversation towards finding the best in people, argue ideas and not people, and ultimately, contribute to a world that's just a bit better. How does it all work? Jeff elaborates in this episode.
+      </itunes:summary>
+      <content:encoded>
+        <![CDATA[
+        <p>Whether you are new in the tech industry or are a veteran developer, chances are that you’ve used a product that <a href="https://twitter.com/coddinghorror">Jeff Atwood</a> worked on. I’m talking about <a href="https://stackoverflow.com">Stack Overflow</a> and <a href="https://discourse.org">Discourse</a>, of course. When it comes to building communities and fostering good conversations, Jeff took an unusual position - steer the conversation towards finding the best in people, argue ideas and not people, and ultimately, contribute to a world that’s just a bit better. How does it all work? Jeff elaborates in this episode.</p>
+        <p>You can find Jeff on the following sites:</p>
+        <ul>
+        <li><a href="https://twitter.com/coddinghorror">🐤 Twitter</a></li>
+        <li><a href="https://codinghorror.com/">📝 Blog</a></li>
+        </ul>
+        <p>As called-out on the show, you should check out <a href="https://discourse.org">Discourse</a>, along with the <a href="https://meta.discourse.org/">Meta</a> and <a href="https://bbs.boingboing.net/">Boing Boing</a> communities.</p>
+        <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
+        ]]>
+      </content:encoded>
+      <enclosure length="140592128" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S02E23.mp3" />
+      <guid>053477b0-0897-44b5-aa58-3b2296aeeab2</guid>
+      <pubDate>Sun, 31 Oct 2021 12:00:00 GMT</pubDate>
+      <itunes:duration>3514</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>22</itunes:episode>
       <itunes:season>02</itunes:season>
       <title>#41 - Why Big Tech Is Not For Me, with Chloe Shih</title>
