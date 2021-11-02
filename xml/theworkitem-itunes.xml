@@ -8,6 +8,7 @@
     <itunes:author>Den Delimarsky</itunes:author>
     <description>Building a fulfilling career is hard. With so many people around us taking on different adventures that propel their careers in unexpected trajectories, is there a path a person can take that is going to increase their likelihood of success? Can I build a career creating content? What does it take to make the transition from information technology jobs to space? Can I start a start-up and not lose my sanity? Every week, Den Delimarsky sits down with folks from a range of industries, roles, and backgrounds to learn more about their career journey, lessons learned, and what it takes to map out your own very unique track.
     </description>
+    <atom:link href="https://raw.githubusercontent.com/theworkitem/feeds/master/xml/theworkitem-itunes.xml" rel="self" type="application/rss+xml" />
     <itunes:type>serial</itunes:type>
     <itunes:owner>
       <itunes:name>Den Delimarsky</itunes:name>
@@ -553,7 +554,9 @@
       <description>This weekend, we go outdoors with Bill Kenney, co-founder of Focus Lab, a branding agency that is entirely remote. We talk to Bill about the importance of a good brand and what distinguishes professionals from amateurs in the field.
       </description>
       <content:encoded>
+        <![CDATA[
         <p>This weekend, we go outdoors with Bill Kenney, co-founder of Focus Lab, a branding agency that is entirely remote. We talk to Bill about the importance of a good brand and what distinguishes professionals from amateurs in the field.</p>
+        ]]>
       </content:encoded>
       <enclosure length="150623232" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S01E16.mp3"/>
       <guid isPermaLink="false">e6205376-5678-48d9-b25c-3d12d7dd13f7</guid>
@@ -666,9 +669,9 @@
       <itunes:episode>10</itunes:episode>
       <itunes:season>1</itunes:season>
       <title>#10 - Interview with Sara Chipps</title>
-      <itunes:summary>In this episode of The Work Item, we interview Sara Chipps, Director of Public Q&amp;A at Stack Overflow. Sara is also the founder of JewelBots, a company that provides electronic building kits for young inventors. We chat with Sara about community feedback, engineering management career tracks, and building tools for STEM inclusivity.
+      <itunes:summary>In this episode of The Work Item, we interview Sara Chipps, Director of Public Q and A at Stack Overflow. Sara is also the founder of JewelBots, a company that provides electronic building kits for young inventors. We chat with Sara about community feedback, engineering management career tracks, and building tools for STEM inclusivity.
       </itunes:summary>
-      <description>In this episode of The Work Item, we interview Sara Chipps, Director of Public Q&amp;A at Stack Overflow. Sara is also the founder of JewelBots, a company that provides electronic building kits for young inventors. We chat with Sara about community feedback, engineering management career tracks, and building tools for STEM inclusivity.
+      <description>In this episode of The Work Item, we interview Sara Chipps, Director of Public Q and A at Stack Overflow. Sara is also the founder of JewelBots, a company that provides electronic building kits for young inventors. We chat with Sara about community feedback, engineering management career tracks, and building tools for STEM inclusivity.
       </description>
       <content:encoded>
         <![CDATA[
