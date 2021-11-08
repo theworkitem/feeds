@@ -19,6 +19,33 @@
     <itunes:explicit>no</itunes:explicit>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>24</itunes:episode>
+      <itunes:season>02</itunes:season>
+      <title>#43 - Ins And Outs Of Developer Advocacy, with Brian Douglas</title>
+      <description>
+        Developer Advocacy is a relatively new field, but when it comes to knowing how to navigate it, Brian Douglas' knowledge is second to none. As Director of Developer Advocacy at GitHub, he is at the forefront of a lot of the developer engagement efforts - from understanding the pain points of those that use GitHub, to advocating for new initiatives and programs. I sit down with Brian to learn more about what it takes to be a great developer advocate, how one can break into the field, and how you measure success in the role. Suffice to say - it was a packed conversation and we needed more time and maybe even a future follow-up to cover everything.
+      </description>
+      <itunes:summary>
+        Developer Advocacy is a relatively new field, but when it comes to knowing how to navigate it, Brian Douglas' knowledge is second to none. As Director of Developer Advocacy at GitHub, he is at the forefront of a lot of the developer engagement efforts - from understanding the pain points of those that use GitHub, to advocating for new initiatives and programs. I sit down with Brian to learn more about what it takes to be a great developer advocate, how one can break into the field, and how you measure success in the role. Suffice to say - it was a packed conversation and we needed more time and maybe even a future follow-up to cover everything.
+      </itunes:summary>
+      <content:encoded>
+        <![CDATA[
+        <p>Developer Advocacy is a relatively new field, but when it comes to knowing how to navigate it, <a href="https://twitter.com/bdougieyo">Brian Douglas</a>' knowledge is second to none. As Director of Developer Advocacy at GitHub, he is at the forefront of a lot of the developer engagement efforts - from understanding the pain points of those that use GitHub, to advocating for new initiatives and programs.</p>
+        <p>I sit down with Brian to learn more about what it takes to be a great developer advocate, how one can break into the field, and how you measure success in the role. Suffice to say - it was a packed conversation and we needed more time and maybe even a future follow-up to cover everything.</p>
+        <p>You can find Brian on the following sites:</p>
+        <ul><li><a href="https://twitter.com/bdougieyo">🐤 Twitter</a></li><li><a href="https://bdougie.live/">📝 Blog</a></li><li><a href="https://github.com/bdougie">🐱 GitHub</a></li><li><a href="https://www.twitch.tv/bdougieYO">📹 Twitch</a></li><li><a href="https://buttondown.email/bdougie">📧 Newsletter</a></li></ul>
+        <p>Also, check out <a href="https://www.thisdevelopingstory.com/">This Developing Story</a> and <a href="https://www.heavybit.com/library/podcasts/jamstack-radio/">Jamstack Radio</a> - both podcasts that Brian runs!</p>
+        <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
+        ]]>
+      </content:encoded>
+      <enclosure length="138905600" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S02E24.mp3" />
+      <guid>2a220767-3a3f-4f59-b553-2c9ee57e1589</guid>
+      <pubDate>Sun, 07 Nov 2021 12:00:00 GMT</pubDate>
+      <itunes:duration>3472</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>23</itunes:episode>
       <itunes:season>02</itunes:season>
       <title>#42 - Building The World You Want To See, with Jeff Atwood</title>
