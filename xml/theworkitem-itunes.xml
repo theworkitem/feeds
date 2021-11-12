@@ -19,6 +19,32 @@
     <itunes:explicit>no</itunes:explicit>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>25</itunes:episode>
+      <itunes:season>02</itunes:season>
+      <title>#44 - So What Is Product Marketing, with Isaac Levin</title>
+      <description>
+        You've probably heard of the many types of PM - project managers, product managers, and even program managers. But did you also know that there is a PMM - product marketing manager? I wasn't quite sure what the responsibilities of one would be, so I reached out to Isaac Levin - Principal Product Marketing Manager at Elastic, and asked him to talk about his work.
+      </description>
+      <itunes:summary>
+        You've probably heard of the many types of PM - project managers, product managers, and even program managers. But did you also know that there is a PMM - product marketing manager? I wasn't quite sure what the responsibilities of one would be, so I reached out to Isaac Levin - Principal Product Marketing Manager at Elastic, and asked him to talk about his work.
+      </itunes:summary>
+      <content:encoded>
+        <![CDATA[
+        <p>You’ve probably heard of the many types of PM - project managers, product managers, and even program managers. But did you also know that there is a PMM - product marketing manager? I wasn’t quite sure what the responsibilities of one would be, so I reached out to <a href="https://twitter.com/isaacrlevin">Isaac Levin</a> - Principal Product Marketing Manager at Elastic, and asked him to talk about his work.</p>
+        <p>You can find Isaac on the following sites:</p>
+        <ul><li><a href="https://twitter.com/isaacrlevin">🐤 Twitter</a></li><li><a href="https://www.isaaclevin.com/">📝 Blog</a></li><li><a href="https://github.com/isaacrlevin">🐱 GitHub</a></li><li><a href="https://www.twitch.tv/isaacrlevin">📹 Twitch</a></li></ul>
+        <p>Make sure to also check out Isaac’s podcast - <a href="https://www.coffeeandopensource.com/">Coffee and Open Source</a>.</p>
+        <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
+        ]]>
+      </content:encoded>
+      <enclosure length="147520512" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S02E25.mp3" />
+      <guid isPermaLink="false">b67245d4-0c52-4d49-839f-aba01955eee1</guid>
+      <pubDate>Sun, 14 Nov 2021 12:00:00 GMT</pubDate>
+      <itunes:duration>3688</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>24</itunes:episode>
       <itunes:season>02</itunes:season>
       <title>#43 - Ins And Outs Of Developer Advocacy, with Brian Douglas</title>
@@ -39,7 +65,7 @@
         ]]>
       </content:encoded>
       <enclosure length="138905600" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S02E24.mp3" />
-      <guid>2a220767-3a3f-4f59-b553-2c9ee57e1589</guid>
+      <guid isPermaLink="false">2a220767-3a3f-4f59-b553-2c9ee57e1589</guid>
       <pubDate>Sun, 07 Nov 2021 12:00:00 GMT</pubDate>
       <itunes:duration>3472</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
