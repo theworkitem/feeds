@@ -19,6 +19,31 @@
     <itunes:explicit>no</itunes:explicit>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>26</itunes:episode>
+      <itunes:season>02</itunes:season>
+      <title>#45 - Startups, Growth, and A Quest to Build People-focused Companies, with Jennifer Kim</title>
+      <description>
+        The decision to join a startup or a big company is not an easy one, as one has to consider many factors that go beyond just the financial side of things. In this episode, I talk to Jennifer Kim, a seasoned startup advisor with a lot of experience dealing with these kinds of decisions and more. Jennifer also specializes in the people part of the startup equation - arguably, one of the hardest ones. We chat about the current challenges startups encounter in this space, why it’s important to build a diverse workforce, and what one individual can do to be a changemaker in their company’s culture.
+      </description>
+      <itunes:summary>
+        The decision to join a startup or a big company is not an easy one, as one has to consider many factors that go beyond just the financial side of things. In this episode, I talk to Jennifer Kim, a seasoned startup advisor with a lot of experience dealing with these kinds of decisions and more. Jennifer also specializes in the people part of the startup equation - arguably, one of the hardest ones. We chat about the current challenges startups encounter in this space, why it’s important to build a diverse workforce, and what one individual can do to be a changemaker in their company’s culture.
+      </itunes:summary>
+      <content:encoded>
+        <![CDATA[
+        <p>The decision to join a startup or a big company is not an easy one, as one has to consider many factors that go beyond just the financial side of things. In this episode, I talk to <a href="https://www.jennifer.kim/">Jennifer Kim</a>, a seasoned startup advisor with a lot of experience dealing with these kinds of decisions and more. Jennifer also specializes in the people part of the startup equation - arguably, one of the hardest ones. We chat about the current challenges startups encounter in this space, why it’s important to build a diverse workforce, and what one individual can do to be a changemaker in their company’s culture.</p>
+        <p>You can find Jennifer on the following sites:</p>
+        <ul><li><a href="https://twitter.com/jenistyping">🐤 Twitter</a></li><li><a href="https://www.jennifer.kim/">📝 Website</a></li></ul>
+        <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
+        ]]>
+      </content:encoded>
+      <enclosure length="130045952" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S02E26.mp3" />
+      <guid>ad679b3a-c713-4463-bac4-5a8e7b6a411c</guid>
+      <pubDate>Sun, 28 Nov 2021 12:00:00 GMT</pubDate>
+      <itunes:duration>3251</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>25</itunes:episode>
       <itunes:season>02</itunes:season>
       <title>#44 - So What Is Product Marketing, with Isaac Levin</title>
