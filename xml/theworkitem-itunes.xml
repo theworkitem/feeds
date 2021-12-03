@@ -19,6 +19,33 @@
     <itunes:explicit>no</itunes:explicit>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>27</itunes:episode>
+      <itunes:season>02</itunes:season>
+      <title>#46 - From Journalism to Developer Engagement, with Christina Warren</title>
+      <description>
+        The myth of the superhero programmer - we often hear about it, but it’s rarely the reality. Being a superhero on a team takes more than just technical chops, and that’s one of the topics that I chat about today with Senior Developer Advocate at Microsoft - Christina Warren. You might’ve seen Christina before on This Week on Channel 9, or even back in the day - at Gizmodo and Mashable. This episode ended up being less of a career chat and more of a friendly exchange about the latest happenings and what we can learn from them. Yes, we even talk a bit about the re-released Grand Theft Auto: The Definitive Edition.
+      </description>
+      <itunes:summary>
+        The myth of the superhero programmer - we often hear about it, but it’s rarely the reality. Being a superhero on a team takes more than just technical chops, and that’s one of the topics that I chat about today with Senior Developer Advocate at Microsoft - Christina Warren. You might’ve seen Christina before on This Week on Channel 9, or even back in the day - at Gizmodo and Mashable. This episode ended up being less of a career chat and more of a friendly exchange about the latest happenings and what we can learn from them. Yes, we even talk a bit about the re-released Grand Theft Auto: The Definitive Edition.
+      </itunes:summary>
+      <content:encoded>
+        <![CDATA[
+        <p>The myth of the superhero programmer - we often hear about it, but it’s rarely the reality. Being a superhero on a team takes more than just technical chops, and that’s one of the topics that I chat about today with Senior Developer Advocate at Microsoft - <a href="https://twitter.com/film_girl">Christina Warren</a>. You might’ve seen Christina before on This Week on Channel 9, or even back in the day - at Gizmodo and Mashable.</p>
+        <p>This episode ended up being less of a career chat and more of a friendly exchange about the latest happenings and what we can learn from them. Yes, we even talk a bit about the re-released Grand Theft Auto: The Definitive Edition.</p>
+        <p>You can find Christina on the following sites:</p>
+        <ul><li><a href="https://twitter.com/film_girl">🐤 Twitter</a></li><li><a href="http://christina.is/">📝 Website</a></li><li><a href="https://instagram.com/film_girl">📷 Instagram</a></li></ul>
+        <p>And if you want to see more of Clippy (the beloved Office assistant) come to life, you absolutely have to help Christina get to 10,000 followers <a href="https://instagram.com/film_girl">on Instagram</a>.</p>
+        <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
+        ]]>
+      </content:encoded>
+      <enclosure length="140249088" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S02E27.mp3" />
+      <guid isPermaLink="false">e54d3016-6c90-4c39-b6e1-480311db9a70</guid>
+      <pubDate>Sun, 29 Nov 2021 12:00:00 GMT</pubDate>
+      <itunes:duration>3506</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>26</itunes:episode>
       <itunes:season>02</itunes:season>
       <title>#45 - Startups, Growth, and A Quest to Build People-focused Companies, with Jennifer Kim</title>
@@ -37,7 +64,7 @@
         ]]>
       </content:encoded>
       <enclosure length="130045952" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S02E26.mp3" />
-      <guid>ad679b3a-c713-4463-bac4-5a8e7b6a411c</guid>
+      <guid isPermaLink="false">ad679b3a-c713-4463-bac4-5a8e7b6a411c</guid>
       <pubDate>Sun, 28 Nov 2021 12:00:00 GMT</pubDate>
       <itunes:duration>3251</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
