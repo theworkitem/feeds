@@ -19,6 +19,34 @@
     <itunes:explicit>no</itunes:explicit>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>28</itunes:episode>
+      <itunes:season>02</itunes:season>
+      <title>#47 - 2021 Reflections, Creativity, and More, with Mayuko Inoue</title>
+      <description>
+        The end of 2021 is almost here, and it’s time to wrap up the second season of The Work Item. And what better way to do that than to invite a good friend on the show to talk about their journey through the past 12 months? In this episode, I am chatting with Mayuko Inoue about all things 2021, the best choices in comfort foods, McDonalds french fries, thoughts on the content creator career path, and more. We wanted to make this episode very informal, yet informative. To borrow Mayuko’s intro to her own podcast, Muko’s Corner (which you should subscribe to) - sit down, get cozy, grab a cup of tea, and enjoy the show!
+      </description>
+      <itunes:summary>
+        The end of 2021 is almost here, and it’s time to wrap up the second season of The Work Item. And what better way to do that than to invite a good friend on the show to talk about their journey through the past 12 months? In this episode, I am chatting with Mayuko Inoue about all things 2021, the best choices in comfort foods, McDonalds french fries, thoughts on the content creator career path, and more. We wanted to make this episode very informal, yet informative. To borrow Mayuko’s intro to her own podcast, Muko’s Corner (which you should subscribe to) - sit down, get cozy, grab a cup of tea, and enjoy the show!
+      </itunes:summary>
+      <content:encoded>
+        <![CDATA[
+        <p>The end of 2021 is almost here, and it’s time to wrap up the second season of The Work Item. And what better way to do that than to invite a good friend on the show to talk about their journey through the past 12 months? In this episode, I am chatting with Mayuko Inoue about all things 2021, the best choices in comfort foods, McDonalds french fries, thoughts on the content creator career path, and more.</p>
+        <p>We wanted to make this episode very informal, yet informative. To borrow Mayuko’s intro to her own podcast, Muko’s Corner (which you should subscribe to) - sit down, get cozy, grab a cup of tea, and enjoy the show!</p>
+        <p>You can find Mayuko on the following sites:</p>
+        <ul><li><a href="https://youtube.com/hellomayuko">🎥 YouTube</a></li><li><a href="https://twitter.com/hellomayuko">🐤 Twitter</a></li><li><a href="https://instagram.com/hellomayuko">📸 Instagram</a></li><li><a href="https://www.hellomayuko.com">📝 Blog</a></li><li><a href="https://twitch.tv/hellomayuko">🦹‍♀️ Twitch</a></li><li><a href="https://anchor.fm/mayuko-inoue/">🎙 Podcast (Muko’s Corner)</a></li></ul>
+        <p>If you haven’t yet seen Mayuko’s “<a href="https://www.youtube.com/watch?v=rqX8PFcOpxA">A Day In The Life of a Software Engineer</a>” and “<a href="https://www.youtube.com/watch?v=GqMSWuSeDPA">Why Japan Fell Behind in the Tech Industry</a>” - add them to your watch queue!</p>
+        <p>As a side-note, you can also check out my interview with Mayuko <a href="https://www.youtube.com/watch?v=z-pys9Iq3VE">on her channel</a>.</p>
+        <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
+        ]]>
+      </content:encoded>
+      <enclosure length="143457280" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S02E28.mp3" />
+      <guid isPermaLink="false">42f7a664-26b6-457f-affc-caddf88df935</guid>
+      <pubDate>Sun, 12 Dec 2021 12:00:00 GMT</pubDate>
+      <itunes:duration>3586</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>27</itunes:episode>
       <itunes:season>02</itunes:season>
       <title>#46 - From Journalism to Developer Engagement, with Christina Warren</title>
