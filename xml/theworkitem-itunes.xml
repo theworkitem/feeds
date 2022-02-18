@@ -19,6 +19,36 @@
     <itunes:explicit>no</itunes:explicit>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>02</itunes:episode>
+      <itunes:season>03</itunes:season>
+      <itunes:image href="https://cdn.theworkitem.com/art/episode-logos/s03e02.png" />
+      <title>#49 - Product Management in Government, with Director of Product Management for the City and County of San Francisco, Adrianna Tan</title>
+      <description>
+        Despite starting a career in product management at one of the big companies, I've never considered to do the same job but working for the government. Not because I didn't want to. Mainly, because I did not know that was even an option. As it turns out - it is, in fact, an option, and a pretty impactful one at that. To learn more about this career trajectory, I chatted with Adrianna Tan, Director of Product Management for the City and County of San Francisco. She shares her journey as a founder of startups and non-profits, an avid hiker and an advocate for an open web, and how it all combines in her work.
+      </description>
+      <itunes:summary>
+        Despite starting a career in product management at one of the big companies, I've never considered to do the same job but working for the government. Not because I didn't want to. Mainly, because I did not know that was even an option. As it turns out - it is, in fact, an option, and a pretty impactful one at that. To learn more about this career trajectory, I chatted with Adrianna Tan, Director of Product Management for the City and County of San Francisco. She shares her journey as a founder of startups and non-profits, an avid hiker and an advocate for an open web, and how it all combines in her work.
+      </itunes:summary>
+      <content:encoded>
+        <![CDATA[
+        <p>Despite starting a career in product management at one of the big companies, I’ve never considered to do the same job but working for the government. Not because I didn’t want to. Mainly, because I did not know that was even an option. As it turns out - it is, in fact, an option, and a pretty impactful one at that.</p>
+        <p>To learn more about this career trajectory, I chatted with Adrianna Tan, Director of Product Management for the City and County of San Francisco. She shares her journey as a founder of startups and non-profits, an avid hiker and an advocate for an open web, and how it all combines in her work.</p>
+        <p>You can find Adrianna on the following sites:</p>
+        <ul>
+        <li><a href="https://twitter.com/skinnylatte">🐤 Twitter</a></li>
+        <li><a href="https://popagandhi.com/">📝 Blog</a></li>
+        </ul>
+        <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
+        ]]>
+      </content:encoded>
+      <enclosure length="88701952" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S03E02.mp3" />
+      <guid isPermaLink="false">f52f399c-3638-41b8-89d6-50eb34fe760d</guid>
+      <pubDate>Thu, 17 Feb 2022 12:00:00 GMT</pubDate>
+      <itunes:duration>2217</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>01</itunes:episode>
       <itunes:season>03</itunes:season>
       <itunes:image href="https://cdn.theworkitem.com/art/episode-logos/s03e01.png" />
