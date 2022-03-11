@@ -19,6 +19,33 @@
     <itunes:explicit>no</itunes:explicit>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>04</itunes:episode>
+      <itunes:season>03</itunes:season>
+      <title>#51 - Finding Your Engineering Passion, with Vicente Plata of 500 Startups LatAm, Shopify, and More</title>
+      <itunes:image href="https://cdn.theworkitem.com/art/episode-logos/s03e04.png" />
+      <description>
+        Vicente Plata is doing way more than one would expect from an engineering leader - not only is he an engineering manager, but he also advises startups and communities, is deeply involved in various mentorship programs, and is someone who is always eager to help. In this episode we sit down to chat more about his aspirations, how he balances time between all the responsibilities, and what someone working in tech can do to accelerate their career on an exponential trajectory.
+      </description>
+      <itunes:summary>
+        Vicente Plata is doing way more than one would expect from an engineering leader - not only is he an engineering manager, but he also advises startups and communities, is deeply involved in various mentorship programs, and is someone who is always eager to help. In this episode we sit down to chat more about his aspirations, how he balances time between all the responsibilities, and what someone working in tech can do to accelerate their career on an exponential trajectory.
+      </itunes:summary>
+      <content:encoded>
+        <![CDATA[
+        <p>Vicente Plata is doing way more than one would expect from an engineering leader - not only is he an engineering manager, but he also advises startups and communities, is deeply involved in various mentorship programs, and is someone who is always eager to help.</p>
+        <p>In this episode we sit down to chat more about his aspirations, how he balances time between all the responsibilities, and what someone working in tech can do to accelerate their career on an exponential trajectory.</p>
+        <p>You can find Vicente on the following sites:</p>
+        <ul><li><a href="https://twitter.com/xnt">🐤 Twitter</a></li><li><a href="https://vplata.dev/">📝 Website</a></li></ul>
+        <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
+        ]]>
+      </content:encoded>
+      <enclosure length="99037184" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S03E04.mp3" />
+      <guid isPermaLink="false">831da896-2547-4e77-b99a-9859cd1cbec4</guid>
+      <pubDate>Fri, 11 Mar 2022 12:00:00 GMT</pubDate>
+      <itunes:duration>2475</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>03</itunes:episode>
       <itunes:season>03</itunes:season>
       <title>#50 - Problem And Product Management, with Isaac Hepworth</title>
