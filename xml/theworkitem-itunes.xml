@@ -19,6 +19,32 @@
     <itunes:explicit>no</itunes:explicit>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>06</itunes:episode>
+      <itunes:season>03</itunes:season>
+      <title>#53 - Find Your Mentor And Complementary Skills, With Nicole Zhu, Senior Engineer At Vox Media</title>
+      <itunes:image href="https://cdn.theworkitem.com/art/episode-logos/s03e06.png" />
+      <description>
+        There are a few things in your engineering career that you should focus on relentlessly, but few as impactful as finding yourself a guide through the journey, as well as develop a set of complementary skills that can help accelerate your own trajectory. I chatted with Nicole Zhu, Senior Engineer at Vox Media, about the importance of mentorship, peer feedback (or any feedback, for that matter), and how skills that are not directly related to writing code can be more helpful to success than you anticipate.
+      </description>
+      <itunes:summary>
+        There are a few things in your engineering career that you should focus on relentlessly, but few as impactful as finding yourself a guide through the journey, as well as develop a set of complementary skills that can help accelerate your own trajectory. I chatted with Nicole Zhu, Senior Engineer at Vox Media, about the importance of mentorship, peer feedback (or any feedback, for that matter), and how skills that are not directly related to writing code can be more helpful to success than you anticipate.
+      </itunes:summary>
+      <content:encoded>
+        <![CDATA[
+        <p>There are a few things in your engineering career that you should focus on relentlessly, but few as impactful as finding yourself a guide through the journey, as well as develop a set of complementary skills that can help accelerate your own trajectory. I chatted with <a href="https://twitter.com/nicolelzhu">Nicole Zhu</a>, Senior Engineer at Vox Media, about the importance of mentorship, peer feedback (or any feedback, for that matter), and how skills that are not directly related to writing code can be more helpful to success than you anticipate.</p>
+        <p>You can find Nicole on the following sites:</p>
+        <ul><li><a href="https://twitter.com/nicolelzhu">🐤 Twitter</a></li><li><a href="http://nicolezhu.io/">📝 Website</a></li><li><a href="https://nicoledonut.com/">📰 Newsletter</a></li></ul>
+        <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
+        ]]>
+      </content:encoded>
+      <enclosure length="89122816" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S03E06.mp3" />
+      <guid isPermaLink="false">791376a2-69f2-4740-a924-93473b82a976</guid>
+      <pubDate>Fri, 25 Mar 2022 12:00:00 GMT</pubDate>
+      <itunes:duration>2228</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>05</itunes:episode>
       <itunes:season>03</itunes:season>
       <title>#52 - Grow Your Career in Data Science, with Nick Wan, Director of Analytics for Cincinnati Reds</title>
