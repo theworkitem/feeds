@@ -19,6 +19,36 @@
     <itunes:explicit>no</itunes:explicit>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>07</itunes:episode>
+      <itunes:season>03</itunes:season>
+      <title>#54 - From Apple to Netflix, with Carola Nitz</title>
+      <itunes:image href="https://cdn.theworkitem.com/art/episode-logos/s03e07.png" />
+      <description>
+        Carola Nitz is a seasoned engineer who has been involved in a variety of complex projects - from VLC, to Apple Maps, and now working at Netflix on their iOS app experience. She also started her career by learning medical computer science - what a way to jump in! In this episode, we're learning about her career, what helped her be successful, and how she thinks about the importance of jumps between projects and companies.
+      </description>
+      <itunes:summary>
+        Carola Nitz is a seasoned engineer who has been involved in a variety of complex projects - from VLC, to Apple Maps, and now working at Netflix on their iOS app experience. She also started her career by learning medical computer science - what a way to jump in! In this episode, we're learning about her career, what helped her be successful, and how she thinks about the importance of jumps between projects and companies.
+      </itunes:summary>
+      <content:encoded>
+        <![CDATA[
+        <p>Carola Nitz is a seasoned engineer who has been involved in a variety of complex projects - from VLC, to Apple Maps, and now working at Netflix on their iOS app experience. She also started her career by learning medical computer science - what a way to jump in!</p>
+        <p>In this episode, we're learning about her career, what helped her be successful, and how she thinks about the importance of jumps between projects and companies.</p>
+        <p>You can find Carola on the following sites:</p>
+        <ul>
+        <li><a href="https://twitter.com/_Caro_N">🐤 Twitter</a></li>
+        <li><a href="https://www.carolanitz.com/">📝 Blog</a></li>
+        </ul>
+        <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
+        ]]>
+      </content:encoded>
+      <enclosure length="81819648" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S03E07.mp3" />
+      <guid isPermaLink="false">d25fcfed-4176-44db-b39d-ebe255968c6e</guid>
+      <pubDate>Fri, 20 May 2022 12:00:00 GMT</pubDate>
+      <itunes:duration>2045</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>06</itunes:episode>
       <itunes:season>03</itunes:season>
       <title>#53 - Find Your Mentor And Complementary Skills, With Nicole Zhu, Senior Engineer At Vox Media</title>
