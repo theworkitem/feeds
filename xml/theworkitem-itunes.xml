@@ -19,6 +19,35 @@
     <itunes:explicit>no</itunes:explicit>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>08</itunes:episode>
+      <itunes:season>03</itunes:season>
+      <title>#55 - Open Source and Web Development, with Monica Powell</title>
+      <itunes:image href="https://cdn.theworkitem.com/art/episode-logos/s03e08.png" />
+      <description>
+        What does one need to do to make open-source code more approachable? How do you figure out which teams to join for maximum positive impact on your communities? And how do you build communities? These questions and more are the topic of my conversation with Monica Powell, software engineer extraordinaire, who also happens to be a GitHub Star - an exclusive group of contributors recognized for their outstanding work in the open-source software space!
+      </description>
+      <itunes:summary>
+        What does one need to do to make open-source code more approachable? How do you figure out which teams to join for maximum positive impact on your communities? And how do you build communities? These questions and more are the topic of my conversation with Monica Powell, software engineer extraordinaire, who also happens to be a GitHub Star - an exclusive group of contributors recognized for their outstanding work in the open-source software space!
+      </itunes:summary>
+      <content:encoded>
+        <![CDATA[
+        <p>What does one need to do to make open-source code more approachable? How do you figure out which teams to join for maximum positive impact on your communities? And how do you build communities? These questions and more are the topic of my conversation with <a href="https://aboutmonica.com/">Monica Powell</a>, software engineer extraordinaire, who also happens to be a <a href="https://stars.github.com/">GitHub Star</a> - an exclusive group of contributors recognized for their outstanding work in the open-source software space!</p>
+        <p>You can find Monica on the following sites:</p>
+        <ul>
+        <li><a href="https://twitter.com/indigitalcolor">🐤 Twitter</a></li>
+        <li><a href="https://aboutmonica.com/">📝 Blog</a></li>
+        </ul>
+        <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
+        ]]>
+      </content:encoded>
+      <enclosure length="100042752" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S03E08.mp3" />
+      <guid isPermaLink="false">edf3cc4b-b7b8-4f78-921f-e1e9914b2027</guid>
+      <pubDate>Sat, 27 Aug 2022 12:00:00 GMT</pubDate>
+      <itunes:duration>2501</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>07</itunes:episode>
       <itunes:season>03</itunes:season>
       <title>#54 - From Apple to Netflix, with Carola Nitz</title>
