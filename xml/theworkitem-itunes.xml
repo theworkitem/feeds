@@ -19,6 +19,36 @@
     <itunes:explicit>no</itunes:explicit>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>09</itunes:episode>
+      <itunes:season>03</itunes:season>
+      <title>#56 - Reverse Engineering The Halo API with Alexis from HaloDotAPI</title>
+      <itunes:image href="https://cdn.theworkitem.com/art/episode-logos/s03e09.png" />
+      <description>
+        If you ever played any of the Halo games, you probably know that there is a _wealth_ of data being exchanged between the game and Halo services. This includes stats and so much more. If you've ever wanted to use those stats, you also probably ran into HaloDotAPI - a Halo API wrapper for Halo Infinite and Master Chief Collection. Behind all of this work is one individual - Alexis, or Zeny_IC (on both Twitter and Xbox Live).
+      </description>
+      <itunes:summary>
+        If you ever played any of the Halo games, you probably know that there is a _wealth_ of data being exchanged between the game and Halo services. This includes stats and so much more. If you've ever wanted to use those stats, you also probably ran into HaloDotAPI - a Halo API wrapper for Halo Infinite and Master Chief Collection. Behind all of this work is one individual - Alexis, or Zeny_IC (on both Twitter and Xbox Live).
+      </itunes:summary>
+      <content:encoded>
+        <![CDATA[
+        <p>If you ever played any of the Halo games, you probably know that there is a <em>wealth</em> of data being exchanged between the game and Halo services. This includes stats and so much more. If you’ve ever wanted to use those stats, you also probably ran into <a href="https://autocode.com/halo/">HaloDotAPI</a> - a Halo API wrapper for Halo Infinite and Master Chief Collection. Behind all of this work is one individual - Alexis, or Zeny_IC (on both Twitter and Xbox Live).</p>
+        <p>Today I chat with Alexis about his early roots, what led him to explore reverse engineering as a viable career path, as well as what it took to actually figure out the Halo API.</p>
+        <p>You can find Alexis on the following sites:</p>
+        <ul>
+        <li><a href="https://twitter.com/Zeny_IC">🐤 Twitter - Alexis</a></li>
+        <li><a href="https://twitter.com/HaloDotAPI">🐤 Twitter - HaloDotAPI</a></li>
+        </ul>
+        <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
+        ]]>
+      </content:encoded>
+      <enclosure length="67782656" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S03E09.mp3" />
+      <guid isPermaLink="false">ab229330-27f8-46c2-b50d-90856947756e</guid>
+      <pubDate>Mon, 10 Oct 2022 12:00:00 GMT</pubDate>
+      <itunes:duration>1694</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>08</itunes:episode>
       <itunes:season>03</itunes:season>
       <title>#55 - Open Source and Web Development, with Monica Powell</title>
