@@ -19,6 +19,33 @@
     <itunes:explicit>no</itunes:explicit>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>10</itunes:episode>
+      <itunes:season>03</itunes:season>
+      <title>#57 - From Turbo Pascal to CodePen, with Chris Coyier</title>
+      <itunes:image href="https://cdn.theworkitem.com/art/episode-logos/s03e10.png" />
+      <description>
+        If you are a web developer, chances are that you used CodePen more than once. You’re also probably very familiar with CSS-Tricks for, well, more than just CSS tricks. The man behind these experiences, Chris Coyier, actually started his journey some time ago with a programming language called Turbo Pascal - many steps removed from web development. I sat down with Chris to talk more about his career, lessons in getting CodePen out into the world, and so much more.      </description>
+      <itunes:summary>
+        If you are a web developer, chances are that you used CodePen more than once. You’re also probably very familiar with CSS-Tricks for, well, more than just CSS tricks. The man behind these experiences, Chris Coyier, actually started his journey some time ago with a programming language called Turbo Pascal - many steps removed from web development. I sat down with Chris to talk more about his career, lessons in getting CodePen out into the world, and so much more.      </itunes:summary>
+      <content:encoded>
+        <![CDATA[
+        <p>If you are a web developer, chances are that you used <a href="https://codepen.io/">CodePen</a> more than once. You’re also probably <em>very</em> familiar with <a href="https://css-tricks.com/">CSS-Tricks</a> for, well, more than just CSS tricks. The man behind these experiences, Chris Coyier, actually started his journey some time ago with a programming language called Turbo Pascal - many steps removed from web development. I sat down with Chris to talk more about his career, lessons in getting CodePen out into the world, and so much more.</p>
+        <p>You can find Chris on the following sites:</p>
+        <ul>
+        <li><a href="https://twitter.com/chriscoyier">🐤 Twitter</a></li>
+        <li><a href="https://chriscoyier.net/">📝 Website</a></li>
+        </ul>
+        <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
+        ]]>
+      </content:encoded>
+      <enclosure length="91810560" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S03E10.mp3" />
+      <guid isPermaLink="false">8c71af7b-4df1-479b-af62-ac86a910d232</guid>
+      <pubDate>Sat, 29 Oct 2022 12:00:00 GMT</pubDate>
+      <itunes:duration>2296</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>09</itunes:episode>
       <itunes:season>03</itunes:season>
       <title>#56 - Reverse Engineering The Halo API with Alexis from HaloDotAPI</title>
