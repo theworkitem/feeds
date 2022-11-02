@@ -19,6 +19,40 @@
     <itunes:explicit>no</itunes:explicit>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>11</itunes:episode>
+      <itunes:season>03</itunes:season>
+      <title>#58 - Becoming a Game Studio Co-Founder, with Moon Studios' Gennadiy Korol</title>
+      <itunes:image href="https://cdn.theworkitem.com/art/episode-logos/s03e11.png" />
+      <description>
+        Working on games is hard. It's even harder to go from an engineer to a founder of a game studio that is able to produce two blockbuster titles in a row. In today's show I chat with Moon Studios co-founder Gennadiy Korol about his work on Ori (if you're near an Xbox or a PC - the game is worth your time), learning the complexity of graphics engineering, and navigating the uncertainty that comes from starting a zero-to-one effort where you have nothing to fall back on.
+      </description>
+      <itunes:summary>
+        Working on games is hard. It's even harder to go from an engineer to a founder of a game studio that is able to produce two blockbuster titles in a row. In today's show I chat with Moon Studios co-founder Gennadiy Korol about his work on Ori (if you're near an Xbox or a PC - the game is worth your time), learning the complexity of graphics engineering, and navigating the uncertainty that comes from starting a zero-to-one effort where you have nothing to fall back on.
+      </itunes:summary>
+      <content:encoded>
+        <![CDATA[
+        <p>Working on games is hard. It's even harder to go from an engineer to a founder of a game studio that is able to produce two blockbuster titles in a row. In today’s show I chat with Moon Studios co-founder <a href="https://twitter.com/thegennadiy">Gennadiy Korol</a> about his work on Ori (if you’re near an Xbox or a PC - the game is worth your time), learning the complexity of graphics engineering, and navigating the uncertainty that comes from starting a zero-to-one effort where you have nothing to fall back on.</p>
+        <p>You can find Gennadiy on the following sites:</p>
+        <ul>
+        <li><a href="https://twitter.com/thegennadiy">🐤 Twitter</a></li>
+        </ul>
+        <p>You can learn more about Gennadiy's work as well:</p>
+        <ul>
+        <li><a href="https://www.orithegame.com/moon-studios/">📝 Moon Studios</a></li>
+        <li><a href="https://twitter.com/moongamestudios">🐤 Moon Studios - Twitter</a></li>
+        <li><a href="https://www.orithegame.com/">📝 Ori - The Game</a></li>
+        </ul>
+        <p>The podcast was produced by <a href="https://den.dev">Den</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
+        ]]>
+      </content:encoded>
+      <enclosure length="141686784" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S03E11.mp3" />
+      <guid isPermaLink="false">06cf6c0b-de2b-4c53-8201-4b3d0a39634a</guid>
+      <pubDate>Wed, 02 Nov 2022 12:00:00 GMT</pubDate>
+      <itunes:duration>3542</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>10</itunes:episode>
       <itunes:season>03</itunes:season>
       <title>#57 - From Turbo Pascal to CodePen, with Chris Coyier</title>
