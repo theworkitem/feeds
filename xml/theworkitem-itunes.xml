@@ -19,6 +19,37 @@
     <itunes:explicit>no</itunes:explicit>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>12</itunes:episode>
+      <itunes:season>03</itunes:season>
+      <title>#59 - Building On Your Own, with iOS Developer Donny Wals</title>
+      <itunes:image href="https://cdn.theworkitem.com/art/episode-logos/s03e12.png" />
+      <description>
+        Leaving your full-time job behind and starting your own business based on your own brand is a somewhat scary proposition. And yet, this is exactly what Donny Wals, a prolific iOS developer and technology teacher, is doing. In this episode I sat down with him to talk more about his work, what was his thinking in going solo, and what one needs to learn quickly in an ever-changing technology space.
+      </description>
+      <itunes:summary>
+        Leaving your full-time job behind and starting your own business based on your own brand is a somewhat scary proposition. And yet, this is exactly what Donny Wals, a prolific iOS developer and technology teacher, is doing. In this episode I sat down with him to talk more about his work, what was his thinking in going solo, and what one needs to learn quickly in an ever-changing technology space.
+      </itunes:summary>
+      <content:encoded>
+        <![CDATA[
+        <p>Leaving your full-time job behind and starting your own business based on your own brand is a somewhat scary proposition. And yet, this is exactly what Donny Wals, a prolific iOS developer and technology teacher, is doing. In this episode I sat down with him to talk more about his work, what was his thinking in going solo, and what one needs to learn quickly in an ever-changing technology space.</p>
+        <p>You can find Donny on the following sites:</p>
+        <ul>
+        <li><a href="https://twitter.com/donnywals">🐤 Twitter</a></li>
+        <li><a href="https://www.donnywals.com/">📝 Blog</a></li>
+        <li><a href="https://www.linkedin.com/in/donny-wals-33660014/">💼 LinkedIn</a></li>
+        <li><a href="https://instagram.com/donnywalsdev">📸 Instagram</a></li>
+        </ul>
+        <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
+        ]]>
+      </content:encoded>
+      <enclosure length="93902848" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S03E12.mp3" />
+      <guid isPermaLink="false">62826997-9477-47e4-a6d0-789bd8c14089</guid>
+      <pubDate>Thu, 22 Dec 2022 12:00:00 GMT</pubDate>
+      <itunes:duration>2347</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>11</itunes:episode>
       <itunes:season>03</itunes:season>
       <title>#58 - Becoming a Game Studio Co-Founder, with Moon Studios' Gennadiy Korol</title>
