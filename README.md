@@ -8,7 +8,9 @@ This repository contains the raw RSS feed content for [The Work Item](https://th
 
 Reach out [on Mastodon](https://hawaiidiff.com/@den) or [email](mailto:podcast@den.dev).
 
-## Feed Guidelines
+## Feed guidelines
+
+The RSS feed in this repository matches the requirements for major podcasting platforms, such as:
 
 - [Apple](https://help.apple.com/itc/podcasts_connect/#/itcbaf351599)
 - [Google](https://developers.google.com/search/reference/podcast/rss-feed)
