@@ -19,6 +19,37 @@
     <itunes:explicit>no</itunes:explicit>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>13</itunes:episode>
+      <itunes:season>03</itunes:season>
+      <title>#60 - Defining A Force Multiplier, with Sam Saccone</title>
+      <itunes:image href="https://cdn.theworkitem.com/art/episode-logos/s03e13.png" />
+      <description>
+        When we choose our career path, we often try to optimize for one specific bucket - you’re a product manager, or a project manager, or a UX designer, or any other variation of an expertise area in tech. Sam Saccone defies the expectations of a single role and instead believes in being a “plumber” - doing whatever work is necessary to enable others to do their own version of great work. I sat down with Sam to learn more about his path to a Senior Staff Engineer at Google, what it means to brute-force your way through problems, and what the best avenues are to become a force multiplier for your team.
+      </description>
+      <itunes:summary>
+        When we choose our career path, we often try to optimize for one specific bucket - you’re a product manager, or a project manager, or a UX designer, or any other variation of an expertise area in tech. Sam Saccone defies the expectations of a single role and instead believes in being a “plumber” - doing whatever work is necessary to enable others to do their own version of great work. I sat down with Sam to learn more about his path to a Senior Staff Engineer at Google, what it means to brute-force your way through problems, and what the best avenues are to become a force multiplier for your team.
+      </itunes:summary>
+      <content:encoded>
+        <![CDATA[
+        <p>When we choose our career path, we often try to optimize for one specific bucket - you’re a product manager, or a project manager, or a UX designer, or any other variation of an expertise area in tech. Sam Saccone defies the expectations of a single role and instead believes in being a “plumber” - doing whatever work is necessary to enable others to do their own version of great work.</p>
+        <p>I sat down with Sam to learn more about his path to a Senior Staff Engineer at Google, what it means to brute-force your way through problems, and what the best avenues are to become a force multiplier for your team.</p>
+        <p>You can find Sam on the following sites:</p>
+        <ul>
+        <li><a href="https://mastodon.social/@samccone">🐘 Mastodon</a></li>
+        <li><a href="https://twitter.com/samccone">🐤 Twitter</a></li>
+        <li><a href="https://samsaccone.com/">📝 Blog</a></li>
+        </ul>
+        <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
+        ]]>
+      </content:encoded>
+      <enclosure length="115561472" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S03E13.mp3" />
+      <guid isPermaLink="false">1747e944-d81b-49aa-86bc-ca54e1737d8f</guid>
+      <pubDate>Wed, 28 Dec 2022 12:00:00 GMT</pubDate>
+      <itunes:duration>2889</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>12</itunes:episode>
       <itunes:season>03</itunes:season>
       <title>#59 - Building On Your Own, with iOS Developer Donny Wals</title>
