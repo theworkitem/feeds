@@ -19,6 +19,39 @@
     <itunes:explicit>no</itunes:explicit>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>01</itunes:episode>
+      <itunes:season>04</itunes:season>
+      <title>#61 - Career Moats And Beyond, with Cedric Chin</title>
+      <itunes:image href="https://cdn.theworkitem.com/art/episode-logos/s04e01.png" />
+      <description>
+        Welcome friends to the fourth season of The Work Item podcast. I am starting the yearly series with some fantastic guests, and today is no exception. To start us off, I am chatting with Cedric Chin - the founder of the CommonCog blog and business series. You might’ve read some of Cedric's writing on career moats before (I know I have). Cedric has a wealth of experience in managing engineering teams and has embarked on a quest to build a deep understanding of business and development principles from the ground-up. We’re glad you're here, listening to this show. Enjoy!
+      </description>
+      <itunes:summary>
+        Welcome friends to the fourth season of The Work Item podcast. I am starting the yearly series with some fantastic guests, and today is no exception. To start us off, I am chatting with Cedric Chin - the founder of the CommonCog blog and business series. You might’ve read some of Cedric's writing on career moats before (I know I have). Cedric has a wealth of experience in managing engineering teams and has embarked on a quest to build a deep understanding of business and development principles from the ground-up. We’re glad you're here, listening to this show. Enjoy!
+      </itunes:summary>
+      <content:encoded>
+        <![CDATA[
+        <p>Welcome friends to the fourth season of The Work Item podcast. I am starting the yearly series with some fantastic guests, and today is no exception.</p>
+        <p>To start us off, I am chatting with Cedric Chin - the founder of the CommonCog blog and business series. You might’ve read some of Cedric’s writing on career moats before (I know I have). Cedric has a wealth of experience in managing engineering teams and has embarked on a quest to build a deep understanding of business and development principles from the ground-up.</p>
+        <p>We’re glad you’re here, listening to this show. Enjoy!</p>
+        <p>You can find Cedric on the following sites:</p>
+        <ul>
+        <li><a href="https://mastodon.social/@cedricchin">🐘 Mastodon</a></li>
+        <li><a href="https://commoncog.com/">📝 CommonCog Blog</a></li>
+        <li><a href="https://commoncog.com/subscribe-to-the-commonplace-newsletter/">📰 Commonplace Newsletter</a></li>
+        <li><a href="https://commoncog.com/tag/commonplace-expertise-podcast/">🎙️ Commonplace Expertise Podcast</a></li>
+        </ul>
+        <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
+        ]]>
+      </content:encoded>
+      <enclosure length="131684352" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S04E01.mp3" />
+      <guid isPermaLink="false">f4f1741c-72d8-48a1-b4fd-5053a0176277</guid>
+      <pubDate>Mon, 09 Oct 2023 12:00:00 GMT</pubDate>
+      <itunes:duration>3292</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>13</itunes:episode>
       <itunes:season>03</itunes:season>
       <title>#60 - Defining A Force Multiplier, with Sam Saccone</title>
