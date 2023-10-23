@@ -19,6 +19,39 @@
     <itunes:explicit>no</itunes:explicit>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>02</itunes:episode>
+      <itunes:season>04</itunes:season>
+      <title>#62 - Building Sustainable Practices, with Jason Fried</title>
+      <itunes:image href="https://cdn.theworkitem.com/art/episode-logos/s04e02.png" />
+      <description>
+        Jason Fried is the co-founder and CEO of 37signals, the company behind Basecamp and Hey. I chat with Jason about his path to entrepreneurship, the lack of value in a lot of meetings, and generally building sustainable practices that enable businesses and their employees to thrive.
+      </description>
+      <itunes:summary>
+        Jason Fried is the co-founder and CEO of 37signals, the company behind Basecamp and Hey. I chat with Jason about his path to entrepreneurship, the lack of value in a lot of meetings, and generally building sustainable practices that enable businesses and their employees to thrive.
+      </itunes:summary>
+      <content:encoded>
+        <![CDATA[
+        <p>Jason Fried is the co-founder and CEO of 37signals, the company behind Basecamp and Hey. I chat with Jason about his path to entrepreneurship, the lack of value in a lot of meetings, and generally building sustainable practices that enable businesses and their employees to thrive.</p>
+        <p>You can find Jason on the following sites:</p>
+        <ul>
+        <li><a href="https://www.linkedin.com/in/jason-fried/">💼 LinkedIn</a></li>
+        <li><a href="https://37signals.com/thoughts/">📝 37signals Blog</a></li>
+        <li><a href="https://basecamp.com/shapeup">📝 ShapeUp</a></li>
+        <li><a href="https://world.hey.com/jason">📝 Jason on world.hey.com</a></li>
+        <li><a href="https://hey.com">✉️ Hey</a></li>
+        <li><a href="https://basecamp.com/">🏔️ Basecamp</a></li>
+        </ul>
+        <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
+        ]]>
+      </content:encoded>
+      <enclosure length="86850560" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S04E02.mp3" />
+      <guid isPermaLink="false">b13d1049-f84d-4442-bf6d-ced0bf343008</guid>
+      <pubDate>Fri, 23 Oct 2023 12:00:00 GMT</pubDate>
+      <itunes:duration>2171</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>01</itunes:episode>
       <itunes:season>04</itunes:season>
       <title>#61 - Career Moats And Beyond, with Cedric Chin</title>
