@@ -19,6 +19,37 @@
     <itunes:explicit>no</itunes:explicit>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>03</itunes:episode>
+      <itunes:season>04</itunes:season>
+      <title>#63 - Beyond Just Engineering Skills, with Adrienne Braganza Tacke</title>
+      <itunes:image href="https://cdn.theworkitem.com/art/episode-logos/s04e03.png" />
+      <description>
+        In this episode, I am talking to Adrienne Tacke, an author, engineer, and teacher. We discuss the intentionality in one’s career trajectory, approaches to mentorship, and best ways to grow a combination of skills beyond technical acumen.
+      </description>
+      <itunes:summary>
+        In this episode, I am talking to Adrienne Tacke, an author, engineer, and teacher. We discuss the intentionality in one’s career trajectory, approaches to mentorship, and best ways to grow a combination of skills beyond technical acumen.
+      </itunes:summary>
+      <content:encoded>
+        <![CDATA[
+        <p>In this episode, I am talking to Adrienne Tacke, an author, engineer, and teacher. We discuss the intentionality in one’s career trajectory, approaches to mentorship, and best ways to grow a combination of skills beyond technical acumen.</p>
+        <p>You can find Adrienne on the following sites:</p>
+        <ul>
+        <li><a href="https://www.adrienne.io/">📝 Blog</a></li>
+        <li><a href="https://www.linkedin.com/in/adriennetacke/">🏢 LinkedIn</a></li>
+        <li><a href="https://www.manning.com/books/looks-good-to-me">📕 Book - Looks Good To Me</a></li>
+        <li><a href="https://www.linkedin.com/learning/learning-azure-durable-functions">⚡ LinkedIn Course - Learning Azure Durable Functions</a></li>
+        </ul>
+        <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
+        ]]>
+      </content:encoded>
+      <enclosure length="108137472" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S04E03.mp3" />
+      <guid isPermaLink="false">762acce7-153a-4732-ab8b-4b871bd9d173</guid>
+      <pubDate>Wed, 08 Nov 2023 12:00:00 GMT</pubDate>
+      <itunes:duration>2703</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>02</itunes:episode>
       <itunes:season>04</itunes:season>
       <title>#62 - Building Sustainable Practices, with Jason Fried</title>
