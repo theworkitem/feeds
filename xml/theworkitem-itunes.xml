@@ -19,6 +19,36 @@
     <itunes:explicit>no</itunes:explicit>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>04</itunes:episode>
+      <itunes:season>04</itunes:season>
+      <title>#64 - Diving Into Industrial Design, with Anson Cheung</title>
+      <itunes:image href="https://cdn.theworkitem.com/art/episode-logos/s04e04.png" />
+      <description>
+        Anson Cheung is a San Francisco-based industrial designer with more than ten years of experience shipping hardware. It’s not often that we talk to someone who produces physical things, and naturally I was excited to learn more about what Anson works on and how we can discover pathways into an industrial design career track. In this show, we discuss Anson’s origins, working with a large design firm vs. going solo, and what are some ways in which an aspiring industrial designer can hone their craft without investing thousands of dollars.
+      </description>
+      <itunes:summary>
+        Anson Cheung is a San Francisco-based industrial designer with more than ten years of experience shipping hardware. It’s not often that we talk to someone who produces physical things, and naturally I was excited to learn more about what Anson works on and how we can discover pathways into an industrial design career track. In this show, we discuss Anson’s origins, working with a large design firm vs. going solo, and what are some ways in which an aspiring industrial designer can hone their craft without investing thousands of dollars.
+      </itunes:summary>
+      <content:encoded>
+        <![CDATA[
+        <p>Anson Cheung is a San Francisco-based industrial designer with more than ten years of experience shipping hardware. It’s not often that we talk to someone who produces <em>physical</em> things, and naturally I was excited to learn more about what Anson works on and how we can discover pathways into an industrial design career track. In this show, we discuss Anson’s origins, working with a large design firm vs. going solo, and what are some ways in which an aspiring industrial designer can hone their craft without investing thousands of dollars.</p>
+        <p>You can find Anson on the following sites:</p>
+        <ul>
+        <li><a href="https://www.linkedin.com/in/ansondotdesign/">🤵 LinkedIn</a></li>
+        <li><a href="https://anson.design/">📝 Website</a></li>
+        <li><a href="http://designthings.blog/">📰 Design Things Newsletter</a></li>
+        </ul>
+        <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
+        ]]>
+      </content:encoded>
+      <enclosure length="101866496" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S04E04.mp3" />
+      <guid isPermaLink="false">572c9760-a9cb-49d3-81d1-6652cfb51d39</guid>
+      <pubDate>Tue, 12 Dec 2023 12:00:00 GMT</pubDate>
+      <itunes:duration>2546</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>03</itunes:episode>
       <itunes:season>04</itunes:season>
       <title>#63 - Beyond Just Engineering Skills, with Adrienne Braganza Tacke</title>
