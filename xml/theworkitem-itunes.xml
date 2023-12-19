@@ -19,6 +19,37 @@
     <itunes:explicit>no</itunes:explicit>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>05</itunes:episode>
+      <itunes:season>04</itunes:season>
+      <title>#65 - Data, Impact, and Sustainability, with Jane Yang</title>
+      <itunes:image href="https://cdn.theworkitem.com/art/episode-logos/s04e05.png" />
+      <description>
+        Jane Yang is a Senior Advisor for Data Analytics at the Administration for Children and Families, as well as an Impact Fellow at the Federation of American Scientists. If there is one person you want to talk about data, quantitative analysis, and merging those with qualitative insights the right way, she would be at the top of the list. In this show, we talk about ways to find the balance between your own passions and incentives in the tech industry, career seasonality, positive community impact, and recipes on measuring your own personal growth and sustainability.
+      </description>
+      <itunes:summary>
+        Jane Yang is a Senior Advisor for Data Analytics at the Administration for Children and Families, as well as an Impact Fellow at the Federation of American Scientists. If there is one person you want to talk about data, quantitative analysis, and merging those with qualitative insights the right way, she would be at the top of the list. In this show, we talk about ways to find the balance between your own passions and incentives in the tech industry, career seasonality, positive community impact, and recipes on measuring your own personal growth and sustainability.
+      </itunes:summary>
+      <content:encoded>
+        <![CDATA[
+        <p>Jane Yang is a Senior Advisor for Data Analytics at the Administration for Children and Families, as well as an Impact Fellow at the Federation of American Scientists. If there is one person you want to talk about data, quantitative analysis, and merging those with qualitative insights the right way, she would be at the top of the list.</p>
+        <p>In this show, we talk about ways to find the balance between your own passions and incentives in the tech industry, career seasonality, positive community impact, and recipes on measuring your own personal growth and sustainability.</p>
+        <p>You can find Jane on the following sites:</p>
+        <ul>
+        <li><a href="https://janeyang.org/">📝 Blog</a></li>
+        <li><a href="https://github.com/janejuenyang">😺 GitHub</a></li>
+        </ul>
+        <p>Jane also maintains an extremely helpful repository for folks who want to break into the data science field: <a href="https://github.com/janejuenyang/welcome"><code>janejuenyang/welcome</code></a></p>
+        <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
+        ]]>
+      </content:encoded>
+      <enclosure length="115748864" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S04E05.mp3" />
+      <guid isPermaLink="false">55bc5d53-7def-4c5a-8a22-f47044bd2d3c</guid>
+      <pubDate>Mon, 18 Dec 2023 12:00:00 GMT</pubDate>
+      <itunes:duration>2893</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>04</itunes:episode>
       <itunes:season>04</itunes:season>
       <title>#64 - Diving Into Industrial Design, with Anson Cheung</title>
