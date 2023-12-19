@@ -19,6 +19,36 @@
     <itunes:explicit>no</itunes:explicit>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>06</itunes:episode>
+      <itunes:season>04</itunes:season>
+      <title>#66 - Becoming The Best Product Manager You Can Be, with the CEO of Product School, Carlos Gonzalez de Villaumbrosia</title>
+      <itunes:image href="https://cdn.theworkitem.com/art/episode-logos/s04e06.png" />
+      <description>
+        What do you think are the top skills you need as a product manager? What is a product manager, to begin with? As a product manager myself, I could theorize a lot on these questions but instead I thought I’d ask someone who is not me, and has a wealth of experience in the field - the CEO of Product School, Carlos Gonzalez de Villaumbrosia. Carlos and I dive deep into the product management field, discussing the differences between PM categories, what it means to become the best PM one can be, and what the outlook is for the next five years for those that want to break into the field.
+      </description>
+      <itunes:summary>
+        What do you think are the top skills you need as a product manager? What is a product manager, to begin with? As a product manager myself, I could theorize a lot on these questions but instead I thought I’d ask someone who is not me, and has a wealth of experience in the field - the CEO of Product School, Carlos Gonzalez de Villaumbrosia. Carlos and I dive deep into the product management field, discussing the differences between PM categories, what it means to become the best PM one can be, and what the outlook is for the next five years for those that want to break into the field.
+      </itunes:summary>
+      <content:encoded>
+        <![CDATA[
+        <p>What do you think are the top skills you need as a product manager? What is a product manager, to begin with? As a product manager myself, I could theorize a lot on these questions but instead I thought I’d ask someone who is not me, and has a wealth of experience in the field - the CEO of Product School, Carlos Gonzalez de Villaumbrosia.</p>
+        <p>Carlos and I dive deep into the product management field, discussing the differences between PM categories, what it means to become the best PM one can be, and what the outlook is for the next five years for those that want to break into the field.</p>
+        <p>You can find Carlos on the following sites:</p>
+        <ul>
+        <li><a href="https://www.linkedin.com/in/villaumbrosia/">🤵 LinkedIn</a></li>
+        <li><a href="https://productschool.com">🎒 Product School</a></li>
+        </ul>
+        <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
+        ]]>
+      </content:encoded>
+      <enclosure length="92417024" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S04E06.mp3" />
+      <guid isPermaLink="false">80a622d2-e40a-4c95-9b3b-4a2a593a799b</guid>
+      <pubDate>Tue, 19 Dec 2023 12:00:00 GMT</pubDate>
+      <itunes:duration>2310</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>05</itunes:episode>
       <itunes:season>04</itunes:season>
       <title>#65 - Data, Impact, and Sustainability, with Jane Yang</title>
