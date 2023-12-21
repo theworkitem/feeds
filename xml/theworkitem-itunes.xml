@@ -19,6 +19,39 @@
     <itunes:explicit>no</itunes:explicit>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>07</itunes:episode>
+      <itunes:season>04</itunes:season>
+      <title>#67 - Building Design Communities, with Grace Ling, UX Designer at Electronic Arts, and Founder of Design Buddies</title>
+      <itunes:image href="https://cdn.theworkitem.com/art/episode-logos/s04e07.png" />
+      <description>
+        Grace Ling is a UX designer at Electronic Arts and the founder of the Design Buddies, one of the world’s largest design communities. But among all the UX design and community work, Grace finds time to tackle many other ventures, like public speaking, content creation, 3D modelling, and traveling. In this show, we discuss her recipes for balancing a large number of side hustles, overcoming challenges in bootstrapping a design community from scratch, and what’s the best way to build a network early on in your career.
+      </description>
+      <itunes:summary>
+        Grace Ling is a UX designer at Electronic Arts and the founder of the Design Buddies, one of the world’s largest design communities. But among all the UX design and community work, Grace finds time to tackle many other ventures, like public speaking, content creation, 3D modelling, and traveling. In this show, we discuss her recipes for balancing a large number of side hustles, overcoming challenges in bootstrapping a design community from scratch, and what’s the best way to build a network early on in your career.
+      </itunes:summary>
+      <content:encoded>
+        <![CDATA[
+        <p><a href="https://www.grace-ling.com/">Grace Ling</a> is a UX designer at Electronic Arts and the founder of the <a href="https://www.designbuddies.community/">Design Buddies</a>, one of the world’s largest design communities. But among all the UX design and community work, Grace finds time to tackle many other ventures, like public speaking, content creation, 3D modelling, and traveling.</p>
+        <p>In this show, we discuss her recipes for balancing a <em>large</em> number of side hustles, overcoming challenges in bootstrapping a design community from scratch, and what’s the best way to build a network early on in your career.</p>
+        <p>You can find Grace on the following sites:</p>
+        <ul>
+        <li><a href="https://www.linkedin.com/in/graceling/">💼 LinkedIn</a></li>
+        <li><a href="https://www.grace-ling.com/">📝 Blog</a></li>
+        <li><a href="https://www.instagram.com/candyleaf_/">📷 Instagram</a></li>
+        <li><a href="https://discord.gg/rMEYCQt">💭 Discord</a></li>
+        <li><a href="https://www.designbuddies.community/">🎨 Design Buddies</a></li>
+        <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
+        </ul>
+        ]]>
+      </content:encoded>
+      <enclosure length="84322304" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S04E07.mp3" />
+      <guid isPermaLink="false">6a506803-53a8-4f83-89fc-b0f04e4c15d7</guid>
+      <pubDate>Thu, 21 Dec 2023 12:00:00 GMT</pubDate>
+      <itunes:duration>2108</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>06</itunes:episode>
       <itunes:season>04</itunes:season>
       <title>#66 - Becoming The Best Product Manager You Can Be, with the CEO of Product School, Carlos Gonzalez de Villaumbrosia</title>
