@@ -19,6 +19,36 @@
     <itunes:explicit>no</itunes:explicit>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>08</itunes:episode>
+      <itunes:season>04</itunes:season>
+      <title>#68 - Why You Need An Executive Coach, with Eric Nehrlich</title>
+      <itunes:image href="https://cdn.theworkitem.com/art/episode-logos/s04e08.png" />
+      <description>
+        Recently I had the privilege of sitting down with Erich Nehrlich, a seasoned executive coach and thought leader in the realm of career development. Erich brings a wealth of experience and insights into the dynamics of leadership, organizational change, and the pivotal role that executive coaching plays in unlocking one's true potential. In this episode, we're exploring the nuances of executive coaching, demystifying the process and shedding light on how individuals can break through the barriers that often hinder their career growth. Erich will share practical strategies and actionable advice on how to identify and overcome common roadblocks, enabling you to chart a path towards fulfilling your professional aspirations.
+      </description>
+      <itunes:summary>
+        Recently I had the privilege of sitting down with Erich Nehrlich, a seasoned executive coach and thought leader in the realm of career development. Erich brings a wealth of experience and insights into the dynamics of leadership, organizational change, and the pivotal role that executive coaching plays in unlocking one's true potential. In this episode, we're exploring the nuances of executive coaching, demystifying the process and shedding light on how individuals can break through the barriers that often hinder their career growth. Erich will share practical strategies and actionable advice on how to identify and overcome common roadblocks, enabling you to chart a path towards fulfilling your professional aspirations.
+      </itunes:summary>
+      <content:encoded>
+        <![CDATA[
+        <p>Recently I had the privilege of sitting down with Erich Nehrlich, a seasoned executive coach and thought leader in the realm of career development. Erich brings a wealth of experience and insights into the dynamics of leadership, organizational change, and the pivotal role that executive coaching plays in unlocking one’s true potential.</p>
+        <p>In this episode, we’re exploring the nuances of executive coaching, demystifying the process and shedding light on how individuals can break through the barriers that often hinder their career growth. Erich will share practical strategies and actionable advice on how to identify and overcome common roadblocks, enabling you to chart a path towards fulfilling your professional aspirations.</p>
+        <p>You can find Eric on the following sites:</p>
+        <ul>
+        <li><a href="https://www.toomanytrees.com/book">📕 Book - You Have A Choice</a></li>
+        <li><a href="https://www.toomanytrees.com/">📝 Website</a></li>
+        <li><a href="https://www.linkedin.com/in/nehrlich/">💼 LinkedIn</a></li>
+        </ul>
+        ]]>
+      </content:encoded>
+      <enclosure length="135175168" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S04E08.mp3" />
+      <guid isPermaLink="false">e2a38536-78a8-4753-86e7-3f1a749acc6d</guid>
+      <pubDate>Fri, 29 Dec 2023 12:00:00 GMT</pubDate>
+      <itunes:duration>3379</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>07</itunes:episode>
       <itunes:season>04</itunes:season>
       <title>#67 - Building Design Communities, with Grace Ling, UX Designer at Electronic Arts, and Founder of Design Buddies</title>
