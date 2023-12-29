@@ -19,6 +19,37 @@
     <itunes:explicit>no</itunes:explicit>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>09</itunes:episode>
+      <itunes:season>04</itunes:season>
+      <title>#TBD - REPLACE_ME</title>
+      <itunes:image href="https://cdn.theworkitem.com/art/episode-logos/s04e09.png" />
+      <description>
+        In today's episode, I sat down with Shyvee Shi, a seasoned product leader with a wealth of experience in steering products from conception to market success. Shyvee has been at the forefront of industry trends, contributing significantly to the evolution of product management practices. In this very insightful conversation, we explore the fundamental role of product managers and the intricate dance they perform between market demands, user needs, and technological possibilities. But that's not all – Shyvee will also share her unique perspectives on how generative AI is poised to revolutionize the landscape of product management. We explore how it's reshaping the way product managers envision, create, and bring products to life in an ever-evolving digital landscape. Whether you're a seasoned product professional or someone intrigued by the fascinating intersection of technology and product development, this episode is bound to spark your curiosity and broaden your understanding of the future of the discipline.
+      </description>
+      <itunes:summary>
+        In today's episode, I sat down with Shyvee Shi, a seasoned product leader with a wealth of experience in steering products from conception to market success. Shyvee has been at the forefront of industry trends, contributing significantly to the evolution of product management practices. In this very insightful conversation, we explore the fundamental role of product managers and the intricate dance they perform between market demands, user needs, and technological possibilities. But that's not all – Shyvee will also share her unique perspectives on how generative AI is poised to revolutionize the landscape of product management. We explore how it's reshaping the way product managers envision, create, and bring products to life in an ever-evolving digital landscape. Whether you're a seasoned product professional or someone intrigued by the fascinating intersection of technology and product development, this episode is bound to spark your curiosity and broaden your understanding of the future of the discipline.
+      </itunes:summary>
+      <content:encoded>
+        <![CDATA[
+        <p>In today’s episode, I sat down with Shyvee Shi, a seasoned product leader with a wealth of experience in steering products from conception to market success. Shyvee has been at the forefront of industry trends, contributing significantly to the evolution of product management practices.</p>
+        <p>In this very insightful conversation, we explore the fundamental role of product managers and the intricate dance they perform between market demands, user needs, and technological possibilities. But that’s not all – Shyvee will also share her unique perspectives on how generative AI is poised to revolutionize the landscape of product management. We explore how it’s reshaping the way product managers envision, create, and bring products to life in an ever-evolving digital landscape.</p>
+        <p>Whether you’re a seasoned product professional or someone intrigued by the fascinating intersection of technology and product development, this episode is bound to spark your curiosity and broaden your understanding of the future of the discipline.</p>
+        <p>You can find Shyvee on the following sites:</p>
+        <ul>
+        <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSf1jfwdsdwMAUFT6MepRd5p3MbNoMUQln1ToDoslHMgUqHv9g/viewform?pli=1">📕 Book - Reimagined</a></li>
+        <li><a href="https://www.linkedin.com/in/shyveeshi/">💼 LinkedIn</a></li>
+        </ul>
+        <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
+        ]]>
+      </content:encoded>
+      <enclosure length="100081664" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S04E09.mp3" />
+      <guid isPermaLink="false">318370e9-d9a3-4bab-abc7-7de248c4e314</guid>
+      <pubDate>Sat, 30 Dec 2023 12:00:00 GMT</pubDate>
+      <itunes:duration>2502</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>08</itunes:episode>
       <itunes:season>04</itunes:season>
       <title>#68 - Why You Need An Executive Coach, with Eric Nehrlich</title>
@@ -39,6 +70,7 @@
         <li><a href="https://www.toomanytrees.com/">📝 Website</a></li>
         <li><a href="https://www.linkedin.com/in/nehrlich/">💼 LinkedIn</a></li>
         </ul>
+        <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
         ]]>
       </content:encoded>
       <enclosure length="135175168" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S04E08.mp3" />
@@ -70,8 +102,8 @@
         <li><a href="https://www.instagram.com/candyleaf_/">📷 Instagram</a></li>
         <li><a href="https://discord.gg/rMEYCQt">💭 Discord</a></li>
         <li><a href="https://www.designbuddies.community/">🎨 Design Buddies</a></li>
-        <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
         </ul>
+        <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
         ]]>
       </content:encoded>
       <enclosure length="84322304" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S04E07.mp3" />
