@@ -19,6 +19,38 @@
     <itunes:explicit>no</itunes:explicit>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>10</itunes:episode>
+      <itunes:season>04</itunes:season>
+      <title>#TBD - REPLACE_ME</title>
+      <itunes:image href="https://cdn.theworkitem.com/art/episode-logos/s04e10.png" />
+      <description>
+        Today, you're in for a treat as I sit down with Kenneth Auchenberg, a seasoned product manager - you might know him from his work at Microsoft on Visual Studio Code as well as on developer tools at Stripe. He is also a developer and overall a very nice person to know. Kenneth brings a wealth of experience to the table, especially when it comes to navigating the ins and outs of product management, shaping a career around developer tools, and trying his hand at angel investing. In our conversation, we'll dive deep into the developer-centric aspects of product management, explore effective strategies for making decisions, and build a better understanding of the crucial role of developer tools. Kenneth will share his hands-on experiences, offering practical insights into the day-to-day challenges and victories of building and managing tools that resonate with developers. Plus, we'll peek into the world of angel investing from a developer's perspective, dissecting the process of spotting promising startups and contributing to the growth of new ventures.
+      </description>
+      <itunes:summary>
+        Today, you're in for a treat as I sit down with Kenneth Auchenberg, a seasoned product manager - you might know him from his work at Microsoft on Visual Studio Code as well as on developer tools at Stripe. He is also a developer and overall a very nice person to know. Kenneth brings a wealth of experience to the table, especially when it comes to navigating the ins and outs of product management, shaping a career around developer tools, and trying his hand at angel investing. In our conversation, we'll dive deep into the developer-centric aspects of product management, explore effective strategies for making decisions, and build a better understanding of the crucial role of developer tools. Kenneth will share his hands-on experiences, offering practical insights into the day-to-day challenges and victories of building and managing tools that resonate with developers. Plus, we'll peek into the world of angel investing from a developer's perspective, dissecting the process of spotting promising startups and contributing to the growth of new ventures.
+      </itunes:summary>
+      <content:encoded>
+        <![CDATA[
+        <p>Today, you’re in for a treat as I sit down with Kenneth Auchenberg, a seasoned product manager - you might know him from his work at Microsoft on Visual Studio Code as well as on developer tools at Stripe. He is also a developer and overall a very nice person to know. Kenneth brings a wealth of experience to the table, especially when it comes to navigating the ins and outs of product management, shaping a career around developer tools, and trying his hand at angel investing.</p>
+        <p>In our conversation, we’ll dive deep into the developer-centric aspects of product management, explore effective strategies for making decisions, and build a better understanding of the crucial role of developer tools. Kenneth will share his hands-on experiences, offering practical insights into the day-to-day challenges and victories of building and managing tools that resonate with developers.</p>
+        <p>Plus, we’ll peek into the world of angel investing from a developer’s perspective, dissecting the process of spotting promising startups and contributing to the growth of new ventures.</p>
+        <p>You can find Kenneth on the following sites:</p>
+        <ul>
+        <li><a href="https://twitter.com/auchenberg">🐤 Twitter</a></li>
+        <li><a href="https://www.linkedin.com/in/auchenberg/">💼 LinkedIn</a></li>
+        <li><a href="https://kenneth.io/">📝 Website</a></li>
+        </ul>
+        <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
+        ]]>
+      </content:encoded>
+      <enclosure length="115110912" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S04E10.mp3" />
+      <guid isPermaLink="false">930f50a2-27ee-4dee-af76-19a32e44f944</guid>
+      <pubDate>Sun, 31 Dec 2023 12:00:00 GMT</pubDate>
+      <itunes:duration>2877</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>09</itunes:episode>
       <itunes:season>04</itunes:season>
       <title>#TBD - REPLACE_ME</title>
