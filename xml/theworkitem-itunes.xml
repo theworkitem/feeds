@@ -19,6 +19,38 @@
     <itunes:explicit>no</itunes:explicit>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>01</itunes:episode>
+      <itunes:season>05</itunes:season>
+      <title>#71 - Going Solo As A Developer Educator, with Kent C. Dodds</title>
+      <itunes:image href="https://cdn.theworkitem.com/art/episode-logos/s05e01.png" />
+      <description>
+        Kent C. Dodds is a developer, educator, community organizer, and above all, a person that is passionate about making the world a better place by giving as many folks as possible the opportunity to learn web development. I sat down with Kent to chat more about his career, what bootstrapped his interest in programming, and what his takeaways from building his path as an entrepreneur are. Just like me, you will quickly learn how his career is a testament to the power of passion, resilience, relentless pursuit of excellence, and most importantly - consistency.
+      </description>
+      <itunes:summary>
+        Kent C. Dodds is a developer, educator, community organizer, and above all, a person that is passionate about making the world a better place by giving as many folks as possible the opportunity to learn web development. I sat down with Kent to chat more about his career, what bootstrapped his interest in programming, and what his takeaways from building his path as an entrepreneur are. Just like me, you will quickly learn how his career is a testament to the power of passion, resilience, relentless pursuit of excellence, and most importantly - consistency.
+      </itunes:summary>
+      <content:encoded>
+        <![CDATA[
+        <p>Kent C. Dodds is a developer, educator, community organizer, and above all, a person that is passionate about making the world a better place by giving as many folks as possible the opportunity to learn web development. I sat down with Kent to chat more about his career, what bootstrapped his interest in programming, and what his takeaways from building his path as an entrepreneur are. Just like me, you will quickly learn how his career is a testament to the power of passion, resilience, relentless pursuit of excellence, and most importantly - consistency.</p>
+        <p>You can find Kent on the following sites:</p>
+        <ul>
+        <li><a href="https://twitter.com/kentcdodds">🐤 Twitter</a></li>
+        <li><a href="https://kentcdodds.com/">📝 Kent’s Blog</a></li>
+        <li><a href="https://kentcdodds.com/courses">📕 Kent’s Courses</a></li>
+        <li><a href="https://youtube.com/c/KentCDodds-vids/videos">📽️ YouTube</a></li>
+        <li><a href="https://www.epicweb.dev/">🌎 Epic Web Dev</a></li>
+        </ul>
+        <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
+        ]]>
+      </content:encoded>
+      <enclosure length="90366976" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S05E01.mp3" />
+      <guid isPermaLink="false">e6305fb6-bf89-4741-8a54-06abbfbccce9</guid>
+      <pubDate>Mon, 29 Jan 2024 12:00:00 GMT</pubDate>
+      <itunes:duration>2259</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>10</itunes:episode>
       <itunes:season>04</itunes:season>
       <title>#70 - Building a Career In Developer Tools, with Kenneth Auchenberg</title>
