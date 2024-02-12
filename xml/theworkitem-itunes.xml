@@ -19,6 +19,39 @@
     <itunes:explicit>no</itunes:explicit>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>03</itunes:episode>
+      <itunes:season>05</itunes:season>
+      <title>#73 - Put The Passion Aside And Go For The Market, with Rob Walling</title>
+      <itunes:image href="https://cdn.theworkitem.com/art/episode-logos/s05e03.png" />
+      <description>
+        If you've ever listened to Startups For The Rest Of Us (which, by the way, is approaching seven hundred episodes), you might already be familiar with the energetic host of the show - entrepreneur, bootstrapper, and podcaster extraordinaire Rob Walling. Rob and I chat about his early days as an employee, the transition from the more traditional path of working for someone to starting his own business, building MicroConf, and how the trifecta of skill, hard work, and luck can help folks be on a more predictable path to success.
+      </description>
+      <itunes:summary>
+        If you've ever listened to Startups For The Rest Of Us (which, by the way, is approaching seven hundred episodes), you might already be familiar with the energetic host of the show - entrepreneur, bootstrapper, and podcaster extraordinaire Rob Walling. Rob and I chat about his early days as an employee, the transition from the more traditional path of working for someone to starting his own business, building MicroConf, and how the trifecta of skill, hard work, and luck can help folks be on a more predictable path to success.
+      </itunes:summary>
+      <content:encoded>
+        <![CDATA[
+        <p>If you’ve ever listened to <a href="https://www.startupsfortherestofus.com/">Startups For The Rest Of Us</a> (which, by the way, is approaching seven hundred episodes), you might already be familiar with the energetic host of the show - entrepreneur, bootstrapper, and podcaster extraordinaire Rob Walling. Rob and I chat about his early days as an employee, the transition from the more traditional path of working for someone to starting his own business, building <a href="https://microconf.com/">MicroConf</a>, and how the trifecta of skill, hard work, and luck can help folks be on a more predictable path to success.</p>
+        <p>You can find Rob on the following sites:</p>
+        <ul>
+        <li><a href="https://www.startupsfortherestofus.com/">🎙️ Startups For The Rest Of Us Podcast</a></li>
+        <li><a href="https://robwalling.com/">📝 Website</a></li>
+        <li><a href="https://saasplaybook.com/">📕 Book - The SaaS Playbook</a></li>
+        <li><a href="https://microconf.com/">📢 MicroConf</a></li>
+        <li><a href="https://tinyseed.com/">🌱 TinySeed</a></li>
+        <li><a href="https://twitter.com/robwalling">🐤 Twitter</a></li>
+        </ul>
+        <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
+        ]]>
+      </content:encoded>
+      <enclosure length="107906048" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S05E03.mp3" />
+      <guid isPermaLink="false">e833f479-aae0-44db-9b47-51b372b4dd4b</guid>
+      <pubDate>Mon, 12 Feb 2024 12:00:00 GMT</pubDate>
+      <itunes:duration>2697</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>02</itunes:episode>
       <itunes:season>05</itunes:season>
       <title>#72 - Give People What They Came For, with Jerod Santo</title>
