@@ -19,6 +19,36 @@
     <itunes:explicit>no</itunes:explicit>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>04</itunes:episode>
+      <itunes:season>05</itunes:season>
+      <title>#74 - Books, Remote Work, and Q&amp;A, with Adrienne Tacke</title>
+      <itunes:image href="https://cdn.theworkitem.com/art/episode-logos/s05e04.png" />
+      <description>
+        Welcome back to The Work Item. Today we're exploring the ins and outs of remote work, writing, and community engagement with a show veteran, Adrienne Tacke. I'm delighted to welcome Adrienne Tacke back to the show, especially considering that since our last recording we received quite a few follow-up questions. Just like last time, Adrienne brings a wealth of knowledge and experience to our discussion, especially when it comes to remote work culture. And today, we're adding a new twist: a dedicated Q&amp;A segment where Adrienne will be addressing your burning questions directly.
+      </description>
+      <itunes:summary>
+        Welcome back to The Work Item. Today we're exploring the ins and outs of remote work, writing, and community engagement with a show veteran, Adrienne Tacke. I'm delighted to welcome Adrienne Tacke back to the show, especially considering that since our last recording we received quite a few follow-up questions. Just like last time, Adrienne brings a wealth of knowledge and experience to our discussion, especially when it comes to remote work culture. And today, we're adding a new twist: a dedicated Q&amp;A segment where Adrienne will be addressing your burning questions directly.
+      </itunes:summary>
+      <content:encoded>
+        <![CDATA[
+        <p>Welcome back to The Work Item. Today we’re exploring the ins and outs of remote work, writing, and community engagement with a show veteran, Adrienne Tacke. I’m delighted to welcome Adrienne back to the show, especially considering that since our last recording we received quite a few follow-up questions. Just like last time, Adrienne brings a wealth of knowledge and experience to our discussion, especially when it comes to remote work culture. And today, we’re adding a new twist: a dedicated Q&amp;A segment where Adrienne will be addressing your burning questions directly.</p>
+        <p>You can find Adrienne on the following sites:</p>
+        <ul>
+        <li><a href="https://www.adrienne.io/">📝 Blog</a></li>
+        <li><a href="https://www.linkedin.com/in/adriennetacke/">🏢 LinkedIn</a></li>
+        <li><a href="https://www.manning.com/books/looks-good-to-me">📕 Book - Looks Good To Me</a></li>
+        <li><a href="https://www.linkedin.com/learning/learning-azure-durable-functions">⚡ LinkedIn Course - Learning Azure Durable Functions</a></li>
+        </ul>
+        ]]>
+      </content:encoded>
+      <enclosure length="127889408" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S05E04.mp3" />
+      <guid isPermaLink="false">fbfcd19e-5fe9-4292-9cc8-0a84ffe137c6</guid>
+      <pubDate>Fri, 15 Mar 2024 12:00:00 GMT</pubDate>
+      <itunes:duration>3197</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>03</itunes:episode>
       <itunes:season>05</itunes:season>
       <title>#73 - Put The Passion Aside And Go For The Market, with Rob Walling</title>
