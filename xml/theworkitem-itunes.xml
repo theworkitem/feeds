@@ -19,6 +19,44 @@
     <itunes:explicit>no</itunes:explicit>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>06</itunes:episode>
+      <itunes:season>05</itunes:season>
+      <title>#76 - Be OK Talking About Money, With Saron Yitbarek</title>
+      <itunes:image href="https://cdn.theworkitem.com/art/episode-logos/s05e06.png" />
+      <description>
+        One of the things that is a bit taboo to talk about, both in the tech industry and outside of it is money. People just aren’t comfortable discussing openly the hard decisions that go into things like seeking funding, investing money into things that save you time, and scaling your own abilities with the help of, you guessed it, cold, hard, cash. Saron Yitbarek, entrepreneur extraordinaire behind CodeNewbie and podcasts such as Command Line Heroes, generously accepted my invitation to chat and talk about all these things, and more. And of course, we talk about Saron’s latest project - Big Cash Money 2024, something for folks that want to max out their income beyond just their salary.
+      </description>
+      <itunes:summary>
+        One of the things that is a bit taboo to talk about, both in the tech industry and outside of it is money. People just aren’t comfortable discussing openly the hard decisions that go into things like seeking funding, investing money into things that save you time, and scaling your own abilities with the help of, you guessed it, cold, hard, cash. Saron Yitbarek, entrepreneur extraordinaire behind CodeNewbie and podcasts such as Command Line Heroes, generously accepted my invitation to chat and talk about all these things, and more. And of course, we talk about Saron’s latest project - Big Cash Money 2024, something for folks that want to max out their income beyond just their salary.
+      </itunes:summary>
+      <content:encoded>
+        <![CDATA[
+        <p>One of the things that is a bit taboo to talk about, both in the tech industry and outside of it is money. People just aren’t comfortable discussing <em>openly</em> the hard decisions that go into things like seeking funding, investing money into things that save you time, and scaling your own abilities with the help of, you guessed it, cold, hard, cash.</p>
+        <p>Saron Yitbarek, entrepreneur extraordinaire behind <a href="https://www.codenewbie.org/">CodeNewbie</a> and podcasts such as <a href="https://www.redhat.com/en/command-line-heroes">Command Line Heroes</a>, generously accepted my invitation to chat and talk about all these things, and more. And of course, we talk about Saron’s latest project - <a href="https://www.bigcashmoney.com">Big Cash Money 2024</a>, something for folks that want to max out their income beyond just their salary.</p>
+        <p>You can find Saron on the following sites:</p>
+        <ul>
+        <li><a href="https://saron.io/">📝 Blog</a></li>
+        <li><a href="https://www.linkedin.com/in/saronyitbarek/">💼 LinkedIn</a></li>
+        <li><a href="https://www.instagram.com/saronyitbarek/">📷 Instagram</a></li>
+        <li><a href="https://www.bigcashmoney.com/">💸 Big Cash Money 2024</a></li>
+        <li><a href="https://www.codenewbie.org/podcast">🎙️ Code Newbie Podcast</a></li>
+        <li><a href="https://www.codenewbie.org/basecs">🎙️ Basecs Podcast</a></li>
+        <li><a href="https://www.redhat.com/en/command-line-heroes">🎙️ Command Line Heroes Podcast</a></li>
+        <li><a href="https://notadesigner.io/">🎨 Not A Designer Newsletter</a></li>
+        </ul>
+        <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
+        <h2 id="feedback">Feedback</h2>
+        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        ]]>
+      </content:encoded>
+      <enclosure length="114484224" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S05E06.mp3" />
+      <guid isPermaLink="false">b0e79967-302c-4678-99c6-28c5b6eb65d0</guid>
+      <pubDate>Mon, 08 Apr 2024 12:00:00 GMT</pubDate>
+      <itunes:duration>2862</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>05</itunes:episode>
       <itunes:season>05</itunes:season>
       <title>#75 - From Pandemic Pastime To Real VC-Funded Startup, with David Khourshid</title>
