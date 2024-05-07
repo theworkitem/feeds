@@ -19,6 +19,39 @@
     <itunes:explicit>no</itunes:explicit>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>07</itunes:episode>
+      <itunes:season>05</itunes:season>
+      <title>#77 - Write About The Things You Learned, With Rachel Andrew (Google)</title>
+      <itunes:image href="https://cdn.theworkitem.com/art/episode-logos/s05e07.png" />
+      <description>
+        For today’s episode, I had the privilege of sitting down with Rachel Andrew, arguably one of the more influential folks in the world of web development. With a career spanning over two decades, Rachel has left an indelible mark on the web developer community. From her groundbreaking work on CSS to her role as co-founder of Perch CMS (she spent 20 years as a freelancer and a business owner), Rachel’s contributions have shaped the way we build and interact with the web. Throughout her career, Rachel has not only demonstrated technical prowess but also a remarkable knack for empowering others through her writing (and now, her team’s writing as well). As an acclaimed author, speaker, and advocate for web standards, she has tirelessly championed inclusivity and accessibility in the digital realm.
+      </description>
+      <itunes:summary>
+        For today’s episode, I had the privilege of sitting down with Rachel Andrew, arguably one of the more influential folks in the world of web development. With a career spanning over two decades, Rachel has left an indelible mark on the web developer community. From her groundbreaking work on CSS to her role as co-founder of Perch CMS (she spent 20 years as a freelancer and a business owner), Rachel’s contributions have shaped the way we build and interact with the web. Throughout her career, Rachel has not only demonstrated technical prowess but also a remarkable knack for empowering others through her writing (and now, her team’s writing as well). As an acclaimed author, speaker, and advocate for web standards, she has tirelessly championed inclusivity and accessibility in the digital realm.
+      </itunes:summary>
+      <content:encoded>
+        <![CDATA[
+        <p>For today’s episode, I had the privilege of sitting down with Rachel Andrew, arguably one of the more influential folks in the world of web development. With a career spanning over two decades, Rachel has left an indelible mark on the web developer community. From her groundbreaking work on CSS to her role as co-founder of Perch CMS (she spent 20 years as a freelancer and a business owner), Rachel’s contributions have shaped the way we build and interact with the web.</p>
+        <p>Throughout her career, Rachel has not only demonstrated technical prowess but also a remarkable knack for empowering others through her writing (and now, her team’s writing as well). As an acclaimed author, speaker, and advocate for web standards, she has tirelessly championed inclusivity and accessibility in the digital realm.</p>
+        <p>You can find Rachel on the following sites:</p>
+        <ul>
+        <li><a href="https://rachelandrew.co.uk/">📝 Blog</a></li>
+        <li><a href="https://noti.st/rachelandrew">📣 Talks</a></li>
+        <li><a href="https://twitter.com/rachelandrew">🦜 X</a></li>
+        </ul>
+        <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
+        <h2 id="feedback">Feedback</h2>
+        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        ]]>
+      </content:encoded>
+      <enclosure length="98080768" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S05E07.mp3" />
+      <guid isPermaLink="false">91ef95c2-2291-4adb-a6d6-5d202a32e152</guid>
+      <pubDate>Mon, 06 May 2024 12:00:00 GMT</pubDate>
+      <itunes:duration>2452</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>06</itunes:episode>
       <itunes:season>05</itunes:season>
       <title>#76 - Be OK Talking About Money, With Saron Yitbarek</title>
