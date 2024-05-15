@@ -19,6 +19,39 @@
     <itunes:explicit>no</itunes:explicit>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>08</itunes:episode>
+      <itunes:season>05</itunes:season>
+      <title>#78 - I Left Hawai'i To Work In Startups, With Katie Fujihara</title>
+      <itunes:image href="https://cdn.theworkitem.com/art/episode-logos/s05e08.png" />
+      <description>
+        One's journey from their early career to working at startups in Silicon Valley can take many forms. Some folks take the more traditional route of joining a company right after college. Others get tired of their corporate life and decide to try something different. Katie Fujihara, an engineer and a technical program manager amalgam, decided that her journey to the heart of “startup land,” San Francisco, would be an impromptu one - she just packed up her bags and set out on an adventure. I am delighted to share with you this recording, where I talk to Katie about her early starts in Hawai'i, how working in engineering was not the end goal for her career journey, and what the best practices are for overcoming impostor syndrome.
+      </description>
+      <itunes:summary>
+        One's journey from their early career to working at startups in Silicon Valley can take many forms. Some folks take the more traditional route of joining a company right after college. Others get tired of their corporate life and decide to try something different. Katie Fujihara, an engineer and a technical program manager amalgam, decided that her journey to the heart of “startup land,” San Francisco, would be an impromptu one - she just packed up her bags and set out on an adventure. I am delighted to share with you this recording, where I talk to Katie about her early starts in Hawai'i, how working in engineering was not the end goal for her career journey, and what the best practices are for overcoming impostor syndrome.
+      </itunes:summary>
+      <content:encoded>
+        <![CDATA[
+        <p>One’s journey from their early career to working at startups in Silicon Valley can take many forms. Some folks take the more traditional route of joining a company right after college. Others get tired of their corporate life and decide to try something different. Katie Fujihara, an engineer and a technical program manager amalgam, decided that her journey to the heart of “startup land,” San Francisco, would be an impromptu one - she just packed up her bags and set out on an adventure.</p>
+        <p>I am delighted to share with you this recording, where I talk to Katie about her early starts in Hawai’i, how working in engineering was not the end goal for her career journey, and what the best practices are for overcoming impostor syndrome.</p>
+        <p>You can find Katie on the following sites:</p>
+        <ul>
+        <li><a href="https://github.com/KatieFujihara">😺 GitHub</a></li>
+        <li><a href="https://www.linkedin.com/in/katie-fujihara/">🤵 LinkedIn</a></li>
+        <li><a href="https://twitter.com/KatieFujihara">🦜 X</a></li>
+        </ul>
+        <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
+        <h2 id="feedback">Feedback</h2>
+        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        ]]>
+      </content:encoded>
+      <enclosure length="95476736" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S05E08.mp3" />
+      <guid isPermaLink="false">d92ca103-969d-4b05-a613-294c6c897101</guid>
+      <pubDate>Tue, 14 May 2024 12:00:00 GMT</pubDate>
+      <itunes:duration>2386</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>07</itunes:episode>
       <itunes:season>05</itunes:season>
       <title>#77 - Write About The Things You Learned, With Rachel Andrew (Google)</title>
