@@ -19,6 +19,39 @@
     <itunes:explicit>no</itunes:explicit>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>09</itunes:episode>
+      <itunes:season>05</itunes:season>
+      <title>#79 - How To Get Promoted To Tech Executive - Lena Reinhard (VP Engineering, CircleCI, Travis CI)</title>
+      <itunes:image href="https://cdn.theworkitem.com/art/episode-logos/s05e09.png" />
+      <description>
+        We often talk about promotions and growth, but the moment the conversation shifts towards paths to staff or executive positions, the advice goes blank. There is very little actionable information out there that can tell you how you can get to the highest echelons of leadership. To get a clearer picture on this topic, I sat down with Lena Reinhard, a seasoned executive with an extensive track record at CircleCI, Travis CI, and more. Lena shares her insights on the best ways to accelerate career growth in the tech space, answer thorny questions, such as “Why are executives hired from the outside?” and provide some candid takes on why taking things slow sometimes can pay off in the end.
+      </description>
+      <itunes:summary>
+        We often talk about promotions and growth, but the moment the conversation shifts towards paths to staff or executive positions, the advice goes blank. There is very little actionable information out there that can tell you how you can get to the highest echelons of leadership. To get a clearer picture on this topic, I sat down with Lena Reinhard, a seasoned executive with an extensive track record at CircleCI, Travis CI, and more. Lena shares her insights on the best ways to accelerate career growth in the tech space, answer thorny questions, such as “Why are executives hired from the outside?” and provide some candid takes on why taking things slow sometimes can pay off in the end.
+      </itunes:summary>
+      <content:encoded>
+        <![CDATA[
+        <p>We often talk about promotions and growth, but the moment the conversation shifts towards paths to staff or executive positions, the advice goes blank. There is very little actionable information out there that can tell you <em>how</em> you can get to the highest echelons of leadership.</p>
+        <p>To get a clearer picture on this topic, I sat down with <a href="https://www.lenareinhard.com/">Lena Reinhard</a>, a seasoned executive with an <em>extensive</em> track record at CircleCI, Travis CI, and more. Lena shares her insights on the best ways to accelerate career growth in the tech space, answer thorny questions, such as “Why are executives hired from the outside?” and provide some candid takes on why taking things slow sometimes can pay off in the end.</p>
+        <p>You can find Lena on the following sites:</p>
+        <ul>
+        <li><a href="https://www.lenareinhard.com/">🌍 Website</a></li>
+        <li><a href="https://www.linkedin.com/in/lenareinhard">💼 LinkedIn</a></li>
+        <li><a href="https://podcasters.spotify.com/pod/show/leadershipconfidential">🎙️ Leadership Confidential Podcast</a></li>
+        </ul>
+        <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
+        <h2 id="feedback">Feedback</h2>
+        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        ]]>
+      </content:encoded>
+      <enclosure length="104303616" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S05E09.mp3" />
+      <guid isPermaLink="false">68667d8d-c4e9-46cd-bb25-b7c54f608b4f</guid>
+      <pubDate>Tue, 28 May 2024 12:00:00 GMT</pubDate>
+      <itunes:duration>2607</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>08</itunes:episode>
       <itunes:season>05</itunes:season>
       <title>#78 - I Left Hawai'i To Work In Startups, With Katie Fujihara</title>
