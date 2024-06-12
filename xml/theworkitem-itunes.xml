@@ -19,6 +19,41 @@
     <itunes:explicit>no</itunes:explicit>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>10</itunes:episode>
+      <itunes:season>05</itunes:season>
+      <title>#80 - Web Development Is Theatre - Miriam Suzanne (CSS Working Group, OddBird)</title>
+      <itunes:image href="https://cdn.theworkitem.com/art/episode-logos/s05e10.png" />
+      <description>
+        One of the things that Miriam Suzanne realized early in her developer journey is that web development is a tool - she wanted to build a website for her theater company and ended up building a career and a company around it. And not just that, but she also joined the CSS Working Group - the official standards body that determines how the CSS stack evolves. In this show, we talk about her early discovery of the power of the web, how she joins creativity with technical prowess, and how CSS is really like poetry written in the browser.
+      </description>
+      <itunes:summary>
+        One of the things that Miriam Suzanne realized early in her developer journey is that web development is a tool - she wanted to build a website for her theater company and ended up building a career and a company around it. And not just that, but she also joined the CSS Working Group - the official standards body that determines how the CSS stack evolves. In this show, we talk about her early discovery of the power of the web, how she joins creativity with technical prowess, and how CSS is really like poetry written in the browser.
+      </itunes:summary>
+      <content:encoded>
+        <![CDATA[
+        <p>One of the things that Miriam Suzanne realized early in her developer journey is that <em>web development is a tool</em> - she wanted to build a website for her theater company and ended up building a career <em>and</em> a company around it. And not just that, but she also joined the CSS Working Group - the official standards body that determines how the CSS stack evolves.</p>
+        <p>In this show, we talk about her early discovery of the power of the web, how she joins creativity with technical prowess, and how CSS is <em>really</em> like poetry written in the browser.</p>
+        <p>You can find Miriam on the following sites:</p>
+        <ul>
+        <li><a href="https://front-end.social/@mia">🐘 Mastodon</a></li>
+        <li><a href="https://front-end.social/@OddBird">🐘 OddBird (Mastodon)</a></li>
+        <li><a href="https://www.oddbird.net/">🐦 OddBird Website</a></li>
+        <li><a href="https://www.miriamsuzanne.com/">📝 Blog</a></li>
+        <li><a href="https://www.linkedin.com/in/terriblemia/">💼 LinkedIn</a></li>
+        </ul>
+        <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
+        <h2 id="feedback">Feedback</h2>
+        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        ]]>
+      </content:encoded>
+      <enclosure length="76033024" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S05E10.mp3" />
+      <guid isPermaLink="false">ce2dc811-f868-4d52-ab18-367dec6f71a8</guid>
+      <pubDate>Wed, 12 Jun 2024 12:00:00 GMT</pubDate>
+      <itunes:duration>1900</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>09</itunes:episode>
       <itunes:season>05</itunes:season>
       <title>#79 - How To Get Promoted To Tech Executive - Lena Reinhard (VP Engineering, CircleCI, Travis CI)</title>
