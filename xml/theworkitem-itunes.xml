@@ -21,6 +21,41 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>10</itunes:episode>
       <itunes:season>05</itunes:season>
+      <title>#81 - Making A Career Out Of A Hobby - Kirupa Chinnathambi (Product Manager - Google)</title>
+      <itunes:image href="https://cdn.theworkitem.com/art/episode-logos/s05e10.png" />
+      <description>
+        In episode 81, Den Delimarsky chats with Kirupa Chinnathambi, a product manager at Google who has built his own personal brand in what is now known as kirupa.com. Kirupa is a talented web developer, designer, writer, and packs so much knowledge in his blog that you can learn how to create great web-based experiences on that content alone. We discuss best ways to balance everything in one's life and still have a successful career, finding the right angles to change a team culture, making your hobby your career, and how to increase your likelihood of building more luck in the day-to-day activities.
+      </description>
+      <itunes:summary>
+        In episode 81, Den Delimarsky chats with Kirupa Chinnathambi, a product manager at Google who has built his own personal brand in what is now known as kirupa.com. Kirupa is a talented web developer, designer, writer, and packs so much knowledge in his blog that you can learn how to create great web-based experiences on that content alone. We discuss best ways to balance everything in one's life and still have a successful career, finding the right angles to change a team culture, making your hobby your career, and how to increase your likelihood of building more luck in the day-to-day activities.
+      </itunes:summary>
+      <content:encoded>
+        <![CDATA[
+        <p>In episode 81, Den Delimarsky chats with Kirupa Chinnathambi, a product manager at Google who has built his own personal brand in what is now known as <a href="https://kirupa.com">kirupa.com</a>. Kirupa is a talented web developer, designer, writer, and packs so much knowledge in his blog that you can learn how to create great web-based experience on that content alone.</p>
+        <p>We discuss best ways to balance everything in one’s life and still have a successful career, finding the right angles to change a team culture, making your hobby your career, and how to increase your likelihood of building more luck in the day-to-day activities.</p>
+        <p>You can find Kirupa on the following sites:</p>
+        <ul>
+        <li><a href="https://www.kirupa.com/">🍊 Kirupa.com</a></li>
+        <li><a href="https://www.youtube.com/kirupa">📽️ YouTube</a></li>
+        <li><a href="https://www.instagram.com/kirupac/">📸 Instagram</a></li>
+        <li><a href="https://www.linkedin.com/in/kirupa/">💼 LinkedIn</a></li>
+        <li><a href="https://podcasters.spotify.com/pod/show/kirupa">🎙️ Podcast</a></li>
+        </ul>
+        <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
+        <h2 id="feedback">Feedback</h2>
+        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        ]]>
+      </content:encoded>
+      <enclosure length="103011328" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S05E10.mp3" />
+      <guid isPermaLink="false">49e9e13d-a80e-4c59-a022-bd06d1b092be</guid>
+      <pubDate>Tue, 02 Jul 2024 16:49:27 GMT</pubDate>
+      <itunes:duration>2575</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>10</itunes:episode>
+      <itunes:season>05</itunes:season>
       <title>#80 - Web Development Is Theatre - Miriam Suzanne (CSS Working Group, OddBird)</title>
       <itunes:image href="https://cdn.theworkitem.com/art/episode-logos/s05e10.png" />
       <description>
