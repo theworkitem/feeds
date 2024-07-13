@@ -19,6 +19,38 @@
     <itunes:explicit>no</itunes:explicit>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>12</itunes:episode>
+      <itunes:season>05</itunes:season>
+      <title>#82 - Stop Building SaaS Landing Pages - Craig Hewitt (Founder, Castos)</title>
+      <itunes:image href="https://cdn.theworkitem.com/art/episode-logos/s05e12.png" />
+      <description>
+        Craig Hewitt, the founder of the podcasting platform Castos, comes from generations of entrepreneurs, and his own journey builds on the experience and stamina of those that came before him. In this show, we chat about best practices for hiring developers for your bootstrapped startup, finding the right approach to deliver hard news, and how to ensure that your relationships aren't hurt as you embark on the entrepreneurship treadmill.
+      </description>
+      <itunes:summary>
+        Craig Hewitt, the founder of the podcasting platform Castos, comes from generations of entrepreneurs, and his own journey builds on the experience and stamina of those that came before him. In this show, we chat about best practices for hiring developers for your bootstrapped startup, finding the right approach to deliver hard news, and how to ensure that your relationships aren't hurt as you embark on the entrepreneurship treadmill.
+      </itunes:summary>
+      <content:encoded>
+        <![CDATA[
+        <p>Craig Hewitt, the founder of the podcasting platform Castos, comes from generations of entrepreneurs, and his own journey builds on the experience and stamina of those that came before him. In this show, we chat about best practices for hiring developers for your bootstrapped startup, finding the right approach to deliver hard news, and how to ensure that your relationships aren’t hurt as you embark on the entrepreneurship treadmill.</p>
+        <p>You can find Craig on the following sites:</p>
+        <ul>
+        <li><a href="https://www.craighewitt.me/">📝 Blog</a></li>
+        <li><a href="https://www.linkedin.com/in/craig-hewitt-78386a66/">💼 LinkedIn</a></li>
+        </ul>
+        <p>And of course, make sure to <a href="https://castos.com/">check out Castos</a>!</p>
+        <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
+        <h2 id="feedback">Feedback</h2>
+        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        ]]>
+      </content:encoded>
+      <enclosure length="89984591" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S05E12.mp3" />
+      <guid isPermaLink="false">3827B23D-C26A-45F4-A5AA-92C3BF75F402</guid>
+      <pubDate>Sat, 13 Jul 2024 20:40:04 GMT</pubDate>
+      <itunes:duration>2249</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>11</itunes:episode>
       <itunes:season>05</itunes:season>
       <title>#81 - Making A Career Out Of A Hobby - Kirupa Chinnathambi (Product Manager - Google)</title>
