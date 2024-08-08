@@ -19,6 +19,37 @@
     <itunes:explicit>no</itunes:explicit>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>13</itunes:episode>
+      <itunes:season>05</itunes:season>
+      <title>#83 - Don't Take The Easy Path - Jennifer Wong (Engineering Leader)</title>
+      <itunes:image href="https://cdn.theworkitem.com/art/episode-logos/s05e13.png" />
+      <description>
+        Jennifer Wong is a seasoned engineering manager who started her journey in civil engineering. The fast pace of the tech industry drew her in, and she stuck with it for years since making that call. In this episode, I chat with Jennifer about her transition from a non-traditional career path into software, reasons to take on management instead of being an individual contributor, and why taking the road less traveled in terms of career progression might just be the recipe for long-term growth and success.
+      </description>
+      <itunes:summary>
+        Jennifer Wong is a seasoned engineering manager who started her journey in civil engineering. The fast pace of the tech industry drew her in, and she stuck with it for years since making that call. In this episode, I chat with Jennifer about her transition from a non-traditional career path into software, reasons to take on management instead of being an individual contributor, and why taking the road less traveled in terms of career progression might just be the recipe for long-term growth and success.
+      </itunes:summary>
+      <content:encoded>
+        <![CDATA[
+        <p>Jennifer Wong is a seasoned engineering manager who started her journey in civil engineering. The fast pace of the tech industry drew her in, and she stuck with it for years since making that call. In this episode, I chat with Jennifer about her transition from a non-traditional career path into software, reasons to take on management instead of being an individual contributor, and why taking the road less traveled in terms of career progression might just be the recipe for long-term growth and success.</p>
+        <p>You can find Jennifer on the following sites:</p>
+        <ul>
+        <li><a href="https://github.com/jennz0r">😺 GitHub</a></li>
+        <li><a href="https://www.linkedin.com/in/jenniferewong/">💼 LinkedIn</a></li>
+        </ul>
+        <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
+        <h2 id="feedback">Feedback</h2>
+        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        ]]>
+      </content:encoded>
+      <enclosure length="90511360" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S05E13.mp3" />
+      <guid isPermaLink="false">cfd19500-5c97-4175-b0e4-941442954572</guid>
+      <pubDate>Thu, 08 Aug 2024 13:22:22 GMT</pubDate>
+      <itunes:duration>2262</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>12</itunes:episode>
       <itunes:season>05</itunes:season>
       <title>#82 - Stop Building SaaS Landing Pages - Craig Hewitt (Founder, Castos)</title>
