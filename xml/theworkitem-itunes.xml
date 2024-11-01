@@ -19,6 +19,40 @@
     <itunes:explicit>no</itunes:explicit>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>14</itunes:episode>
+      <itunes:season>05</itunes:season>
+      <title>#84 - Tools Do Not Matter - Jason Lengstorf (Founder, Learn With Jason)</title>
+      <itunes:image href="https://cdn.theworkitem.com/art/episode-logos/s05e14.png" />
+      <description>
+        If you've been immersed in the tech world for some time, you probably have heard one specific YouTube channel mentioned more than once - Learn With Jason. It's a project started by Jason Lengstorf, a former VP of developer experience at a web tooling startup (he was a head of developer relations prior to that too), that is aimed at helping everyone navigate the always changing landscape of developer tools and frameworks. Which, by the way, according to Jason do not matter. In this show, we dive deep in Jason's career path and focus on the less known aspects of climbing the career ladder - things like amassing political capital by doing great work, building visibility by meaningful means that can help cement your reputation, and being able to address business problems as a mechanism to build trust in your own leadership abilities.
+      </description>
+      <itunes:summary>
+        If you've been immersed in the tech world for some time, you probably have heard one specific YouTube channel mentioned more than once - Learn With Jason. It's a project started by Jason Lengstorf, a former VP of developer experience at a web tooling startup (he was a head of developer relations prior to that too), that is aimed at helping everyone navigate the always changing landscape of developer tools and frameworks. Which, by the way, according to Jason do not matter. In this show, we dive deep in Jason's career path and focus on the less known aspects of climbing the career ladder - things like amassing political capital by doing great work, building visibility by meaningful means that can help cement your reputation, and being able to address business problems as a mechanism to build trust in your own leadership abilities.
+      </itunes:summary>
+      <content:encoded>
+        <![CDATA[
+        <p>If you’ve been immersed in the tech world for some time, you probably have heard one specific YouTube channel mentioned more than once - <a href="https://www.youtube.com/channel/UCnty0z0pNRDgnuoirYXnC5A">Learn With Jason</a>. It’s a project started by Jason Lengstorf, a former VP of developer experience at a web tooling startup (he was a head of developer relations prior to that too), that is aimed at helping everyone navigate the always changing landscape of developer tools and frameworks. Which, by the way, according to Jason do not matter.</p>
+        <p>In this show, we dive deep in Jason’s career path and focus on the less known aspects of climbing the career ladder - things like amassing political capital by doing great work, building visibility by <em>meaningful</em> means that can help cement your reputation, and being able to address business problems as a mechanism to build trust in your own leadership abilities.</p>
+        <p>You can find Jason on the following sites:</p>
+        <ul>
+        <li><a href="https://www.youtube.com/channel/UCnty0z0pNRDgnuoirYXnC5A">📽️ Learn With Jason (YouTube)</a></li>
+        <li><a href="https://www.learnwithjason.dev/">🏫 Learn With Jason (Website)</a></li>
+        <li><a href="https://jason.energy">🕸️ Jason Lengstorf’s Website</a></li>
+        <li><a href="https://bsky.app/profile/jason.energy">🦋 BlueSky</a></li>
+        </ul>
+        <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
+        <h2 id="feedback">Feedback</h2>
+        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        ]]>
+      </content:encoded>
+      <enclosure length="155471872" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S05E14.mp3" />
+      <guid isPermaLink="false">4173bb64-a598-49aa-b518-19d29329247e</guid>
+      <pubDate>Thu, 31 Oct 2024 17:52:26 GMT</pubDate>
+      <itunes:duration>3886</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>13</itunes:episode>
       <itunes:season>05</itunes:season>
       <title>#83 - Don't Take The Easy Path - Jennifer Wong (Engineering Leader)</title>
