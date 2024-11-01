@@ -1,22 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Work Item - A Podcast About Unconventional Career Advice</title>
+    <title>The Work Item - Real Talk on Tech's Toughest Career Choices</title>
+    <itunes:subtitle>Real Talk on Tech's Toughest Career Choices</itunes:subtitle>
+    <itunes:summary>Most career advice out there is generic. It fades as you progress and face invisible barriers to growth. The Work Item breaks through the basics, delivering hard-earned insights from real industry pros to help you navigate tricky paths, unlock new levels, and make bold moves in your tech career.</itunes:summary>
     <link>https://theworkitem.com</link>
     <language>en-us</language>
     <copyright>© 2024 by Den Delimarsky.</copyright>
     <itunes:author>Den Delimarsky</itunes:author>
-    <description>Building a fulfilling career is hard. With so many people around us taking on different adventures that propel their careers in unexpected trajectories, is there a path a person can take that is going to increase their likelihood of success? Can I build a career creating content? What does it take to make the transition from information technology jobs to space? Can I start a start-up and not lose my sanity? Every week, Den sits down with folks from a range of industries, roles, and backgrounds to learn more about their career journey, lessons learned, and what it takes to reach new heights in your own work in the tech and tech-adjacent spaces.
+    <description>
+    <![CDATA[
+    <p>The web is full of podcasts that dole out generic career advice - “<em>Follow your passion!</em>”, “<em>Keep learning!</em>”, “<em>Set clear goals!</em>” This is all good if you’re just starting out, but the pointers start to lose their luster quickly as you progress and start hitting invisible walls in your growth.</p>
+    <p>All of a sudden, it’s harder to get promoted, opportunities to advance become more ambiguous, and the choices in front of you aren’t as obvious as they were when you first started your job.</p>
+    <p>What does it take to get to the Staff engineer level? If you want to become an executive in the future, what should you do now to maximize your chances of hitting that goal? Should you have a time-bound career map or focus on unique opportunities that pop up serendipitously? Should you try your hand at entrepreneurship, and if so - how do you build a robust safety net?</p>
+    <p>For these questions and more, The Work Item is the podcast where I attempt to answer them with help from folks that went through trial by fire. They are not social media thought leaders - they are <em>actual practicioners</em> who have first-hand experience dealing with some of the more thorny challenges in this industry.</p>
+    <p>With folks like <a href="/blog/tools-do-not-matter-jason-lengstorf/">Jason Lengstorf</a> (Founder, Learn With Jason), <a href="/blog/stop-building-landing-pages-craig-hewitt/">Craig Hewitt</a> (Founder, Castos), <a href="/blog/cash-money-with-saron-yitbarek/">Saron Yitbarek</a> (Founder, CodeNewbie), <a href="/blog/put-the-passion-aside-rob-walling/">Rob Walling</a> (Founder, MicroConf), <a href="/blog/career-moats-cedric-chin/">Cedric Chin</a> (Founder, CommonCog), <a href="/blog/building-sustainable-practices-jason-fried/">Jason Fried</a> (CEO, 37signals), <a href="/blog/ori-moon-studios-gennadiy-korol/">Gennadiy Korol</a> (CEO, Moon Studios), <a href="/blog/reflecting-on-the-year-mayuko-inoue/">Mayuko Inoue</a> (iOS Engineer, Apple), <a href="/blog/camille-fournier-engineering-paths/">Camille Fournier</a>, and <a href="/blog/">many, many more</a> you will get <em>extraordinary</em> insights that will help you unlock your career potential beyond the basics you’ll learn elsewhere.</p>
+    ]]>
     </description>
     <atom:link href="https://raw.githubusercontent.com/theworkitem/feeds/master/xml/theworkitem-itunes.xml" rel="self" type="application/rss+xml" />
     <itunes:type>serial</itunes:type>
     <itunes:owner>
-      <itunes:name>Den</itunes:name>
+      <itunes:name>Den Delimarsky</itunes:name>
       <itunes:email>pod@theworkitem.com</itunes:email>
     </itunes:owner>
     <itunes:image href="https://cdn.theworkitem.com/art/the-work-item-main.png" />
     <itunes:category text="Technology" />
+    <itunes:category text="Business" />
     <itunes:explicit>no</itunes:explicit>
+    <itunes:keywords>technology career executive tech open source discussion growth entrepreneur startups science ai learning founder vp</itunes:keywords>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>14</itunes:episode>
