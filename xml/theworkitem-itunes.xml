@@ -30,6 +30,45 @@
     <itunes:keywords>technology career executive tech open source discussion growth entrepreneur startups science ai learning founder vp</itunes:keywords>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>16</itunes:episode>
+      <itunes:season>05</itunes:season>
+      <title>#86 - The Only Real Way To Know Is To Talk To People - Asia Orangio (CEO, DemandMaven)</title>
+      <itunes:image href="https://cdn.theworkitem.com/art/episode-logos/s05e16.webp" />
+      <description>
+        Today, I'm thrilled to be joined by Asia Orangio, the brain behind DemandMaven, a growth agency dedicated to helping SaaS companies and their founders reach new heights. Asia's unique approach blends data-driven strategies with deep empathy for customers, making her a sought-after expert - from bootstrapped businesses to some of the most established companies. Whether you're a startup founder or a seasoned marketer, I promise you that her insights will challenge your thinking and inspire quite a few new ideas. In this conversation, Asia shares her journey from marketer to founder, unraveling the lessons she's learned while scaling SaaS companies and guiding others to do the same. We'll explore her philosophy on growth, the common mistakes founders make when trying to identify their growth levers, and the power of understanding your audience on a deeper level. This really ended up being a masterclass in sustainable growth and customer-first business foundations.
+      </description>
+      <itunes:summary>
+        Today, I'm thrilled to be joined by Asia Orangio, the brain behind DemandMaven, a growth agency dedicated to helping SaaS companies and their founders reach new heights. Asia's unique approach blends data-driven strategies with deep empathy for customers, making her a sought-after expert - from bootstrapped businesses to some of the most established companies. Whether you're a startup founder or a seasoned marketer, I promise you that her insights will challenge your thinking and inspire quite a few new ideas. In this conversation, Asia shares her journey from marketer to founder, unraveling the lessons she's learned while scaling SaaS companies and guiding others to do the same. We'll explore her philosophy on growth, the common mistakes founders make when trying to identify their growth levers, and the power of understanding your audience on a deeper level. This really ended up being a masterclass in sustainable growth and customer-first business foundations.
+      </itunes:summary>
+      <content:encoded>
+        <![CDATA[
+        <p>Today, I’m thrilled to be joined by Asia Orangio, the brain behind DemandMaven, a growth agency dedicated to helping SaaS companies and their founders reach new heights. Asia’s unique approach blends data-driven strategies with deep empathy for customers, making her a sought-after expert - from bootstrapped businesses to some of the most established companies. Whether you’re a startup founder or a seasoned marketer, I promise you that her insights will challenge your thinking and inspire quite a few new ideas.</p>
+        <p>In this conversation, Asia shares her journey from marketer to founder, unraveling the lessons she’s learned while scaling SaaS companies and guiding others to do the same. We’ll explore her philosophy on growth, the common mistakes founders make when trying to identify their growth levers, and the power of understanding your audience on a deeper level. This really ended up being a masterclass in sustainable growth and customer-first business foundations.</p>
+        <p>You can find Asia on the following sites:</p>
+        <ul>
+        <li><a href="https://www.asiaorangio.com/about/">🌎 Website</a></li>
+        <li><a href="https://www.asiaorangio.com/about/demandmaven.io">🦅 DemandMaven</a></li>
+        <li><a href="https://bsky.app/profile/asiaorangio.bsky.social">🦋 Bluesky</a></li>
+        </ul>
+        <p>Asia also recommended the following folks to check out:</p>
+        <ul>
+        <li><a href="https://www.lennyrachitsky.com/">Lenny Rachitsky</a></li>
+        <li><a href="https://cutlefish.substack.com/">John Cutler</a></li>
+        <li><a href="https://longform.asmartbear.com/jason-cohen/">Jason Cohen</a></li>
+        </ul>
+        <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
+        <h2 id="feedback">Feedback</h2>
+        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        ]]>
+      </content:encoded>
+      <enclosure length="154247168" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S05E16.mp3" />
+      <guid isPermaLink="false">a3bab140-1e65-48a9-a78c-2c19d309d488</guid>
+      <pubDate>Fri, 20 Dec 2024 11:44:02 GMT</pubDate>
+      <itunes:duration>3856</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>15</itunes:episode>
       <itunes:season>05</itunes:season>
       <title>#85 - Building A Business From Python Expertise - Michael Kennedy (Founder, Talk Python Training)</title>
@@ -52,10 +91,10 @@
         <li><a href="https://www.youtube.com/@mikeckennedy">🎥 Video</a></li>
         <li><a href="https://training.talkpython.fm/courses/all">📚 Talk Python Training</a></li>
         <li><a href="https://talkpython.fm/">🎙️ Talk Python To Me Podcast</a></li>
+        </ul>
         <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
         <h2 id="feedback">Feedback</h2>
         <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
-        </ul>
         ]]>
       </content:encoded>
       <enclosure length="141885440" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S05E15.mp3" />
