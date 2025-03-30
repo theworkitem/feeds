@@ -30,6 +30,40 @@
     <itunes:keywords>technology career executive tech open source discussion growth entrepreneur startups science ai learning founder vp</itunes:keywords>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>02</itunes:episode>
+      <itunes:season>06</itunes:season>
+      <title>#89 - So You Want to Be a CTO - Taiwo Oyienyi (CTO, Distrobird)</title>
+      <itunes:image href="https://cdn.theworkitem.com/art/episode-logos/s06e02.png" />
+      <description>
+        Chief Technology Officer - a few people I've talked to in the past year expressed some degree of interest in reaching, what seems like, the pinnacle of an engineering career. That three-letter title carries weight in boardrooms and across the industry alike. But beyond the fancy business cards and the seat at the executive table, what does it actually mean to hold the technical helm of an organization? Is it the promised land of pure architectural decisions and strategic vision, or something messier, more complex, and perhaps more rewarding in unexpected ways? Today, we're peeling back the curtain on the CTO role with Taiwo Oyeniyi, who'll share his journey from engineer to executive. Rather than relying on generic career advice or job descriptions, we'll hear firsthand about the transition, the challenges, and the realities of the position. Taiwo will explore the skills that matter most (spoiler alert: they might not be the ones you're cultivating now), the hurdles he faced along the way, and how the role has transformed his relationship with technology.
+      </description>
+      <itunes:summary>
+        Chief Technology Officer - a few people I've talked to in the past year expressed some degree of interest in reaching, what seems like, the pinnacle of an engineering career. That three-letter title carries weight in boardrooms and across the industry alike. But beyond the fancy business cards and the seat at the executive table, what does it actually mean to hold the technical helm of an organization? Is it the promised land of pure architectural decisions and strategic vision, or something messier, more complex, and perhaps more rewarding in unexpected ways? Today, we're peeling back the curtain on the CTO role with Taiwo Oyeniyi, who'll share his journey from engineer to executive. Rather than relying on generic career advice or job descriptions, we'll hear firsthand about the transition, the challenges, and the realities of the position. Taiwo will explore the skills that matter most (spoiler alert: they might not be the ones you're cultivating now), the hurdles he faced along the way, and how the role has transformed his relationship with technology.
+      </itunes:summary>
+      <content:encoded>
+        <![CDATA[
+        <p>Chief Technology Officer - a few people I've talked to in the past year expressed some degree of interest in reaching, what seems like, the pinnacle of an engineering career.</p>
+        <p>That three-letter title carries weight in boardrooms and across the industry alike. But beyond the fancy business cards and the seat at the executive table, what does it actually mean to hold the technical helm of an organization? Is it the promised land of pure architectural decisions and strategic vision, or something messier, more complex, and perhaps more rewarding in unexpected ways?</p>
+        <p>Today, we're peeling back the curtain on the CTO role with Taiwo Oyeniyi, who'll share his journey from engineer to executive. Rather than relying on generic career advice or job descriptions, we'll hear firsthand about the transition, the challenges, and the realities of the position. Taiwo will explore the skills that matter most (spoiler alert: they might not be the ones you're cultivating now), the hurdles he faced along the way, and how the role has transformed his relationship with technology.</p>
+        <p>You can find Taiwo on the following sites:</p>
+        <ul>
+        <li><a href="https://www.youtube.com/@techiefarmer">📽️ YouTube</a></li>
+        <li><a href="https://www.instagram.com/thetechiefarmer/">🖼️ Instagram</a></li>
+        <li><a href="https://www.tiktok.com/@techiefarmer">📼 TikTok</a></li>
+        </ul>
+        <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>.
+        <h2 id="feedback">Feedback</h2>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        ]]>
+      </content:encoded>
+      <enclosure length="127846400" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S06E02.mp3" />
+      <guid isPermaLink="false">a1b871a6-c580-4ca6-91bf-e472544e0a78</guid>
+      <pubDate>Sun, 30 Mar 2025 14:41:12 GMT</pubDate>
+      <itunes:duration>3196</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>01</itunes:episode>
       <itunes:season>06</itunes:season>
       <title>#88 - Best-Kept Secrets on Becoming a Great User Researcher - Marisa Morby (Principal Researcher, Observable)</title>
@@ -53,7 +87,7 @@
         </ul>
         <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>.
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="130732032" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S06E01.mp3" />
@@ -80,7 +114,7 @@
         <p>This turned out so well, that I will be definitely re-visiting the format in the new year. I hope you have a successful and adventure-packed 2025, with plenty of room for career growth. See you next year!</p>
         <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>.
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="76600320" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S05E17.mp3" />
@@ -119,7 +153,7 @@
         </ul>
         <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="154247168" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S05E16.mp3" />
@@ -155,7 +189,7 @@
         </ul>
         <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="141885440" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S05E15.mp3" />
@@ -189,7 +223,7 @@
         </ul>
         <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="155471872" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S05E14.mp3" />
@@ -220,7 +254,7 @@
         </ul>
         <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="90511360" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S05E13.mp3" />
@@ -252,7 +286,7 @@
         <p>And of course, make sure to <a href="https://castos.com/">check out Castos</a>!</p>
         <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="89984591" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S05E12.mp3" />
@@ -287,7 +321,7 @@
         </ul>
         <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="103011328" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S05E11.mp3" />
@@ -322,7 +356,7 @@
         </ul>
         <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="76033024" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S05E10.mp3" />
@@ -355,7 +389,7 @@
         </ul>
         <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="104303616" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S05E09.mp3" />
@@ -388,7 +422,7 @@
         </ul>
         <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="95476736" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S05E08.mp3" />
@@ -421,7 +455,7 @@
         </ul>
         <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="98080768" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S05E07.mp3" />
@@ -459,7 +493,7 @@
         </ul>
         <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="114484224" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S05E06.mp3" />
@@ -494,7 +528,7 @@
         </ul>
         <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="80948224" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S05E05.mp3" />
@@ -527,7 +561,7 @@
         </ul>
         <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="127889408" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S05E04.mp3" />
@@ -562,7 +596,7 @@
         </ul>
         <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="107906048" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S05E03.mp3" />
@@ -595,7 +629,7 @@
         </ul>
         <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="96527360" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S05E02.mp3" />
@@ -629,7 +663,7 @@
         </ul>
         <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="90366976" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S05E01.mp3" />
@@ -663,7 +697,7 @@
         </ul>
         <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="115110912" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S04E10.mp3" />
@@ -696,7 +730,7 @@
         </ul>
         <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="100081664" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S04E09.mp3" />
@@ -729,7 +763,7 @@
         </ul>
         <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="135175168" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S04E08.mp3" />
@@ -764,7 +798,7 @@
         </ul>
         <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="84322304" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S04E07.mp3" />
@@ -796,7 +830,7 @@
         </ul>
         <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="92417024" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S04E06.mp3" />
@@ -829,7 +863,7 @@
         <p>Jane also maintains an extremely helpful repository for folks who want to break into the data science field: <a href="https://github.com/janejuenyang/welcome"><code>janejuenyang/welcome</code></a></p>
         <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="115748864" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S04E05.mp3" />
@@ -861,7 +895,7 @@
         </ul>
         <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="101866496" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S04E04.mp3" />
@@ -894,7 +928,7 @@
         </ul>
         <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="108137472" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S04E03.mp3" />
@@ -929,7 +963,7 @@
         </ul>
         <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="86850560" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S04E02.mp3" />
@@ -964,7 +998,7 @@
         </ul>
         <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="131684352" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S04E01.mp3" />
@@ -997,7 +1031,7 @@
         </ul>
         <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="115561472" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S03E13.mp3" />
@@ -1030,7 +1064,7 @@
         </ul>
         <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="93902848" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S03E12.mp3" />
@@ -1066,7 +1100,7 @@
         </ul>
         <p>The podcast was produced by <a href="https://den.dev">Den</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="141686784" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S03E11.mp3" />
@@ -1095,7 +1129,7 @@
         </ul>
         <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="91810560" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S03E10.mp3" />
@@ -1127,7 +1161,7 @@
         </ul>
         <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="67782656" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S03E09.mp3" />
@@ -1158,7 +1192,7 @@
         </ul>
         <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="100042752" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S03E08.mp3" />
@@ -1190,7 +1224,7 @@
         </ul>
         <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="81819648" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S03E07.mp3" />
@@ -1218,7 +1252,7 @@
         <ul><li><a href="https://twitter.com/nicolelzhu">🐤 Twitter</a></li><li><a href="http://nicolezhu.io/">📝 Website</a></li><li><a href="https://nicoledonut.com/">📰 Newsletter</a></li></ul>
         <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="89122816" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S03E06.mp3" />
@@ -1246,7 +1280,7 @@
         <ul><li><a href="https://twitter.com/nickwan">🐤 Twitter</a></li><li><a href="https://www.twitch.tv/nickwan_datasci">🦹‍♀️ Twitch</a></li></ul>
         <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="92903424" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S03E05.mp3" />
@@ -1275,7 +1309,7 @@
         <ul><li><a href="https://twitter.com/xnt">🐤 Twitter</a></li><li><a href="https://vplata.dev/">📝 Website</a></li></ul>
         <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="99037184" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S03E04.mp3" />
@@ -1303,7 +1337,7 @@
         <ul><li><a href="https://twitter.com/isaach">🐤 Twitter</a></li></ul>
         <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="97604608" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S03E03.mp3" />
@@ -1335,7 +1369,7 @@
         </ul>
         <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="88701952" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S03E02.mp3" />
@@ -1366,7 +1400,7 @@
         </ul>
         <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="92324864" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S03E01.mp3" />
@@ -1397,7 +1431,7 @@
         <p>As a side-note, you can also check out my interview with Mayuko <a href="https://www.youtube.com/watch?v=z-pys9Iq3VE">on her channel</a>.</p>
         <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="143457280" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S02E28.mp3" />
@@ -1427,7 +1461,7 @@
         <p>And if you want to see more of Clippy (the beloved Office assistant) come to life, you absolutely have to help Christina get to 10,000 followers <a href="https://instagram.com/film_girl">on Instagram</a>.</p>
         <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="140249088" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S02E27.mp3" />
@@ -1455,7 +1489,7 @@
         <ul><li><a href="https://twitter.com/jenistyping">🐤 Twitter</a></li><li><a href="https://www.jennifer.kim/">📝 Website</a></li></ul>
         <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="130045952" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S02E26.mp3" />
@@ -1484,7 +1518,7 @@
         <p>Make sure to also check out Isaac’s podcast - <a href="https://www.coffeeandopensource.com/">Coffee and Open Source</a>.</p>
         <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="147520512" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S02E25.mp3" />
@@ -1514,7 +1548,7 @@
         <p>Also, check out <a href="https://www.thisdevelopingstory.com/">This Developing Story</a> and <a href="https://www.heavybit.com/library/podcasts/jamstack-radio/">Jamstack Radio</a> - both podcasts that Brian runs!</p>
         <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="138905600" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S02E24.mp3" />
@@ -1546,7 +1580,7 @@
         <p>As called-out on the show, you should check out <a href="https://discourse.org">Discourse</a>, along with the <a href="https://meta.discourse.org/">Meta</a> and <a href="https://bbs.boingboing.net/">Boing Boing</a> communities.</p>
         <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="140592128" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S02E23.mp3" />
@@ -1580,7 +1614,7 @@
         </ul>
         <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="145402880" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S02E22.mp3" />
@@ -1610,7 +1644,7 @@
         </ul>
         <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="107448320" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S02E21.mp3" />
@@ -1633,7 +1667,7 @@
         <![CDATA[
         <p>In the sea of shiny technology objects (I am talking frameworks, tools, libraries, and many others), <a href="https://dshaw.com">Dan Shaw</a>has been pretty opinionated - focus on delivering value to the customer first, and tools second. In this episode, I sit down with Dan to learn more about this approach, and how he applied it in his career and work with the Node.js community - after all, he’s known as the Godfather of Node.js.</p><p>You can find Dan on the following sites:</p><ul><li><a href="https://twitter.com/dshaw">🐤 Twitter</a></li><li><a href="https://dshaw.com/">📝 Blog</a></li></ul><p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="142430208" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S02E20.mp3" />
@@ -1656,7 +1690,7 @@
         <![CDATA[
         <p>From the early days - when we are growing up, to when we go to school, we tend to be involved in a lot of activities. From sports, to music, painting, coding classes. But as we grow up, we tend to specialize. One is a product manager, or a Python programmer, or even a doctor.</p><p>According to my good friend Salman Ansari, this is where we have an opportunity to break out of the typical norms and become a polymath - a person with extensive knowledge in several domains. In this episode, I learn more about Salman’s career, as well as his take on how someone can become a polymath.</p><p>You can find Salman on the following sites:</p><ul><li><a href="https://twitter.com/daretorant">🐤 Twitter</a></li><li><a href="https://salman.io/">📝 Blog</a></li><li><a href="https://letter.salman.io/">📰 Newsletter</a></li></ul><p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="125707264" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S02E19.mp3" />
@@ -1679,7 +1713,7 @@
         <![CDATA[
         <p>Last time I chatted with Jack, I had <em>pages</em>of questions I still wanted to ask - with this episode, I attempt to address that backlog. And the more I talked to Jack, the more I realized that the theme of his entire career is - “be a builder.” As someone who started and worked at many startups, he sure knows first-hand how to do that well and in a way that is sustainable.</p><p>Today, we talk about his work at Vimeo, what it means to collaborate with others, and how to build a network of folks that are there when you need them most.</p><p>You can find Jack on the following sites:</p><ul><li><a href="https://twitter.com/jackzerby">🐤 Twitter</a></li><li><a href="https://jackzerby.com/">📝 Blog</a></li><li><a href="https://www.linkedin.com/in/jackzerby/">🤵 LinkedIn</a></li><li><a href="https://open.spotify.com/artist/0lT1sFnszlq9JFPnNvaDZY?si=eUUSOpvDSZ-zIVqNCZO4ZA">🎵 Spotify</a></li></ul><p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>]]>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>]]>
       </content:encoded>
       <enclosure length="150961152" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S02E18.mp3" />
       <guid isPermaLink="false">c11a60b1-e910-4808-8336-4da489cdd4bf</guid>
@@ -1701,7 +1735,7 @@
         <![CDATA[
         <p>There is a bit of a chasm between requirements for building open source projects and those that are designed to be closed. Not surprisingly, it also requires a different set of skills altogether if you want to do it right.</p><p>To learn more about this, I sat down with <a href="https://twitter.com/gurlcode">Jenn Creighton</a>, Senior Staff Open Source Engineer at Apollo GraphQL. Jenn has been building scalable web experiences at companies such as Ralph Lauren, Chartbeat, and ClassPass, and is now leading the work on one of the most interesting and active open projects out there.</p><p>You can find Jenn on the following sites:</p><ul><li><a href="https://twitter.com/gurlcode">🐤 Twitter</a></li><li><a href="https://podcasts.apple.com/gb/podcast/single-threaded-a-software-developer-podcast/id1547296687">🎙 Single Threaded Podcast</a></li></ul><p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>]]>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>]]>
       </content:encoded>
       <enclosure length="137350144" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S02E17.mp3" />
       <guid isPermaLink="false">a2e97cae-47c2-4541-8f17-cc63dd2a4cb5</guid>
@@ -1723,7 +1757,7 @@
         <![CDATA[
         <p>I often hear about folks moving from engineering to product management and back. Others make the transition from marketing and sales to product management. In a first for this show, today I talk to <a href="https://ja9.co/">Janine Co</a>, a product manager who recently joined the Microsoft Teams team, who also happened to switch from following a pre-med path to one in product.</p><p>What things did she consider when making the switch? What did Janine do to build a network from scratch? It’s all in this episode.</p><p>You can find Janine on the following sites:</p><ul><li><a href="https://twitter.com/ja9co">🐤 Twitter</a></li><li><a href="https://ja9.co/">📝 Blog</a></li></ul><p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>]]>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>]]>
       </content:encoded>
       <enclosure length="134615040" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S02E16.mp3" />
       <guid isPermaLink="false">e0ca1bb1-eed4-440c-acfe-5dc7695e0a46</guid>
@@ -1745,7 +1779,7 @@
         <![CDATA[
         <p>There are thousands of blog posts, tutorials, and videos that tell you what engineering careers are about, how you should be thinking about your dream job, and promotion trajectory. In this sea of content, it’s often hard to separate the common from the edge case.</p><p>In this episode, I talk to <a href="https://twitter.com/laurieontech">Laurie Barth</a>, a renowned technologist and Senior Software Engineer at Netflix, about the myths we encounter in our careers, and what we can do to think about growth in a sustainable way.</p><p>You can find Laurie on the following sites:</p><ul><li><a href="https://twitter.com/laurieontech">🐤 Twitter</a></li><li><a href="https://laurieontech.com/">📝 Blog</a></li><li><a href="https://egghead.io/q/resources-by-laurie-barth">🥚 Egghead.io</a></li></ul><p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>]]>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>]]>
       </content:encoded>
       <enclosure length="134702080" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S02E15.mp3" />
       <guid isPermaLink="false">cf3c6cf4-5840-43a7-89d5-34228432f0c1</guid>
@@ -1767,7 +1801,7 @@
         <![CDATA[
         <p>What lessons can you take away from a music degree and bring into engineering management? How do engineers work with folks in the newsroom at one of the biggest news organization on the planet?</p><p>Nicole Tibaldi, Senior Engineering Manager at The New York Times (yes, <em>that</em>The New York Times) is here to tell us more about these things, her work, career, and how to foster a culture where your team feels included.</p><p>You can find Nicole on the following sites:</p><ul><li><a href="https://twitter.com/nicoletibaldi">🐤 Twitter</a></li><li><a href="https://nicole-tibaldi.me/">📝 Blog</a></li></ul><p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a>from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>]]>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>]]>
       </content:encoded>
       <enclosure length="133662720" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S02E14.mp3" />
       <guid isPermaLink="false">19371786-7c41-482a-8275-647232ff9972</guid>
@@ -1789,7 +1823,7 @@
         <![CDATA[
         <p>Setting your sights high for a career in engineering management might be an appealing endeavor, but it also means that you will be making a lot of assumptions about future roles without really knowing what those roles are truly about.</p><p>In this episode, I sit down with Camille Fournier - a veteran CTO, speaker, and entrepreneur, to learn more about ways to map out the path to becoming a CTO (or not).</p><p>You can find Camille on the following sites:</p><ul><li><a href="https://twitter.com/skamille">🐤 Twitter</a></li><li><a href="https://skamille.medium.com/">📝 Blog</a></li><li><a href="https://www.elidedbranches.com/">📚 Elided Branches</a></li></ul><p>If you haven’t yet, make sure to check out Camille’s book - <a href="https://www.oreilly.com/library/view/the-managers-path/9781491973882/">The Manager’s Path</a>.</p><p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>]]>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>]]>
       </content:encoded>
       <enclosure length="129935360" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S02E13.mp3" />
       <guid isPermaLink="false">9d01275d-fdc1-4c8d-aed7-916c0926a797</guid>
@@ -1811,7 +1845,7 @@
         <![CDATA[
         <p>Talking to <a href="http://chadfowler.com/">Chad Fowler</a>, you quickly realize what true leadership means. Chad has extensive experience leading large technical organizations such as LivingSocial and 6Wunderkinder, being a venture partner at BlueYard Capital, and now - helping make the Internet safer as Chief Product Officer at DEVCON. Did I mention that Chad also is a musician?</p><p>In this episode, I talk to Chad about his work, lessons learned from music and travel and how those apply to life and career, and what is the approach to consider for one to carve out a path towards an executive role.</p><p>You can find Chad on the following sites:</p><ul><li><a href="https://twitter.com/chadfowler">🐤 Twitter</a></li><li><a href="http://chadfowler.com/">📝 Blog</a></li><li><a href="https://mahakalamusic.com/">🎶 Mahakala Music</a>(Chad’s record label)</li></ul><p>Make sure to also check out Chad’s book - <a href="https://www.oreilly.com/library/view/the-passionate-programmer/9781680500165/">The Passionate Programmer</a>.</p><p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="149045248" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S02E12.mp3" />
@@ -1834,7 +1868,7 @@
         <![CDATA[
         <p>Folks often forget that engineering is inherently a very creative process. Monica Dinculescu found her own niche where she can build impactful things and do it in some of the most unusual ways possible. An excellent engineer, creative thinker, and fellow Eastern European by origin, Monica joins me today to talk about the things she learned as she figured out her career path.</p><p>You can find Monica on the following sites:</p><ul><li><a href="https://twitter.com/notwaldorf">🐤 Twitter</a></li><li><a href="https://meowni.ca/">📝 Blog</a></li><li><a href="https://www.meownica.studio/product/basketball-buzzers-beets">🛍 Store</a></li></ul><p>Make sure to also check out <a href="https://tholman.com/">Tim Holman’s work</a>, that Monica recommended during the show!</p><p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a>from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="140513280" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S02E11.mp3" />
@@ -1857,7 +1891,7 @@
         <![CDATA[
         <p>From Pascal, to writing image processing code, if there is one word you absolutely can’t use to describe <a href="https://twitter.com/sandofsky">Ben Sandofsky</a>‘s career, it would be “uneventful.” He was one of the first mobile engineers at Twitter, had a stint helping build Periscope, and ultimately ventured into unexplored territory to finish a photo app he always wanted, that later became <a href="https://halide.cam/">Halide</a>.</p><p>In this episode, I sit down with Ben to get a better understanding of the decisions he made in his career, and what were the critical turning points that made him start his own studio - <a href="https://lux.camera">Lux</a>.</p><p>You can find Ben on the following sites:</p><ul><li><a href="https://twitter.com/sandofsky">🐤 Twitter</a></li><li><a href="https://sandofsky.com/">📝 Blog</a></li><li><a href="https://lux.camera">📸 Lux</a></li></ul><p>While at it, you should check out <a href="https://halide.cam/">Halide</a>and <a href="https://spectre.cam/">Spectre</a>- the must-have camera apps for iOS!</p><p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="179480576" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S02E10.mp3" />
@@ -1880,7 +1914,7 @@
         <![CDATA[
         <p>From all the questions I get asked, this one comes up quite often - “How do I become an engineering manager?” While I don’t know the answer myself, I think I have an idea of who might have the insights on this topic.</p><p><a href="https://rmurphey.com/about/">Rebecca Murphey</a>tried a lot of things on her way to becoming an engineering manager at Stripe - from journalism to advertisement, and even learning how to fly.</p><p>In this episode, I sit down with Rebecca to learn more about her path, what were the important lessons learned in her non-tech career that helped her be an efficient engineering leader, and what aspiring engineering managers can start doing today to figure out if this career track is for them.</p><p>You can find Rebecca on the following sites:</p><ul><li><a href="https://twitter.com/rmurphey">🐤 Twitter</a></li><li><a href="https://rmurphey.com/">📝 Blog</a></li></ul><p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="147487744" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S02E09.mp3" />
@@ -1903,7 +1937,7 @@
         <![CDATA[
         <p>There is a certain air of mystery around careers in Human Resources (HR), and David Daniels, who is a veteran HR leader in tech, is here to bring some clarity about the work.</p><p>David has extensive experience being in HR at Microsoft, Pinterest, and now - Snapchat. He shares his insights about going from education to leadership in some of the most prominent tech companies, fighting against the fixed mindset, and uncommon recommendations for folks wanting to get started with their careers.</p><p>You can find David on the following sites:</p><ul><li><a href="https://www.linkedin.com/in/davdan/">🤵 LinkedIn</a></li><li><a href="https://medium.com/@SimplyDavDan">📝 Blog</a></li></ul><p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="113145856" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S02E08.mp3" />
@@ -1926,7 +1960,7 @@
         <![CDATA[
         <p>There is no single, well-defined path to becoming a product manager. There are more questions than answers when it comes to figuring out which skills are necessary, what books or blog posts to read, or which courses to take.</p><p><a href="https://dan-olsen.com/">Dan Olsen</a>, the author of “<a href="https://leanproductplaybook.com/">The Lean Product Playbook</a>,” former product leader at Intuit, Friendster, Box, and the US Navy (he worked on submarine design) shares with us some insights on what it means to grow as a product manager.</p><p>You can find Dan on the following sites:</p><ul><li><a href="https://twitter.com/danolsen">🐤 Twitter</a></li><li><a href="https://dan-olsen.com/">📝 Blog</a></li><li><a href="https://www.youtube.com/channel/UChx1ibI5TI7bBva0Z21azrw">🎥 YouTube</a></li><li><a href="https://linkedin.com/in/danolsen98">🤵 LinkedIn</a></li><li><a href="https://dan-olsen.com/meetup/">📅 Meetup</a></li></ul><p>Make sure to sign up for Dan’s <a href="https://www.eventbrite.com/e/lean-product-management-online-workshop-how-to-achieve-product-market-fit-tickets-139519611915">upcoming Lean Product Management online workshop on April 20, 2021</a>.</p><p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="140828672" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S02E07.mp3" />
@@ -1949,7 +1983,7 @@
         <![CDATA[
         <p><a href="https://twitter.com/jackzerby">Jack Zerby</a>is not your typical designer. His experience producing music, working at Pentagram and Frog, building startups, pitching to Gary Vee, and now - building tools for creators at Gumroad, puts him square in the middle of a very uncommon career path.</p><p>In this episode, I chat with Jack to learn more about what motivated him to grow his career, how to break into design, how to make the transition from a big company to a startup, and what does it mean to build compelling narratives in deck format.</p><p>Make sure to check out Jack’s upcoming <a href="https://designfordecks.com"><strong>Design for Decks</strong></a>workshop to change the way you think about presentations.</p><p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="147107840" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S02E06.mp3" />
@@ -1972,7 +2006,7 @@
         <![CDATA[
         <p><a href="https://twitter.com/jessleenyc">Jess Lee</a>is the co-founder of <a href="https://dev.to">dev.to</a>- a developer community that emphasizes the importance of a friendly approach to guiding folks through the tumultuous waters of software development.</p><p>In this episode, we chat about Jess’ career, the journey to founding <a href="https://www.forem.com/">Forem</a>- the open-source platform powering large communities, and her experience building successful distributed teams.</p><p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>and <a href="https://twitter.com/courtnycotten">Courtny Cotten</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="124821504" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S02E05.mp3" />
@@ -1995,7 +2029,7 @@
         <![CDATA[
         <p>Charlie Kindel is a tech industry veteran who helped bootstrap, grow, and manage teams that built home servers, phones, voice assistants, home automation software, and hopefully soon - space technologies. In this episode, we dive a bit deeper into Charlie’s approach to product ideation and design, discuss the importance of having a principled organization, and ask questions about his most recent adventure around space.</p><p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>and <a href="https://twitter.com/courtnycotten">Courtny Cotten</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="140710912" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S02E04.mp3" />
@@ -2018,7 +2052,7 @@
         <![CDATA[
         <p>Paige Bailey is one of the few Artificial Intelligence (AI) and Machine Learning (ML) experts who is able to convey complex technical topics in an easy-to-understand and relatable language. Her Twitter feed is full of AI/ML paper recommendations, open source projects, and insights about the ever-evolving tech space. What was her journey like to a career in a very complex domain? What does it mean to build an inclusive AI? This week, we sit down with Paige to learn from her experience.</p><p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>and <a href="https://twitter.com/courtnycotten">Courtny Cotten</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="63121408" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S02E03.mp3" />
@@ -2041,7 +2075,7 @@
         <![CDATA[
         <p>Mayuko Inoue made a bold step by defying the stereotypical career path of a software engineer, and became a full-time content creator. Her videos on YouTube answer some of the more salient questions that are almost never covered in your typical coding tutorials and overviews. What was behind this career decision and what were the lessons learned? How do you build a healthy community, and develop a good work-life balance? We talk to Mayuko about her personal take on the unique trajectory she's carving, as well as the lessons learned along the way.</p><p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>and <a href="https://twitter.com/courtnycotten">Courtny Cotten</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="147068928" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S02E02.mp3" />
@@ -2064,7 +2098,7 @@
         <![CDATA[
         <p>Our first episode of the year is with the one and only Scott Hanselman. We tried to come up with a catchy title, but the entire episode could be summarized in one word - intentionality. We discuss Scott’s foray into TikTok, building your own definition of success, and fostering strong relationships with people around you.</p><p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>and <a href="https://twitter.com/courtnycotten">Courtny Cotten</a>. Music by <a href="https://pixabay.com/users/wataboi-12344345/?tab=audio&amp;utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=audio&amp;utm_content=1165">Wataboi</a> from <a href="https://pixabay.com/music/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=1165">Pixabay</a>.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="130298880" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S02E01.mp3" />
@@ -2087,7 +2121,7 @@
         <![CDATA[
         <p>Den and Courtny reflect on the year we just went through, and discuss our plans for 2021. There is a lot to be thankful for, and we had quite a year kickstarting a new podcast from scratch. This also happens to be the last episode of our Season 1.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="99464192" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S01E19.mp3" />
@@ -2110,7 +2144,7 @@
         <![CDATA[
         <p>Right before the Thanksgiving break, we are releasing a fresh new episode with Megan Risdal, Product Lead at Kaggle. Megan took the multi-talented route to the career she has today, and enjoys every bit of it. In this episode, we talk about the importance of being a multi-dimensional professional in a product role, finding the best ways to collect customer feedback, and building communities at scale.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="141771776" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S01E18.mp3" />
@@ -2133,7 +2167,7 @@
         <![CDATA[
         <p>In a surprising twist, this week we chat with Christos Matskas on two topics - transitioning from consulting life to a corporate life, as well as about building identity tools and services in the cloud.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="150675456" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S01E17.mp3" />
@@ -2156,7 +2190,7 @@
         <![CDATA[
         <p>This weekend, we go outdoors with Bill Kenney, co-founder of Focus Lab, a branding agency that is entirely remote. We talk to Bill about the importance of a good brand and what distinguishes professionals from amateurs in the field.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="150623232" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S01E16.mp3" />
@@ -2179,7 +2213,7 @@
         <![CDATA[
         <p>We sit down to chat with Tarun Gangwani, Senior Product Manager at Sanity.io. Tarun is a seasoned PM with tons of expertise to share about the product management domain. With previous experience at Twitch, where he oversaw the entire lifecycle of a developer using extensions and data services to create engaging and personalized viewing and streaming experiences, Tarun is talking about lessons learned, differences between startup and large company environments, along with the ways in which product managers can broaden the understanding of their products and customer needs.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="123099136" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S01E15.mp3" />
@@ -2202,7 +2236,7 @@
         <![CDATA[
         <p>In this episode of The Work Item we interview Richard Lander, Principal Program Manager on the .NET team at Microsoft. Richard does a deep dive on communication, being a generalist vs. specialist, and growing one's career.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="152417874" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S01E14.mp3" />
@@ -2225,7 +2259,7 @@
         <![CDATA[
         <p>In this episode of The Work Item we interview Amanda Silver, Corporate Vice President, Developer Division at Microsoft. We discuss the process of building great developer tools, the human element in product design, and career advice for the long run.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="145367390" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S01E13.mp3" />
@@ -2248,7 +2282,7 @@
         <![CDATA[
         <p>In this episode of The Work Item we interview Christina Weng, product designer at Facebook, about building a career in user experience design from scratch.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="140814769" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S01E12.mp3" />
@@ -2271,7 +2305,7 @@
         <![CDATA[
         <p>We're back after a week-long hiatus with an interview. This time, we chat with Eric Martel, Director of Artificial Intelligence and Machine Learning at Eidos-Montréal. We re-visit some of the gream games of the past, talk about console development considerations for modern games, and dig into how artificial intelligence and machine learning are going to revolutionize the engineering process.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="160858112" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S01E11.mp3" />
@@ -2294,7 +2328,7 @@
         <![CDATA[
         <p>In this episode of The Work Item, we interview Sara Chipps, Director of Public Q and A at <a href="https://stackoverflow.com">Stack Overflow</a>. Sara is also the founder of <a href="https://jewelbots.com">JewelBots</a>, a company that provides electronic building kits for young inventors. We chat with Sara about community feedback, engineering management career tracks, and building tools for STEM inclusivity.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="50609773" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S01E10.mp3" />
@@ -2317,7 +2351,7 @@
         <![CDATA[
         <p>In this episode of The Work Item, we interview <a href="https://philippcannons.com">Philipp Cannons</a>, CEO and founder of <a href="https://pmfit.ai">PMFIT.AI</a> - a startup that aims to accelerate product success. Philipp talks about his experience starting a business from scratch and building a deep understanding of large organizations.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="99529597" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S01E09.mp3" />
@@ -2340,7 +2374,7 @@
         <![CDATA[
         <p>In this episode of The Work Item, we interview <a href="https://charmaineklee.com">Charmaine Lee</a>, product manager intern at Microsoft, and a friend of the show. Charmaine talks about her experiences breaking into tech, building projects for fun, and being engaged in local tech scenes.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="116536356" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S01E08.mp3" />
@@ -2363,7 +2397,7 @@
         <![CDATA[
         <p>In this episode of The Work Item, we interview Dan Fernandez, VP of Product for Developer Services at Salesforce. Dan, a tech veteran, talks about product management, skill stacking, and building great developer experiences.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="114461607" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S01E07.mp3" />
@@ -2386,7 +2420,7 @@
         <![CDATA[
         <p>Today, we had the honor of having an in-depth conversation with Matt Swanson, a software engineer at SEP, on engineering best practices, design systems, and managing complexity.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="129048382" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S01E06.mp3" />
@@ -2409,7 +2443,7 @@
         <![CDATA[
         <p>A virtual fireside chat with Jin Yang, VP of design at CapitalOne. We discuss leadership, building great teams, and wrap up the show with food place recommendations.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="128063670" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S01E05.mp3" />
@@ -2432,7 +2466,7 @@
         <![CDATA[
         <p>In this episode, Courtny Cotten and Den Delimarsky chat with Clint Rutkas about PowerToys - a fantastic set of utilities for Windows power users.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="103646495" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S01E04.mp3" />
@@ -2455,7 +2489,7 @@
         <![CDATA[
         <p>In this episode, Courtny Cotten and Den Delimarsky chat with April Speight, Senior Developer Advocate at Microsoft, about social media, writing Python books for kids, and more.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="122013293" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S01E03.mp3" />
@@ -2478,7 +2512,7 @@
         <![CDATA[
         <p>In this episode, Den and Courtny are talking about their career starts.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="56624415" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S01E02.mp3" />
@@ -2501,7 +2535,7 @@
         <![CDATA[
         <p>In this episode, Courtny Cotten and Den Delimarsky talk about what it takes to work remotely, along with some tips and best practices.</p>
         <h2 id="feedback">Feedback</h2>
-        <p>If you haven’t already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
         ]]>
       </content:encoded>
       <enclosure length="107964013" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S01E01.mp3" />
