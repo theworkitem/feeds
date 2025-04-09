@@ -23,7 +23,7 @@
       <itunes:name>Den Delimarsky</itunes:name>
       <itunes:email>pod@theworkitem.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://cdn.theworkitem.com/art/logo.png" />
+    <itunes:image href="https://cdn.theworkitem.com/art/logo-large.png" />
     <itunes:category text="Technology" />
     <itunes:category text="Business" />
     <itunes:explicit>no</itunes:explicit>
