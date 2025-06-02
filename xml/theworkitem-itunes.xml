@@ -30,6 +30,38 @@
     <itunes:keywords>technology career executive tech open source discussion growth entrepreneur startups science ai learning founder vp</itunes:keywords>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>04</itunes:episode>
+      <itunes:season>06</itunes:season>
+      <title>#91 - The Future Of Software Engineering - Simon Guest (CTO, Code.org)</title>
+      <itunes:image href="https://cdn.theworkitem.com/art/episode-logos/s06e04.png" />
+      <description>
+        Every year, millions of students try coding for the first time through Hour of Code. But most people don't know that the technology powering those experiences is ran by someone who didn't really have a plan to become a CTO. In the fourth episode of this season of The Work Item, I am talking with Simon Guest, CTO at Code.org. Simon walks me through how he actually became a CTO (not the LinkedIn version we commonly see), and what skills helped him succeed despite the fact that there was no pre-charted path he could follow. You'll be surprised to learn just how much serendipity and having the skills in the right place at the right time play a role in strapping one's career to a rocketship. We also talk about the future of coding, whether AI is truly going to make engineers obsolete, and what we can do to build a good career moat that sets us up for long-term success. And of course, if you've ever wondered what it takes to move into technology leadership, this conversation will give you a very realistic picture of what that path looks like.
+      </description>
+      <itunes:summary>
+        Every year, millions of students try coding for the first time through Hour of Code. But most people don't know that the technology powering those experiences is ran by someone who didn't really have a plan to become a CTO. In the fourth episode of this season of The Work Item, I am talking with Simon Guest, CTO at Code.org. Simon walks me through how he actually became a CTO (not the LinkedIn version we commonly see), and what skills helped him succeed despite the fact that there was no pre-charted path he could follow. You'll be surprised to learn just how much serendipity and having the skills in the right place at the right time play a role in strapping one's career to a rocketship. We also talk about the future of coding, whether AI is truly going to make engineers obsolete, and what we can do to build a good career moat that sets us up for long-term success. And of course, if you've ever wondered what it takes to move into technology leadership, this conversation will give you a very realistic picture of what that path looks like.
+      </itunes:summary>
+      <content:encoded>
+        <![CDATA[
+        <p>Every year, millions of students try coding for the first time through <a href="https://hourofcode.com/us">Hour of Code</a>. But most people don't know that the technology powering those experiences is ran by someone who didn't really have a <em>plan</em> to become a CTO.</p>
+        <p>In the fourth episode of this season of The Work Item, I am talking with Simon Guest, CTO at <a href="https://code.org/">Code.org</a>. Simon walks me through how he actually became a CTO (not the LinkedIn version we commonly see), and what skills helped him succeed despite the fact that there was no pre-charted path he could follow. You'll be surprised to learn just how much serendipity and having the skills in the right place at the right time play a role in strapping one's career to a rocketship.</p>
+        <p>We also talk about the future of coding, whether AI is truly going to make engineers obsolete, and what we can do to build a good career moat that sets us up for long-term success. And of course, if you've ever wondered what it takes to move into technology leadership, this conversation will give you a <em>very</em> realistic picture of what that path looks like.</p>
+        <p>You can find Simon on the following sites:</p>
+        <ul>
+        <li><a href="https://www.linkedin.com/in/simonguest">💼 LinkedIn</a></li>
+        </ul>
+        <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>.</p>
+        <h2 id="feedback">Feedback</h2>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        ]]>
+      </content:encoded>
+      <enclosure length="139680768" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S06E04.mp3" />
+      <guid isPermaLink="false">f0613aa7-c10d-44e6-92a7-29c82f1e9070</guid>
+      <pubDate>Sun, 01 Jun 2025 21:55:54 GMT</pubDate>
+      <itunes:duration>3492</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>03</itunes:episode>
       <itunes:season>06</itunes:season>
       <title>#90 - The Death Of SaaS Has Been Greatly Exaggerated - Lianna Patch &amp; Colleen Schnettler (Co-Founders, SaaS Marketing Gym)</title>
