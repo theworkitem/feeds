@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Work Item - Real Talk on Tech's Toughest Career Choices</title>
@@ -28,6 +28,38 @@
     <itunes:category text="Business" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:keywords>technology career executive tech open source discussion growth entrepreneur startups science ai learning founder vp</itunes:keywords>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>05</itunes:episode>
+      <itunes:season>06</itunes:season>
+      <title>#92 - You're Thinking Wrong About Your Career - Lenn Pryor (Executive Coach, Author)</title>
+      <itunes:image href="https://cdn.theworkitem.com/art/episode-logos/s06e05.png" />
+      <description>
+        We're often operating under the false illusion that the career track we have now is the career track that we somehow have to follow under any circumstances - it's easy to snap to common conventions around progression, where you work, and how you work. But what if there's more to the "choose your own adventure" track that we do not know about? To get to the bottom of this question, I sat down with Lenn Pryor, a seasoned executive who used to work at many well-known companies, but decided to carve out his own niche where he found both joy and professional satisfaction. It's a risky bet that paid off, and I was keen to learn more about how he justified it and what decision points helped him navigate the overwhelming ambiguity. What I really enjoyed about recording this episode is that the learnings are broadly applicable no matter what role you are in or are looking to jump into.
+      </description>
+      <itunes:summary>
+        We're often operating under the false illusion that the career track we have now is the career track that we somehow have to follow under any circumstances - it's easy to snap to common conventions around progression, where you work, and how you work. But what if there's more to the "choose your own adventure" track that we do not know about? To get to the bottom of this question, I sat down with Lenn Pryor, a seasoned executive who used to work at many well-known companies, but decided to carve out his own niche where he found both joy and professional satisfaction. It's a risky bet that paid off, and I was keen to learn more about how he justified it and what decision points helped him navigate the overwhelming ambiguity. What I really enjoyed about recording this episode is that the learnings are broadly applicable no matter what role you are in or are looking to jump into.
+      </itunes:summary>
+      <content:encoded>
+        <![CDATA[
+        <p>We're often operating under the false illusion that the career track we have <em>now</em> is the career track that we somehow have to follow under any circumstances - it's easy to snap to common conventions around progression, where you work, and <em>how</em> you work. But what if there's more to the "choose your own adventure" track that we do not know about?</p>
+        <p>To get to the bottom of this question, I sat down with Lenn Pryor, a seasoned executive who used to work at <em>many</em> well-known companies, but decided to carve out his own niche where he found both joy and professional satisfaction. It's a risky bet that paid off, and I was keen to learn more about how he justified it and what decision points helped him navigate the overwhelming ambiguity. What I really enjoyed about recording this episode is that the learnings are broadly applicable <em>no matter what role</em> you are in or are looking to jump into.</p>
+        <p>You can find Lenn on the following sites:</p>
+        <ul>
+        <li>🌎 <a href="https://www.lennpryor.com/">Personal Website</a></li>
+        <li>💼 <a href="http://www.linkedin.com/in/lennpryor">LinkedIn</a></li>
+        </ul>
+        <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>.</p>
+        <h2 id="feedback">Feedback</h2>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        ]]>
+      </content:encoded>
+      <enclosure length="113582080" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S06E05.mp3" />
+      <guid isPermaLink="false">49d828ec-d623-45e7-a818-82467df064ba</guid>
+      <pubDate>Fri, 25 Jul 2025 17:35:07 GMT</pubDate>
+      <itunes:duration>2839</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>04</itunes:episode>
