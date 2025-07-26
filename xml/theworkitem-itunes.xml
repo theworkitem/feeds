@@ -26,7 +26,7 @@
     <itunes:image href="https://cdn.theworkitem.com/art/logo-large.png" />
     <itunes:category text="Technology" />
     <itunes:category text="Business" />
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:explicit>false</itunes:explicit>
     <itunes:keywords>technology career executive tech open source discussion growth entrepreneur startups science ai learning founder vp</itunes:keywords>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -58,7 +58,7 @@
       <guid isPermaLink="false">49d828ec-d623-45e7-a818-82467df064ba</guid>
       <pubDate>Fri, 25 Jul 2025 17:35:07 GMT</pubDate>
       <itunes:duration>2839</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -90,7 +90,7 @@
       <guid isPermaLink="false">f0613aa7-c10d-44e6-92a7-29c82f1e9070</guid>
       <pubDate>Sun, 01 Jun 2025 21:55:54 GMT</pubDate>
       <itunes:duration>3492</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -129,7 +129,7 @@
       <guid isPermaLink="false">e34666dd-75e1-4d47-8e4d-0fa0411a99c7</guid>
       <pubDate>Wed, 09 Apr 2025 09:59:56 GMT</pubDate>
       <itunes:duration>3382</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -163,7 +163,7 @@
       <guid isPermaLink="false">a1b871a6-c580-4ca6-91bf-e472544e0a78</guid>
       <pubDate>Sun, 30 Mar 2025 14:41:12 GMT</pubDate>
       <itunes:duration>3196</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -197,7 +197,7 @@
       <guid isPermaLink="false">381c3185-83c1-4028-b0ef-83eecd9a17dd</guid>
       <pubDate>Fri, 07 Mar 2025 15:25:36 GMT</pubDate>
       <itunes:duration>3268</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -224,7 +224,7 @@
       <guid isPermaLink="false">3414b7d6-5f3e-48a9-b1b4-74fc631b6207</guid>
       <pubDate>Tue, 31 Dec 2024 17:28:32 GMT</pubDate>
       <itunes:duration>1915</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -263,7 +263,7 @@
       <guid isPermaLink="false">a3bab140-1e65-48a9-a78c-2c19d309d488</guid>
       <pubDate>Fri, 20 Dec 2024 11:44:02 GMT</pubDate>
       <itunes:duration>3856</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -299,7 +299,7 @@
       <guid isPermaLink="false">4b31c869-aae4-48a5-a847-ebde9d9bb53f</guid>
       <pubDate>Thu, 14 Nov 2024 16:40:55 GMT</pubDate>
       <itunes:duration>3547</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -333,7 +333,7 @@
       <guid isPermaLink="false">4173bb64-a598-49aa-b518-19d29329247e</guid>
       <pubDate>Thu, 31 Oct 2024 17:52:26 GMT</pubDate>
       <itunes:duration>3886</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -364,7 +364,7 @@
       <guid isPermaLink="false">cfd19500-5c97-4175-b0e4-941442954572</guid>
       <pubDate>Thu, 08 Aug 2024 13:22:22 GMT</pubDate>
       <itunes:duration>2262</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -396,7 +396,7 @@
       <guid isPermaLink="false">3827B23D-C26A-45F4-A5AA-92C3BF75F402</guid>
       <pubDate>Sat, 13 Jul 2024 20:40:04 GMT</pubDate>
       <itunes:duration>2249</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -431,7 +431,7 @@
       <guid isPermaLink="false">98b43016-b46d-42db-a3d4-c7c286aa1126</guid>
       <pubDate>Tue, 02 Jul 2024 16:49:27 GMT</pubDate>
       <itunes:duration>2575</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -466,7 +466,7 @@
       <guid isPermaLink="false">ce2dc811-f868-4d52-ab18-367dec6f71a8</guid>
       <pubDate>Wed, 12 Jun 2024 12:00:00 GMT</pubDate>
       <itunes:duration>1900</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -499,7 +499,7 @@
       <guid isPermaLink="false">68667d8d-c4e9-46cd-bb25-b7c54f608b4f</guid>
       <pubDate>Tue, 28 May 2024 12:00:00 GMT</pubDate>
       <itunes:duration>2607</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -532,7 +532,7 @@
       <guid isPermaLink="false">d92ca103-969d-4b05-a613-294c6c897101</guid>
       <pubDate>Tue, 14 May 2024 12:00:00 GMT</pubDate>
       <itunes:duration>2386</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -565,7 +565,7 @@
       <guid isPermaLink="false">91ef95c2-2291-4adb-a6d6-5d202a32e152</guid>
       <pubDate>Mon, 06 May 2024 12:00:00 GMT</pubDate>
       <itunes:duration>2452</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -603,7 +603,7 @@
       <guid isPermaLink="false">b0e79967-302c-4678-99c6-28c5b6eb65d0</guid>
       <pubDate>Mon, 08 Apr 2024 12:00:00 GMT</pubDate>
       <itunes:duration>2862</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -638,7 +638,7 @@
       <guid isPermaLink="false">24bee926-fec7-4a19-9f92-c13ac6630d45</guid>
       <pubDate>Sat, 30 Mar 2024 12:00:00 GMT</pubDate>
       <itunes:duration>2023</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -671,7 +671,7 @@
       <guid isPermaLink="false">fbfcd19e-5fe9-4292-9cc8-0a84ffe137c6</guid>
       <pubDate>Fri, 15 Mar 2024 12:00:00 GMT</pubDate>
       <itunes:duration>3197</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -706,7 +706,7 @@
       <guid isPermaLink="false">e833f479-aae0-44db-9b47-51b372b4dd4b</guid>
       <pubDate>Mon, 12 Feb 2024 12:00:00 GMT</pubDate>
       <itunes:duration>2697</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -739,7 +739,7 @@
       <guid isPermaLink="false">22112743-c955-403c-8506-dd14e852d580</guid>
       <pubDate>Mon, 05 Feb 2024 12:00:00 GMT</pubDate>
       <itunes:duration>2413</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -773,7 +773,7 @@
       <guid isPermaLink="false">e6305fb6-bf89-4741-8a54-06abbfbccce9</guid>
       <pubDate>Mon, 29 Jan 2024 12:00:00 GMT</pubDate>
       <itunes:duration>2259</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -807,7 +807,7 @@
       <guid isPermaLink="false">930f50a2-27ee-4dee-af76-19a32e44f944</guid>
       <pubDate>Sun, 31 Dec 2023 12:00:00 GMT</pubDate>
       <itunes:duration>2877</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -840,7 +840,7 @@
       <guid isPermaLink="false">42de5465-207c-442f-8734-1e44df96c60f</guid>
       <pubDate>Sat, 30 Dec 2023 12:00:00 GMT</pubDate>
       <itunes:duration>2502</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -873,7 +873,7 @@
       <guid isPermaLink="false">e2a38536-78a8-4753-86e7-3f1a749acc6d</guid>
       <pubDate>Fri, 29 Dec 2023 12:00:00 GMT</pubDate>
       <itunes:duration>3379</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -908,7 +908,7 @@
       <guid isPermaLink="false">6a506803-53a8-4f83-89fc-b0f04e4c15d7</guid>
       <pubDate>Thu, 21 Dec 2023 12:00:00 GMT</pubDate>
       <itunes:duration>2108</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -940,7 +940,7 @@
       <guid isPermaLink="false">80a622d2-e40a-4c95-9b3b-4a2a593a799b</guid>
       <pubDate>Tue, 19 Dec 2023 12:00:00 GMT</pubDate>
       <itunes:duration>2310</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -973,7 +973,7 @@
       <guid isPermaLink="false">55bc5d53-7def-4c5a-8a22-f47044bd2d3c</guid>
       <pubDate>Mon, 18 Dec 2023 12:00:00 GMT</pubDate>
       <itunes:duration>2893</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1005,7 +1005,7 @@
       <guid isPermaLink="false">572c9760-a9cb-49d3-81d1-6652cfb51d39</guid>
       <pubDate>Tue, 12 Dec 2023 12:00:00 GMT</pubDate>
       <itunes:duration>2546</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1038,7 +1038,7 @@
       <guid isPermaLink="false">762acce7-153a-4732-ab8b-4b871bd9d173</guid>
       <pubDate>Wed, 08 Nov 2023 12:00:00 GMT</pubDate>
       <itunes:duration>2703</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1073,7 +1073,7 @@
       <guid isPermaLink="false">b13d1049-f84d-4442-bf6d-ced0bf343008</guid>
       <pubDate>Mon, 23 Oct 2023 12:00:00 GMT</pubDate>
       <itunes:duration>2171</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1108,7 +1108,7 @@
       <guid isPermaLink="false">f4f1741c-72d8-48a1-b4fd-5053a0176277</guid>
       <pubDate>Mon, 09 Oct 2023 12:00:00 GMT</pubDate>
       <itunes:duration>3292</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1141,7 +1141,7 @@
       <guid isPermaLink="false">1747e944-d81b-49aa-86bc-ca54e1737d8f</guid>
       <pubDate>Wed, 28 Dec 2022 12:00:00 GMT</pubDate>
       <itunes:duration>2889</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1174,7 +1174,7 @@
       <guid isPermaLink="false">62826997-9477-47e4-a6d0-789bd8c14089</guid>
       <pubDate>Thu, 22 Dec 2022 12:00:00 GMT</pubDate>
       <itunes:duration>2347</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1210,7 +1210,7 @@
       <guid isPermaLink="false">06cf6c0b-de2b-4c53-8201-4b3d0a39634a</guid>
       <pubDate>Wed, 02 Nov 2022 12:00:00 GMT</pubDate>
       <itunes:duration>3542</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1239,7 +1239,7 @@
       <guid isPermaLink="false">8c71af7b-4df1-479b-af62-ac86a910d232</guid>
       <pubDate>Sat, 29 Oct 2022 12:00:00 GMT</pubDate>
       <itunes:duration>2296</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1271,7 +1271,7 @@
       <guid isPermaLink="false">ab229330-27f8-46c2-b50d-90856947756e</guid>
       <pubDate>Mon, 10 Oct 2022 12:00:00 GMT</pubDate>
       <itunes:duration>1694</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1302,7 +1302,7 @@
       <guid isPermaLink="false">edf3cc4b-b7b8-4f78-921f-e1e9914b2027</guid>
       <pubDate>Sat, 27 Aug 2022 12:00:00 GMT</pubDate>
       <itunes:duration>2501</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1334,7 +1334,7 @@
       <guid isPermaLink="false">d25fcfed-4176-44db-b39d-ebe255968c6e</guid>
       <pubDate>Fri, 20 May 2022 12:00:00 GMT</pubDate>
       <itunes:duration>2045</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1362,7 +1362,7 @@
       <guid isPermaLink="false">791376a2-69f2-4740-a924-93473b82a976</guid>
       <pubDate>Thu, 21 Apr 2022 12:00:00 GMT</pubDate>
       <itunes:duration>2228</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1390,7 +1390,7 @@
       <guid isPermaLink="false">77a02638-5467-4b8e-92db-1cd7f52f2357</guid>
       <pubDate>Fri, 25 Mar 2022 12:00:00 GMT</pubDate>
       <itunes:duration>2322</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1419,7 +1419,7 @@
       <guid isPermaLink="false">831da896-2547-4e77-b99a-9859cd1cbec4</guid>
       <pubDate>Fri, 11 Mar 2022 12:00:00 GMT</pubDate>
       <itunes:duration>2475</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1447,7 +1447,7 @@
       <guid isPermaLink="false">f26be823-5ad0-4482-80d2-b0b168e0321e</guid>
       <pubDate>Fri, 04 Mar 2022 12:00:00 GMT</pubDate>
       <itunes:duration>2440</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1479,7 +1479,7 @@
       <guid isPermaLink="false">f52f399c-3638-41b8-89d6-50eb34fe760d</guid>
       <pubDate>Thu, 17 Feb 2022 12:00:00 GMT</pubDate>
       <itunes:duration>2217</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1510,7 +1510,7 @@
       <guid isPermaLink="false">53de5cbd-72a3-4bfa-9633-01f65b323e55</guid>
       <pubDate>Sun, 06 Feb 2022 12:00:00 GMT</pubDate>
       <itunes:duration>2308</itunes:duration>
-      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1541,7 +1541,7 @@
       <guid isPermaLink="false">42f7a664-26b6-457f-affc-caddf88df935</guid>
       <pubDate>Sun, 12 Dec 2021 12:00:00 GMT</pubDate>
       <itunes:duration>3586</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1571,7 +1571,7 @@
       <guid isPermaLink="false">e54d3016-6c90-4c39-b6e1-480311db9a70</guid>
       <pubDate>Sun, 5 Dec 2021 12:00:00 GMT</pubDate>
       <itunes:duration>3506</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1599,7 +1599,7 @@
       <guid isPermaLink="false">ad679b3a-c713-4463-bac4-5a8e7b6a411c</guid>
       <pubDate>Sun, 28 Nov 2021 12:00:00 GMT</pubDate>
       <itunes:duration>3251</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1628,7 +1628,7 @@
       <guid isPermaLink="false">b67245d4-0c52-4d49-839f-aba01955eee1</guid>
       <pubDate>Sun, 14 Nov 2021 12:00:00 GMT</pubDate>
       <itunes:duration>3688</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1658,7 +1658,7 @@
       <guid isPermaLink="false">2a220767-3a3f-4f59-b553-2c9ee57e1589</guid>
       <pubDate>Sun, 07 Nov 2021 12:00:00 GMT</pubDate>
       <itunes:duration>3472</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1690,7 +1690,7 @@
       <guid isPermaLink="false">053477b0-0897-44b5-aa58-3b2296aeeab2</guid>
       <pubDate>Sun, 31 Oct 2021 12:00:00 GMT</pubDate>
       <itunes:duration>3514</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1724,7 +1724,7 @@
       <guid isPermaLink="false">aa294d84-436f-4375-96e5-401c7652a603</guid>
       <pubDate>Sun, 24 Oct 2021 12:00:00 GMT</pubDate>
       <itunes:duration>3635</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1754,7 +1754,7 @@
       <guid isPermaLink="false">187a49d8-b357-48f3-b1ee-313ae8950548</guid>
       <pubDate>Sun, 17 Oct 2021 12:00:00 GMT</pubDate>
       <itunes:duration>2686</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1777,7 +1777,7 @@
       <guid isPermaLink="false">813ce6d8-8f10-444a-be6d-ea001dc07e38</guid>
       <pubDate>Sun, 03 Oct 2021 12:00:00 GMT</pubDate>
       <itunes:duration>3560</itunes:duration>
-      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1800,7 +1800,7 @@
       <guid isPermaLink="false">f25b8670-0929-4fbb-a9ae-a7767d16d575</guid>
       <pubDate>Sun, 11 Jul 2021 12:00:00 GMT</pubDate>
       <itunes:duration>3142</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1822,7 +1822,7 @@
       <guid isPermaLink="false">c11a60b1-e910-4808-8336-4da489cdd4bf</guid>
       <pubDate>Sun, 27 Jun 2021 12:00:00 GMT</pubDate>
       <itunes:duration>3774</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1844,7 +1844,7 @@
       <guid isPermaLink="false">a2e97cae-47c2-4541-8f17-cc63dd2a4cb5</guid>
       <pubDate>Sun, 13 Jun 2021 12:00:00 GMT</pubDate>
       <itunes:duration>3433</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1866,7 +1866,7 @@
       <guid isPermaLink="false">e0ca1bb1-eed4-440c-acfe-5dc7695e0a46</guid>
       <pubDate>Sun, 6 Jun 2021 12:00:00 GMT</pubDate>
       <itunes:duration>3365</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1888,7 +1888,7 @@
       <guid isPermaLink="false">cf3c6cf4-5840-43a7-89d5-34228432f0c1</guid>
       <pubDate>Sun, 30 May 2021 12:00:00 GMT</pubDate>
       <itunes:duration>3367</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1910,7 +1910,7 @@
       <guid isPermaLink="false">19371786-7c41-482a-8275-647232ff9972</guid>
       <pubDate>Sun, 16 May 2021 12:00:00 GMT</pubDate>
       <itunes:duration>3341</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1932,7 +1932,7 @@
       <guid isPermaLink="false">9d01275d-fdc1-4c8d-aed7-916c0926a797</guid>
       <pubDate>Sun, 09 May 2021 12:00:00 GMT</pubDate>
       <itunes:duration>3248</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1955,7 +1955,7 @@
       <guid isPermaLink="false">10d9b285-3111-40ac-891f-5635e9618026</guid>
       <pubDate>Sun, 25 Apr 2021 12:00:00 GMT</pubDate>
       <itunes:duration>3726</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1978,7 +1978,7 @@
       <guid isPermaLink="false">c2825db0-2faa-4896-8295-a23e9708ce26</guid>
       <pubDate>Sun, 18 Apr 2021 12:00:00 GMT</pubDate>
       <itunes:duration>3512</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -2001,7 +2001,7 @@
       <guid isPermaLink="false">1413759c-8329-413f-9124-3b17f0ea1e27</guid>
       <pubDate>Sun, 11 Apr 2021 12:00:00 GMT</pubDate>
       <itunes:duration>4487</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -2024,7 +2024,7 @@
       <guid isPermaLink="false">a313d58e-ac42-4de9-8c46-54e3d72ea247</guid>
       <pubDate>Sun, 4 Apr 2021 12:00:00 GMT</pubDate>
       <itunes:duration>3687</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -2047,7 +2047,7 @@
       <guid isPermaLink="false">b02c94bb-e0b7-4b77-a2c7-a1f4cbe674f5</guid>
       <pubDate>Sun, 21 Mar 2021 12:00:00 GMT</pubDate>
       <itunes:duration>2828</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -2070,7 +2070,7 @@
       <guid isPermaLink="false">9566a1ee-a42a-4def-a224-91fd96c6b1dd</guid>
       <pubDate>Sun, 14 Mar 2021 12:00:00 GMT</pubDate>
       <itunes:duration>3520</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -2093,7 +2093,7 @@
       <guid isPermaLink="false">390822eb-d5f4-4baf-99e6-52999cb156b1</guid>
       <pubDate>Sun, 7 Mar 2021 12:00:00 GMT</pubDate>
       <itunes:duration>3677</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -2116,7 +2116,7 @@
       <guid isPermaLink="false">e33cbed3-404f-43a8-8f89-c7367bb55964</guid>
       <pubDate>Sun, 28 Feb 2021 12:00:00 GMT</pubDate>
       <itunes:duration>3120</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -2139,7 +2139,7 @@
       <guid isPermaLink="false">b28b6861-6f7c-4c2a-abe5-92a9f766687d</guid>
       <pubDate>Sun, 21 Feb 2021 12:00:00 GMT</pubDate>
       <itunes:duration>3517</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -2162,7 +2162,7 @@
       <guid isPermaLink="false">b584608e-4594-4d8c-9c96-9f0b77a4b2fd</guid>
       <pubDate>Mon, 1 Feb 2021 12:00:00 GMT</pubDate>
       <itunes:duration>4046</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -2185,7 +2185,7 @@
       <guid isPermaLink="false">5d556b87-e428-402a-beff-46f60b81f817</guid>
       <pubDate>Sun, 17 Jan 2021 12:00:00 GMT</pubDate>
       <itunes:duration>3676</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -2208,7 +2208,7 @@
       <guid isPermaLink="false">b04c5154-b355-4556-8bc1-3b50375b0f69</guid>
       <pubDate>Sun, 10 Jan 2021 12:00:00 GMT</pubDate>
       <itunes:duration>3257</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -2231,7 +2231,7 @@
       <guid isPermaLink="false">80aed162-625b-4426-9b73-3af85cb005fd</guid>
       <pubDate>Sun, 20 Dec 2020 12:00:00 GMT</pubDate>
       <itunes:duration>2486</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -2254,7 +2254,7 @@
       <guid isPermaLink="false">7618c7c9-1449-495c-aeaa-048c2c2467a9</guid>
       <pubDate>Sun, 22 Nov 2020 12:00:00 GMT</pubDate>
       <itunes:duration>3544</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -2277,7 +2277,7 @@
       <guid isPermaLink="false">c46c9592-cf9f-41e0-9baf-4e64b9e3dc3f</guid>
       <pubDate>Sun, 15 Nov 2020 12:00:00 GMT</pubDate>
       <itunes:duration>3766</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -2300,7 +2300,7 @@
       <guid isPermaLink="false">e6205376-5678-48d9-b25c-3d12d7dd13f7</guid>
       <pubDate>Sun, 08 Nov 2020 12:00:00 GMT</pubDate>
       <itunes:duration>3765</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -2323,7 +2323,7 @@
       <guid isPermaLink="false">e72dfa56-de79-45f8-94d5-20fffc2b60a9</guid>
       <pubDate>Sun, 01 Nov 2020 12:00:00 GMT</pubDate>
       <itunes:duration>3077</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -2346,7 +2346,7 @@
       <guid isPermaLink="false">9ed197e2-f098-4190-b94d-53efb1e90531</guid>
       <pubDate>Sun, 18 Oct 2020 12:00:00 GMT</pubDate>
       <itunes:duration>3810</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -2369,7 +2369,7 @@
       <guid isPermaLink="false">d685f86b-1677-46cb-9d5d-5a0ba4eebfff</guid>
       <pubDate>Sun, 27 Sep 2020 12:00:00 GMT</pubDate>
       <itunes:duration>3635</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -2392,7 +2392,7 @@
       <guid isPermaLink="false">48d97516-5828-4dbf-97f3-66c659622822</guid>
       <pubDate>Sun, 20 Sep 2020 12:00:00 GMT</pubDate>
       <itunes:duration>3521</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -2415,7 +2415,7 @@
       <guid isPermaLink="false">fcd76cd9-bb9c-4d44-91e4-e33193183e4c</guid>
       <pubDate>Sun, 23 Aug 2020 12:00:00 GMT</pubDate>
       <itunes:duration>4021</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -2438,7 +2438,7 @@
       <guid isPermaLink="false">0b3bd3bf-e2e3-4a8f-9851-32269d3a5f4e</guid>
       <pubDate>Sun, 09 Aug 2020 12:00:00 GMT</pubDate>
       <itunes:duration>3163</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -2461,7 +2461,7 @@
       <guid isPermaLink="false">80279444-74c9-4e8f-b4f1-ec0373266074</guid>
       <pubDate>Mon, 20 Jul 2020 12:00:00 GMT</pubDate>
       <itunes:duration>3111</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -2484,7 +2484,7 @@
       <guid isPermaLink="false">a57767ca-6b2e-40dd-9804-39c3684ae416</guid>
       <pubDate>Sun, 19 Jul 2020 12:00:00 GMT</pubDate>
       <itunes:duration>3642</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -2507,7 +2507,7 @@
       <guid isPermaLink="false">1aad2877-6417-4b30-9e34-005d52289578</guid>
       <pubDate>Sun, 5 Jul 2020 12:00:00 GMT</pubDate>
       <itunes:duration>3577</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -2530,7 +2530,7 @@
       <guid isPermaLink="false">b2649232-e74e-4846-aa1c-70a88a4b183c</guid>
       <pubDate>Sun, 28 Jun 2020 12:00:00 GMT</pubDate>
       <itunes:duration>4033</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -2553,7 +2553,7 @@
       <guid isPermaLink="false">f8198fa9-367a-4dec-8024-7d74a0da9d69</guid>
       <pubDate>Sun, 21 Jun 2020 12:00:00 GMT</pubDate>
       <itunes:duration>4002</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -2576,7 +2576,7 @@
       <guid isPermaLink="false">a00f4164-b8b6-4b99-8070-f4005fc0f646</guid>
       <pubDate>Sun, 3 May 2020 12:00:00 GMT</pubDate>
       <itunes:duration>3239</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -2599,7 +2599,7 @@
       <guid isPermaLink="false">a1d3834c-c351-4d50-866f-7ac7f0901ebc</guid>
       <pubDate>Sun, 12 Apr 2020 12:00:00 GMT</pubDate>
       <itunes:duration>3813</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -2622,7 +2622,7 @@
       <guid isPermaLink="false">e6a87083-cd05-44a0-b71a-b68b2988dbcc</guid>
       <pubDate>Sun, 5 Apr 2020 12:00:00 GMT</pubDate>
       <itunes:duration>1769</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -2645,7 +2645,7 @@
       <guid isPermaLink="false">7f035dd4-0dee-42b6-9039-926e604a37a0</guid>
       <pubDate>Sun, 15 Mar 2020 12:00:00 GMT</pubDate>
       <itunes:duration>3374</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
 </rss>
