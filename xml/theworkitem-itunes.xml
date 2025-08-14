@@ -30,6 +30,40 @@
     <itunes:keywords>technology,career,executive,tech,open-source,discussion,growth,entrepreneur,startups,science,ai,learning,founder,vp</itunes:keywords>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>06</itunes:episode>
+      <itunes:season>06</itunes:season>
+      <title>#93 - What's It Like To Be A Data Visualization Wizard - Shirley Wu (Shirley Wu Studio)</title>
+      <itunes:image href="https://cdn.theworkitem.com/art/episode-logos/s06e06.png" />
+      <description>
+        So, get this - how many times did you have one of your tweets go viral? Now, how many times did a tweet go viral for a project that you built around something that you really enjoy? And out of those times - how many times did a tweet go viral because Lin-Manuel Miranda himself retweeted you? Can't say that I am a member of that club, but luckily I know someone who is - Shirley Wu. Shirley is, what I describe her as, a wizard of data visualizations. If you look through her work, you'll quickly realize that she's not just presenting the data, but rather paints a story around it. Whether it's for people of the pandemic, an analysis of Hamilton lines (that's the project I alluded to earlier), or a myriad of other projects, her work is truly second to none. In this interview, I wanted to learn more about what sparked her interest in this field, whether the sudden visibility was a reward for hard work or instead added more pressure to produce more highly-visible projects, and of course - how to find your unique voice in a sea of people that do similar things (the Internet, if you didn't know, is truly vast).
+      </description>
+      <itunes:summary>
+        So, get this - how many times did you have one of your tweets go viral? Now, how many times did a tweet go viral for a project that you built around something that you really enjoy? And out of those times - how many times did a tweet go viral because Lin-Manuel Miranda himself retweeted you? Can't say that I am a member of that club, but luckily I know someone who is - Shirley Wu. Shirley is, what I describe her as, a wizard of data visualizations. If you look through her work, you'll quickly realize that she's not just presenting the data, but rather paints a story around it. Whether it's for people of the pandemic, an analysis of Hamilton lines (that's the project I alluded to earlier), or a myriad of other projects, her work is truly second to none. In this interview, I wanted to learn more about what sparked her interest in this field, whether the sudden visibility was a reward for hard work or instead added more pressure to produce more highly-visible projects, and of course - how to find your unique voice in a sea of people that do similar things (the Internet, if you didn't know, is truly vast).
+      </itunes:summary>
+      <content:encoded>
+        <![CDATA[
+        <p>So, get this - how many times did you have one of your tweets go viral? Now, how many times did a tweet go viral for a project that you built around something that you really enjoy? And out of those times - how many times did a tweet go viral because Lin-Manuel Miranda himself retweeted you? Can't say that I am a member of that club, but luckily I know someone who is - Shirley Wu. Shirley is, what I describe her as, a wizard of data visualizations. If you look through her work, you'll quickly realize that she's not just presenting the data, but rather paints a story around it. Whether it's for <a href="https://peopleofthepandemicgame.com/">people of the pandemic</a>, an <a href="https://pudding.cool/2017/03/hamilton/index.html">analysis of Hamilton lines</a> (that's the project I alluded to earlier), or a <a href="https://sxywu.github.io/">myriad of other projects</a>, her work is <em>truly</em> second to none.</p>
+        <p>In this interview, I wanted to learn more about what sparked her interest in this field, whether the sudden visibility was a reward for hard work or instead added more pressure to produce more highly-visible projects, and of course - how to find your unique voice in a sea of people that do similar things (the Internet, if you didn't know, is truly vast).</p>
+        <p>You can find Shirley on the following sites:</p>
+        <ul>
+        <li>🎨 <a href="https://www.shirleywu.studio/">Shirley Wu Studio</a></li>
+        <li>🦋 <a href="https://bsky.app/profile/shirleywu.studio">Bluesky</a></li>
+        <li>💼 <a href="https://www.linkedin.com/in/shirleyxywu/">LinkedIn</a></li>
+        <li>📸 <a href="https://www.instagram.com/shirleywu.studio/">Instagram</a></li>
+        </ul>
+        <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>.</p>
+        <h2 id="feedback">Feedback</h2>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        ]]>
+      </content:encoded>
+      <enclosure length="119084032" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S06E06.mp3" />
+      <guid isPermaLink="false">58b16143-5bff-4a36-857a-d0b7c02b9c66</guid>
+      <pubDate>Wed, 13 Aug 2025 18:21:52 GMT</pubDate>
+      <itunes:duration>2977</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>05</itunes:episode>
       <itunes:season>06</itunes:season>
       <title>#92 - You're Thinking Wrong About Your Career - Lenn Pryor (Executive Coach, Author)</title>
