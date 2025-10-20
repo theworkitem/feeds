@@ -30,6 +30,40 @@
     <itunes:keywords>technology,career,executive,tech,open-source,discussion,growth,entrepreneur,startups,science,ai,learning,founder,vp</itunes:keywords>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>07</itunes:episode>
+      <itunes:season>06</itunes:season>
+      <title>#94 - Exploiting Your Unfair Advantages - Shirley Wu (Shirley Wu Studio)</title>
+      <itunes:image href="https://cdn.theworkitem.com/art/episode-logos/s06e07.png" />
+      <description>
+        Shirley Wu is back-to-back on The Work Item - we previously talked about her unexpected career in data visualizations, but for this episode we're switching things up a little bit and instead focus on building long-term career advantages based on Shirley's experience. This is an especially important topic in the era of AI, where folks have a lot of uncertainty about their career tracks and what it means to build durable moats that can survive the industry being upended by new tools and approaches to getting things done. Shirley's experience is particularly relevant here as an independent studio owner - she's someone who has years of experience to lean on flying solo and seeing how one can establish their own reputation and image in the space.
+      </description>
+      <itunes:summary>
+        Shirley Wu is back-to-back on The Work Item - we previously talked about her unexpected career in data visualizations, but for this episode we're switching things up a little bit and instead focus on building long-term career advantages based on Shirley's experience. This is an especially important topic in the era of AI, where folks have a lot of uncertainty about their career tracks and what it means to build durable moats that can survive the industry being upended by new tools and approaches to getting things done. Shirley's experience is particularly relevant here as an independent studio owner - she's someone who has years of experience to lean on flying solo and seeing how one can establish their own reputation and image in the space.
+      </itunes:summary>
+      <content:encoded>
+        <![CDATA[
+        <p>Shirley Wu is back-to-back on The Work Item - <a href="/episodes/data-visualization-shirley-wu/"><strong>we previously talked</strong></a> about her unexpected career in data visualizations, but for this episode we're switching things up a little bit and instead focus on building long-term career advantages based on Shirley's experience. This is an especially important topic in the era of AI, where folks have a lot of uncertainty about their career tracks and what it means to build <a href="/episodes/career-moats-cedric-chin/"><strong>durable moats</strong></a> that can survive the industry being upended by new tools and approaches to getting things done.</p>
+        <p>Shirley's experience is <em>particularly</em> relevant here as an independent studio owner - she's someone who has years of experience to lean on flying solo and seeing how one can establish their own reputation and image in the space.</p>
+        <p>You can find Shirley on the following sites:</p>
+        <ul>
+        <li>🎨 <a href="https://www.shirleywu.studio/">Shirley Wu Studio</a></li>
+        <li>🦋 <a href="https://bsky.app/profile/shirleywu.studio">Bluesky</a></li>
+        <li>💼 <a href="https://www.linkedin.com/in/shirleyxywu/">LinkedIn</a></li>
+        <li>📸 <a href="https://www.instagram.com/shirleywu.studio/">Instagram</a></li>
+        </ul>
+        <p>The podcast was produced by <a href="https://den.dev">Den Delimarsky</a>.</p>
+        <h2 id="feedback">Feedback</h2>
+        <p>If you haven't already, make sure to subscribe to the show and leave a review or a rating, wherever you are getting your podcast. I really appreciate your feedback and am working to make this podcast more useful for you, the listener, with every episode. Ratings and feedback make it so others can easily discover and enjoy the insights you listen to here!</p>
+        ]]>
+      </content:encoded>
+      <enclosure length="145920000" type="audio/mpeg" url="https://cdn.theworkitem.com/audio/the-work-item-S06E07.mp3" />
+      <guid isPermaLink="false">9e358084-accd-4c4d-9c44-07d156264d3d</guid>
+      <pubDate>Mon, 20 Oct 2025 15:50:10 GMT</pubDate>
+      <itunes:duration>3647</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>06</itunes:episode>
       <itunes:season>06</itunes:season>
       <title>#93 - What's It Like To Be A Data Visualization Wizard - Shirley Wu (Shirley Wu Studio)</title>
